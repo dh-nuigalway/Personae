@@ -1,0 +1,645 @@
+<!doctype html>
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <title>Personae | A Character-Visualisation Tool for Dramatic Texts</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="favicon.ico">
+    
+    <meta name="description" content="A Character-Visualisation Tool for Dramatic Texts" />
+    
+    <link rel="schema.DC" href="http://purl.org/DC/elements/1.1/" title="Dublin Core Metadata Element Set, Version 1.1" />
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" title="DCMI Elements and DCMI Qualifiers" />
+    
+    <meta name="DC.title" lang="en" content="Personae"/>
+    <meta name="DC.description" lang="en" content="A Character-Visualisation Tool for Dramatic Texts"/>
+    <meta name="DC.creator" content="David Kelly" />
+    <meta name="DC.creator" content="Justin Tonra" />
+    <meta name="DC.creator" content="Lindsay Ann Reid" />
+    <meta name="DC.publisher" content="Moore Institute, NUI Galway" />
+    <meta name="DC.type" content="Text" />
+    <meta name="DC.format" content="text/html" />
+    <meta name="DC.rights" content ="NUI Galway. All rights reserved, 2016 "/>
+    <meta name="DC.copyright" content="NUI Galway, 2016 " />
+    <meta name="DC.coverage" content="Global" />
+    <meta name="DC.source" content="NUI Galway" />
+    <meta name="DC.language" content="en_IE" />
+        
+    <!-- Schema.org markup for Google+ --> 
+    <meta itemprop="name" content="Personae"> 
+    <meta itemprop="description" content="A Character-Visualisation Tool for Dramatic Texts"> 
+    <meta itemprop="image" content="http://www.davidkelly.ie/projects/personae/images/personae-social.png">
+    
+    <!-- Twitter Card data --> 
+    <meta name="twitter:card" content="summary_large_image"> 
+    <meta name="twitter:site" content="@moore_inst"> 
+    <meta name="twitter:title" content="Personae"> 
+    <meta name="twitter:description" content="A Character-Visualisation Tool for Dramatic Texts"> 
+    <meta name="twitter:creator" content="@davkell"> 
+    <meta name="twitter:creator" content="@jtonra"> 
+
+    <!-- Twitter summary card with large image must be at least 280x150px --> 
+    <meta name="twitter:image:src" content="http://www.davidkelly.ie/projects/personae/images/personae-social.png">
+    
+    <!-- Open Graph data --> 
+    <meta property="og:title" content="Personae" /> 
+    <meta property="og:type" content="article" /> 
+    <meta property="og:url" content="http://www.davidkelly.ie/projects/personae" />
+    <meta property="og:image" content="http://www.davidkelly.ie/projects/personae/images/personae-social.png" />
+    <meta property="og:description" content="A Character-Visualisation Tool for Dramatic Texts" /> 
+    <meta property="og:site_name" content="davidkelly.ie" /> 
+    <meta property="article:published_time" content="2016-07-29T00:00:00+01:00" /> 
+    <meta property="article:modified_time" content="2016-07-29T00:00:00+01:00" /> 
+    <meta property="article:section" content="Article Section" /> 
+    <meta property="article:tag" content="dataviz,shakespeare" /> 
+    <meta property="fb:admins" content="153906988351638" />
+    
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab:300" rel="stylesheet">
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
+
+    <script>
+      var aa = aa || {};
+    </script>
+  
+    <style type="text/css">
+      circle.outerCircle{fill: none; stroke: #777; stroke-dasharray: 1,4;}
+      circle.innerCircle{fill: none; stroke: #ddd;}
+      circle.mentionsCircle{fill: none; stroke: #777; stroke-dasharray: 1,4}
+    </style>
+  </head>
+  <body>
+    <!--[if lt IE 10]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+
+  <div id="top-wrapper">
+    <div class="container">
+      <div class="row">
+          <div id="banner" class="col-xs-6">
+            <h2>
+              <a href="https://nvs.commons.mla.org/2015/10/14/the-new-variorum-shakespeare-digital-challenge/" target="_blank">
+                NVS Digital Challenge Submission
+              </a>
+            </h2>
+          </div>
+          <div id="social" class="col-xs-6">
+            <ul class="list-inline pull-right">
+              <li>
+                  <a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+              </li>
+              <li>
+                  <div class="fb-like" data-href="http://www.davidkelly.ie/projects/personae" data-width="60" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+              </li>
+            </ul>
+          </div>
+      </div>
+    </div>
+  </div>
+
+    <div id="header-wrapper">
+      <header id="page-header" class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2">        
+          <h1>
+              Personæ      
+          </h1>
+          <h2>
+            A Character-Visualisation Tool for Dramatic Texts      
+          </h2>
+          <p class="help-block" style="text-align: center; margin-top: 2em;">
+            <a target="_blank" href="http://www.davidkelly.ie">David Kelly</a>, <a target="_blank" href="http://www.nuigalway.ie/our-research/people/humanities/justintonra/">Justin Tonra</a> and <a target="_blank" href="http://www.nuigalway.ie/our-research/people/humanities/lindsayreid/">Lindsay Ann Reid</a> at the <a target="_blank" href="http://www.nuigalway.ie/mooreinstitute">Moore Institute</a>, <a target="_blank" href="http://www.nuigalway.ie">NUI Galway</a> &#8212; July 2016.
+          </p>          
+        </div>
+      </header>
+    </div>
+  
+  <div id="blurb-wrapper" class="text-outer-wrap">
+    <div class="container" id="blurb">
+      <div class="row">
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+          <p style="text-align: center;">
+            The aim of these visualisations is to use the XML files from the New Variorum Shakespeare edition of <em>The Comedy of Errors</em> to create a resource for exploring patterns of speeches by and mentions of characters in Shakespeare's work. Visualising the frequency, extent, and position of dialogue relating to a particular character presents users with a simple and immediate measure of that character’s prominence within the play. The tool enables users to select and visualise individual characters’ involvement, producing a novel means of exploring large-scale structural, narrative, or character-focused patterns within the text.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container hidden-sm hidden-md hidden-lg">
+    
+    <div class="col-xs-12">
+      <div class="alert alert-warning">
+      <h4>Notice for Smaller Screen Sizes</h4>
+      <p>
+        The structure and type of interaction required by this visualisation means
+        it will not display as intended on mobile devices or those with smaller screens.
+      </p>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="interactive-map-wrapper" class="vis-outer-wrap">
+    <div class="container-fluid">
+      <div class="row">
+          <div class="vis-wrap col-xs-10 col-xs-offset-1">
+            <header class="col-md-8 col-md-offset-2" style="padding-bottom: 1em;">
+              <h2>Personæ</h2>
+              <p>
+                A Character-Visualisation Tool for Dramatic Texts
+              </p>
+            </header>
+            <div class="clearfix"></div>
+            
+
+            <div class="col-xs-12 col-md-2" id="speaker-list">
+              <div class="well">
+                <h5>Highlight Speakers</h5>
+                <form class="form-horizontal">
+
+                </form>
+                <div class="clearfix"></div>
+                <small> 
+                  <a href="#" id="toggle-filters" class="pull-right">
+                    Toggle Checkboxes
+                  </a>
+                </small>
+                <div class="clearfix"></div>
+              </div>
+            </div>
+
+            <div class="col-xs-12 col-md-10">
+              <div id="mentions-timeline-circle" style="width: 100%; min-height: 900px;"></div>
+            </div>
+
+            <div class="clearfix"></div>
+            <footer  class="col-xs-12 col-md-6 col-md-offset-3" style="padding-top: 1em;">          
+              <p>
+                  <small>
+                    Select a character from the menu above, and the visualisation will highlight their speeches in the outer ring. Mouse over the highlighted circles to identify the line number at which a particular speech begins. Characters mentioned in speeches are identified in the inner ring. Mouse over these to identify the character mentioned, the speaker, and the line number.
+                  </small>
+              </p>
+            </footer>
+          </div>
+        </div>        
+    </div>
+  </div>
+
+  <div id="method-wrapper" class="text-outer-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+            <h3>Value of the Tool</h3>
+            
+            <p>
+              This tool is intended to facilitate character-based analysis and reveal structural patterns at the scale of the play. It is primarily exploratory, and is designed to allow users to customise the visualisation according to their particular interests or to follow a more speculative and disinterested reading of the play’s character-based features. 
+            </p>
+            <p>
+              This deliberate aim emerged from the heuristic development process described below, and a desire to produce an extensible exploratory tool for dramatic texts. From an initial focus on using digital tools to visualise the tangling and disentangling of character names and identities in <em>The Comedy of Errors</em>, our interest broadened into exploring the potential for using character data to visualise larger structural and narrative patterns.
+            </p>  
+            <p>
+              We were also motivated by the use of network analysis and visualisation for Shakespearean scholarship, including work by <a href="http://www.martingrandjean.ch/network-visualization-shakespeare/" target="_blank">Grandjean</a>, <a href="https://newleftreview.org/II/68/franco-moretti-network-theory-plot-analysis" target="_blank">Moretti</a>, and <a href="http://www.ncbi.nlm.nih.gov/pubmed/26190273" target="_blank">Stiller, et al</a>. These analyses are similarly character-based and have yielded many interesting insights. But in the reduction of the textual data to nodes and edges (characters and their interactions), network analysis has obscured the temporal. By preserving characters’ locations within the space of the text, this tool enables analysis of the dramatic time and structural duration of the play.
+            </p>
+            <p>
+              Moreover, a major part of the tool’s value is its extensibility. It may be used to create character visualisations for any play which is XML-encoded according to quite minimal specifications, and offer the opportunity to undertake comparative analysis of structural, narrative, and character-based patterns in different plays. 
+            </p>
+            <p>
+              As a point of contrast, we have generated a <a href="wt.html">second visualisation for <em>The Winter’s Tale</em></a> from the code initially developed for <em>The Comedy of Errors</em>.
+            </p>
+            
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div id="interactive-map-wrapper" class="vis-outer-wrap">
+    <div class="container-fluid">
+      <div class="row">
+          <div class="vis-wrap col-xs-10 col-xs-offset-1">
+            <header class="col-md-8 col-md-offset-2" style="padding-bottom: 1em;">
+
+              <h3>Speakers</h3>
+
+              <ul id="speaker-chart-selection" class="nav nav-pills pull-right">
+                <li class="active">
+                  <a href="#" id="speaking">
+                    Times Characters Speak
+                  </a>
+                </li>
+                <li>
+                  <a href="#" id="lines">
+                    Lines per Character
+                  </a>
+                </li>
+              </ul>
+
+            </header>
+            <div class="clearfix"></div>
+            
+
+            <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+              <div id="speakers-volume" style="width: 100%; min-height: 400px;"></div>
+            </div>
+
+            <div class="clearfix"></div>
+
+             <footer  class="col-xs-12 col-md-6 col-md-offset-3" style="padding-top: 1em;">          
+              <p>
+                  This graph quantifies the data that is visualised in the Personæ tool. In addition to detailing the number of individual speeches assigned to each character, it enumerates the total lines spoken by the characters.
+              </p>
+            </footer>
+            
+           
+          </div>
+        </div>        
+    </div>
+  </div>
+
+
+
+
+
+
+  <div id="method-wrapper" class="text-outer-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+            <h2>Development Process</h2>
+            <p>
+              Personæ developed from a fixed and static visualisation of <em>The Comedy of Errors</em> to a more interactive and exploratory tool. In the heuristic spirit of the tool itself, we present here its various iterations, the stages of its development, and the motivations for various changes to its design and functionality throughout the process.
+            </p>
+            
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+
+  <div class="vis-outer-wrap">
+    <div class="container-fluid">
+      <div class="row">
+          <div class="vis-wrap col-xs-10 col-xs-offset-1">
+            <header class="col-md-8 col-md-offset-2" style="padding-bottom: 1em;">
+              <h3>First Version</h3>
+              <p>
+                A timeline-based visualisation of stage entrances, speakers, names mentioned, and stage exits
+              </p>
+            </header>
+            <div class="clearfix"></div>
+            
+
+            <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2">
+              <ul id="act-tabs" class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active"><a href="#act-1-wrap" aria-controls="act-1-wrap" role="tab" data-toggle="tab" data-visactive="act-1" data-act="1">Act 1</a></li>
+                <li role="presentation"><a href="#act-2-wrap" aria-controls="act-2-wrap" role="tab" data-toggle="tab" data-visactive="act-2" data-act="2">Act 2</a></li>
+                <li role="presentation"><a href="#act-3-wrap" aria-controls="act-3-wrap" role="tab" data-toggle="tab" data-visactive="act-3" data-act="3">Act 3</a></li>
+                <li role="presentation"><a href="#act-4-wrap" aria-controls="act-4-wrap" role="tab" data-toggle="tab" data-visactive="act-4" data-act="4">Act 4</a></li>
+                <li role="presentation"><a href="#act-5-wrap" aria-controls="act-5-wrap" role="tab" data-toggle="tab" data-visactive="act-5" data-act="5">Act 5</a></li>
+              </ul>
+
+              <!-- Tab panes -->
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane fade in active" id="act-1-wrap">
+                  <div id="act-1" style="width: 100%; min-height: 750px;"></div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="act-2-wrap">
+                  <div id="act-2" style="width: 100%; min-height: 750px;"></div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="act-3-wrap">
+                  <div id="act-3" style="width: 100%; min-height: 750px;"></div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="act-4-wrap">
+                  <div id="act-4" style="width: 100%; min-height: 750px;"></div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="act-5-wrap">
+                  <div id="act-5" style="width: 100%; min-height: 750px;"></div>
+                </div>
+                         
+              </div> 
+            </div>
+
+            <div class="clearfix"></div>
+           
+          </div>
+        </div>        
+    </div>
+  </div>
+
+  <div class="text-outer-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+            <h3>From the First to the Second Iteration</h3>
+             <p>
+                Personæ’s focus on character and temporal visualisation is present in the first iteration of the tool. Speeches and mentions are plotted along a timeline, with a tabular view switching between the five acts of the play. All speeches and mentions are colour-coded, resulting in some interesting patterns and densities at certain parts of the text, but lacking the facility for isolating chosen characters. In addition, the tabular view of the five acts lacked the desirable holistic view of the entire play.
+              </p>            
+              <p>
+                Another difficulty for development at this point was posed by the lack of a consistent identifier for characters in the XML file. This provided a challenge to the task of matching, for example, a speech by Adriana and a mention of Adriana, and would require manual intervention to resolve.   
+              </p>
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+  <div class="vis-outer-wrap">
+    <div class="container-fluid">
+      <div class="row">
+          <div class="vis-wrap col-xs-10 col-xs-offset-1">
+            <header class="col-md-8 col-md-offset-2" style="padding-bottom: 1em;">
+              <h3>Second Version - A Focus on the Twins</h3>
+              <p>
+                Highlighting when the twins speak
+              </p>
+            </header>
+            <div class="clearfix"></div>
+            
+
+            
+              <div id="full-timeline-circle" style="width: 100%; min-height: 800px;"></div>
+            
+
+            <div class="clearfix"></div>
+           
+          </div>
+        </div>        
+    </div>
+  </div>
+
+  <div class="text-outer-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+            <h3>Expanding the Second Iteration</h3>
+             <p>
+                The second iteration of the tool adopted the circular layout of the tool to plot character involvement across the entire play. At this point, the tool was still static, and its focus on the two pairs of twins in <em>The Comedy of Errors</em> represented a desire to deploy visualisation for a particular exploratory purpose. The play operates on the basis of identity and confusion, as Antipholus and Dromio of Syracuse are mistaken for their Ephesian counterparts, and vice versa. Our aim was to plot the speeches of these four characters to see if the visualisation revealed any insights into how the identity question was introduced and managed at a structural level.
+              </p>
+
+              <p>
+                Indeed, the visualisation presents several clustered scenes of engagement between the pairs of twins through which various errors and misunderstandings are played out. The tell-tale single appearance of Dromio of Syracuse’s orange marker in Act 1, Scene 2 precisely represents the beginnings of the error and confusion: “What now? How chance thou art returned so soon?”
+              </p>
+              <p>
+                As useful as this view of the play proved, we felt at this point that a more dynamic and interactive interface was required to allow users to test hypotheses like our own, or to undertake more exploratory and experimental visualisations of the data. The character-selection menu and the scene-divisions in the outer ring were thus added in the final stage of development.
+              </p>
+              <p>
+                An additional development in the second iteration of the tool was the geographical mapping of locations mentioned in the play. <em>The Comedy of Errors</em> is known for including the only mention of America in Shakespeare’s plays, among several other placenames in its text. In some respects, this visualisation gives a false impression of <em>The Comedy of Errors</em> as a worldly play. While eighteen locations are mentioned in the text, several of these are ironically located by Dromio of Syracuse on Nell the kitchen-maid’s body, because “she is sphericall, like a globe: I could find out / Countries in her” (Act 3, Scene 2).
+              </p>
+       
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+  <div id="interactive-map-wrapper" class="vis-outer-wrap">
+    <div class="container-fluid">
+      <div class="row">
+          <div class="vis-wrap col-xs-10 col-xs-offset-1">
+            <header class="col-md-8 col-md-offset-2" style="padding-bottom: 1em;">
+              <h3>Second Version - The Geography of the Play</h3>
+              <p>
+                Visualising the geographic locations mentioned in the text
+              </p>
+            </header>
+            <div class="clearfix"></div>
+            
+
+              <div id="location-map" style="width: 100%; min-height: 450px;"></div>
+            
+
+            <div class="clearfix"></div>
+           
+          </div>
+        </div>        
+    </div>
+  </div>
+
+
+
+  <div class="text-outer-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+            <h2>Conclusion</h2>
+             <p>
+                The trajectory of Personæ’s development from fixity to interactivity represents a conclusion that we drew in the course of this project: that a visualisation tool developed for a particular purpose need not be confined to its use for that purpose. The modular and open-source principles of software development have contributed to a rich and fruitful habit of sharing within the field of Digital Humanities, and we hope that others will build upon the tool that we have developed here. 
+              </p>
+              <p>
+                The code used to create this project is available to download and contribute to at <a href="https://github.com/dh-nuigalway/personae" target="_blank">https://github.com/dh-nuigalway/personae</a>
+              </p>
+              <p>
+                Indeed, we have plans for further developments and improvements to Personæ, and one or two comments about the NVS’s encoding. The focus on variation emphasised in the edition’s title has resulted in rich and deep encoding of this feature across the publication history of Shakespeare, and the scope for using this data is extensive. The scope of NVS’s focus naturally precludes extensive encoding of different features of the text, but in the interests of contributing to the enrichment of the resource, we humbly submit two suggestions which would have expedited our development of this tool: unique identifiers shared by <code>&lt;speaker&gt;</code> and <code>&lt;name&gt;</code> elements, and the use of <code>&lt;placeName&gt;</code> to distinguish persons from places.
+
+              </p>            
+          </div>
+        </div>
+      </div>
+  </div>
+
+
+
+  <div id="footer-wrapper">
+      <div class="container">
+
+        <div class="footer row">
+          <div class="col-xs-12 col-sm-6">
+          <p>
+            <strong>Sources:</strong>
+          </p>
+          <ul>
+            <li>
+              <small>
+                The code used for this project is available from: 
+                <a href="https://github.com/dh-nuigalway/personae">
+                  https://github.com/dh-nuigalway/personae
+                </a>.
+              </small>
+            </li>
+            <li>
+              <small>
+                The XML files used are available from: 
+                <a href="https://github.com/mlaa/nvs-challenge">
+                  https://github.com/mlaa/nvs-challenge
+                </a>.
+              </small>
+            </li>
+            <li>
+              <small>
+                Visualisations were produced using the
+                <a href="http://d3js.org">D3</a> JavaScript library
+              </small>.
+            </li>           
+            <li>
+              <small>
+                Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery by <a href="http://cartodb.com">CARTO</a>,
+                built on <a href="http://leafletjs.com">Leaflet.js</a>              
+              </small>
+            </li> 
+          </ul>
+           
+          </div>
+
+          <div class="col-xs-12 col-sm-6 col-md-4 col-md-offset-2" id="credit">
+            <p>
+              Created by <a href="http://www.davidkelly.ie">David Kelly</a> (<a href="http://twitter.com/davkell">@davkell</a>), <a href="http://www.nuigalway.ie/our-research/people/humanities/justintonra/">Justin Tonra</a> (<a href="http://twitter.com/jtonra">@jtonra</a>) and <a href="http://www.nuigalway.ie/our-research/people/humanities/lindsayreid/">Lindsay Ann Reid</a> at the <a href="http://www.nuigalway.ie/mooreinstitute">Moore Institute</a>, <a href="http://www.nuigalway.ie">NUI Galway</a>, Ireland.
+            </p>
+            <p>
+              Updated: 29 July, 2016
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div id="galway-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12" style="text-align: center; font-size: .9em;">
+            <ul class="list-inline">
+              <li>
+                <a href="http://www.mooreinstitute.ie">
+                  <img src="images/logo-moore.png" alt="Moore Institute" />
+                </a>
+              </li>
+              <li>
+                <a href="http://www.nuigalway.ie">
+                  <img src="images/logo-nuigalway-footer.png" alt="National University of Ireland, Galway" />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+      <script src="js/vendor.min.js"></script>
+      <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
+      <script src="js/tip.js"></script>
+        
+      <script src="js/personae.min.js"></script>
+      <script>
+        $(document).ready(function(){
+           /*
+        Grab the data and manage the drawing
+        process...
+         */
+        d3.queue()
+                .defer(d3.json, 'data/coe-castlist.json')
+                .defer(d3.json, 'data/coe-people.json')
+                .defer(d3.json, 'data/coe-metrics.json')
+                .defer(d3.json, 'data/coe-scenes.json')                
+
+                // .defer(d3.json, 'data/wt-castlist.json')
+                // .defer(d3.json, 'data/wt-people.json')
+                // .defer(d3.json, 'data/wt-metrics.json')
+                // .defer(d3.json, 'data/wt-scenes.json')
+                .await(function(err, castlist, people, metrics, scenes){
+
+                    if(err){
+                        throw err;
+                    }
+
+                    // ------------------------
+                    // Filter checkboxes
+                    // ------------------------
+                    var html = '';
+                    _.each(castlist, function(castItem){
+                        html += '<div class="checkbox"><label><input type="checkbox" class="speaker-filter" value="'+ castItem.id +'">' + castItem.name + '</label></div>';        
+                    });
+
+                    $('#speaker-list form').html(html);
+
+
+                    Personae.playTitle = "The Comedy of Errors";
+                    Personae.castList = castlist;
+                    Personae.playData = people;
+                    Personae.sceneData = scenes;
+                    Personae.metricsData = metrics;
+
+                    // ------------------------
+                    //  Draw Visualisations
+                    // ------------------------
+                    // version 1
+                    Personae.drawTimeline('act-1', '1');
+                    // version 2
+                    Personae.drawTimelineCircle();
+                    
+                    // version 3
+                    Personae.drawTimelineMentionsCircle();
+
+                    // ------------------------
+                    // Chart Metrics 
+                    // ------------------------
+                    Personae.chart(); 
+
+                });
+              });
+
+
+        d3.csv('data/coe-locations.csv', function(d) {
+          return {
+            name: d.name,
+            latitude: +d.latitude,
+            longitude: +d.longitude,
+            number_mentions: +d.number_mentions
+          };
+        }, function(err, rows) {  
+          if(err){
+            throw err;
+          }
+
+          Personae.mapLocations(rows);
+          
+        });
+      </script>
+
+
+      <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-3110839-2');ga('send','pageview');
+    </script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId      : '153906988351638',
+            xfbml      : true,
+            version    : 'v2.6'
+          });
+        };
+
+        (function(d, s, id){
+           var js, fjs = d.getElementsByTagName(s)[0];
+           if (d.getElementById(id)) {return;}
+           js = d.createElement(s); js.id = id;
+           js.src = "//connect.facebook.net/en_US/sdk.js";
+           fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+      </script>
+
+
+      <!-- Start of StatCounter Code -->
+      <script type="text/javascript">
+      var sc_project=4276123; 
+      var sc_invisible=1; 
+      var sc_partition=46; 
+      var sc_click_stat=1; 
+      var sc_security="08a27b81"; 
+      </script>
+
+      <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><img class="statcounter" src="http://c.statcounter.com/4276123/0/08a27b81/1/" alt="free web stats" /></noscript>
+       <!-- End of StatCounter Code -->
+        
+</body>
+</html>

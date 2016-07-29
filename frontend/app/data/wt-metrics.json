@@ -1,0 +1,3737 @@
+[
+    {
+        "line_count": 4.0, 
+        "person": "Archidamus", 
+        "start_line": 3
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 8
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Archidamus", 
+        "start_line": 11
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 13
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Archidamus", 
+        "start_line": 14
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 20
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Archidamus", 
+        "start_line": 22
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Camillo", 
+        "start_line": 24
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Archidamus", 
+        "start_line": 35
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Camillo", 
+        "start_line": 39
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Archidamus", 
+        "start_line": 43
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 44
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Archidamus", 
+        "start_line": 46
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Polixenes", 
+        "start_line": 50
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 59
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Polixenes", 
+        "start_line": 61
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 67
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 69
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 70
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 71
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 72
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Polixenes", 
+        "start_line": 74
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 83
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Hermione", 
+        "start_line": 84
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 90
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Hermione", 
+        "start_line": 91
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 102
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 103
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 104
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Hermione", 
+        "start_line": 105
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Polixenes", 
+        "start_line": 116
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Hermione", 
+        "start_line": 120
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Polixenes", 
+        "start_line": 124
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Hermione", 
+        "start_line": 128
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Polixenes", 
+        "start_line": 130
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Hermione", 
+        "start_line": 139
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Polixenes", 
+        "start_line": 141
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Hermione", 
+        "start_line": 146
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 153
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 154
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 155
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 158
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 159
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Hermione", 
+        "start_line": 160
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 172
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Hermione", 
+        "start_line": 177
+    }, 
+    {
+        "line_count": 12.0, 
+        "person": "Leontes", 
+        "start_line": 181
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 194
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Leontes", 
+        "start_line": 195
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 203
+    }, 
+    {
+        "line_count": 18.0, 
+        "person": "Leontes", 
+        "start_line": 204
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 223
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 224
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 225
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 226
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Hermione", 
+        "start_line": 227
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Leontes", 
+        "start_line": 229
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 241
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 242
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Polixenes", 
+        "start_line": 245
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Leontes", 
+        "start_line": 252
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Hermione", 
+        "start_line": 259
+    }, 
+    {
+        "line_count": 28.0, 
+        "person": "Leontes", 
+        "start_line": 261
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 290
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 291
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 293
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 294
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 296
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 298
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 299
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 301
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 306
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Leontes", 
+        "start_line": 307
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 315
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 317
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 318
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 319
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 320
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Leontes", 
+        "start_line": 322
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 331
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Leontes", 
+        "start_line": 332
+    }, 
+    {
+        "line_count": 18.0, 
+        "person": "Camillo", 
+        "start_line": 340
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Leontes", 
+        "start_line": 359
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 371
+    }, 
+    {
+        "line_count": 12.0, 
+        "person": "Leontes", 
+        "start_line": 377
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 390
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 393
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 394
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Leontes", 
+        "start_line": 395
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 403
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Leontes", 
+        "start_line": 404
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Camillo", 
+        "start_line": 416
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 423
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Camillo", 
+        "start_line": 433
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 440
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 443
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 449
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 452
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 453
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Camillo", 
+        "start_line": 454
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Polixenes", 
+        "start_line": 468
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 471
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 472
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 473
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Polixenes", 
+        "start_line": 474
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 482
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Polixenes", 
+        "start_line": 483
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Camillo", 
+        "start_line": 491
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Polixenes", 
+        "start_line": 495
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 506
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Polixenes", 
+        "start_line": 507
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 516
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 522
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 523
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 524
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 525
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 526
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Camillo", 
+        "start_line": 527
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Polixenes", 
+        "start_line": 531
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Camillo", 
+        "start_line": 539
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 547
+    }, 
+    {
+        "line_count": 14.0, 
+        "person": "Camillo", 
+        "start_line": 548
+    }, 
+    {
+        "line_count": 16.0, 
+        "person": "Polixenes", 
+        "start_line": 563
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 580
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Hermione", 
+        "start_line": 586
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Ladies", 
+        "start_line": 588
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 590
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Ladies", 
+        "start_line": 591
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mamillus", 
+        "start_line": 592
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Ladies", 
+        "start_line": 594
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Mamillus", 
+        "start_line": 595
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Ladies", 
+        "start_line": 600
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mamillus", 
+        "start_line": 601
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Ladies", 
+        "start_line": 603
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mamillus", 
+        "start_line": 604
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Ladies", 
+        "start_line": 606
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Ladies", 
+        "start_line": 611
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Hermione", 
+        "start_line": 613
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 616
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 617
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mamillus", 
+        "start_line": 618
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Hermione", 
+        "start_line": 620
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mamillus", 
+        "start_line": 623
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 624
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mamillus", 
+        "start_line": 625
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 627
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 628
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Lords", 
+        "start_line": 630
+    }, 
+    {
+        "line_count": 17.0, 
+        "person": "Leontes", 
+        "start_line": 633
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Lords", 
+        "start_line": 651
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 654
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 658
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 659
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Hermione", 
+        "start_line": 663
+    }, 
+    {
+        "line_count": 14.0, 
+        "person": "Leontes", 
+        "start_line": 666
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Hermione", 
+        "start_line": 681
+    }, 
+    {
+        "line_count": 14.0, 
+        "person": "Leontes", 
+        "start_line": 685
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Hermione", 
+        "start_line": 700
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Leontes", 
+        "start_line": 706
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Hermione", 
+        "start_line": 712
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 723
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Hermione", 
+        "start_line": 724
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 733
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 734
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 735
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Lords", 
+        "start_line": 738
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Antigonus", 
+        "start_line": 743
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 750
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 751
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Antigonus", 
+        "start_line": 752
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 763
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Antigonus", 
+        "start_line": 768
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 772
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Lords", 
+        "start_line": 773
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 777
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 787
+    }, 
+    {
+        "line_count": 15.0, 
+        "person": "Leontes", 
+        "start_line": 790
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 806
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 807
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Antigonus", 
+        "start_line": 817
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Paulina", 
+        "start_line": 821
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Gaoler", 
+        "start_line": 826
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 828
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Gaoler", 
+        "start_line": 830
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 832
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Gaoler", 
+        "start_line": 835
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 838
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Gaoler", 
+        "start_line": 840
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 842
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Emilia", 
+        "start_line": 846
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Paulina", 
+        "start_line": 850
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Emilia", 
+        "start_line": 851
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Paulina", 
+        "start_line": 855
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Emilia", 
+        "start_line": 869
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 879
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Emilia", 
+        "start_line": 883
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Gaoler", 
+        "start_line": 885
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Paulina", 
+        "start_line": 888
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Gaoler", 
+        "start_line": 894
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 895
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Leontes", 
+        "start_line": 900
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Servants", 
+        "start_line": 909
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 910
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Servants", 
+        "start_line": 911
+    }, 
+    {
+        "line_count": 14.0, 
+        "person": "Leontes", 
+        "start_line": 913
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 929
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 930
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Antigonus", 
+        "start_line": 934
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Servants", 
+        "start_line": 935
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Paulina", 
+        "start_line": 937
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 945
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 946
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 948
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 952
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 955
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 956
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 960
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Paulina", 
+        "start_line": 963
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 970
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 971
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 975
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Paulina", 
+        "start_line": 976
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 981
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Paulina", 
+        "start_line": 984
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 989
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 994
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 998
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 999
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1001
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Antigonus", 
+        "start_line": 1002
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Paulina", 
+        "start_line": 1003
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Leontes", 
+        "start_line": 1012
+    }, 
+    {
+        "line_count": 12.0, 
+        "person": "Paulina", 
+        "start_line": 1018
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 1031
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 1034
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1037
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 1038
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1040
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Paulina", 
+        "start_line": 1041
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 1049
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Paulina", 
+        "start_line": 1053
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Leontes", 
+        "start_line": 1059
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 1071
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Lords", 
+        "start_line": 1074
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1076
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Lords", 
+        "start_line": 1077
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 1084
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Antigonus", 
+        "start_line": 1094
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 1099
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Antigonus", 
+        "start_line": 1101
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Leontes", 
+        "start_line": 1102
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Antigonus", 
+        "start_line": 1116
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 1125
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Servants", 
+        "start_line": 1127
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Lords", 
+        "start_line": 1132
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 1134
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Cleomines", 
+        "start_line": 1146
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Dion", 
+        "start_line": 1149
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Cleomines", 
+        "start_line": 1155
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Dion", 
+        "start_line": 1159
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Cleomines", 
+        "start_line": 1163
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Dion", 
+        "start_line": 1167
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Leontes", 
+        "start_line": 1176
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Officers", 
+        "start_line": 1184
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1186
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Officers", 
+        "start_line": 1187
+    }, 
+    {
+        "line_count": 32.0, 
+        "person": "Hermione", 
+        "start_line": 1196
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 1229
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Hermione", 
+        "start_line": 1233
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1235
+    }, 
+    {
+        "line_count": 17.0, 
+        "person": "Hermione", 
+        "start_line": 1236
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 1254
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Hermione", 
+        "start_line": 1256
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 1260
+    }, 
+    {
+        "line_count": 25.0, 
+        "person": "Hermione", 
+        "start_line": 1270
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Lords", 
+        "start_line": 1296
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Hermione", 
+        "start_line": 1299
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Officers", 
+        "start_line": 1304
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Cleomines #Dion", 
+        "start_line": 1311
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1312
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Officers", 
+        "start_line": 1313
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 1317
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Hermione", 
+        "start_line": 1318
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1319
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Officers", 
+        "start_line": 1320
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 1321
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Servants", 
+        "start_line": 1323
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1324
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Servants", 
+        "start_line": 1325
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 1328
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Servants", 
+        "start_line": 1329
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 1330
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 1332
+    }, 
+    {
+        "line_count": 23.0, 
+        "person": "Leontes", 
+        "start_line": 1334
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 1358
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 1361
+    }, 
+    {
+        "line_count": 27.0, 
+        "person": "Paulina", 
+        "start_line": 1362
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Lords", 
+        "start_line": 1390
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Paulina", 
+        "start_line": 1391
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 1403
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Lords", 
+        "start_line": 1406
+    }, 
+    {
+        "line_count": 14.0, 
+        "person": "Paulina", 
+        "start_line": 1409
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Leontes", 
+        "start_line": 1424
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Antigonus", 
+        "start_line": 1439
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Mariner", 
+        "start_line": 1441
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Antigonus", 
+        "start_line": 1446
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Mariner", 
+        "start_line": 1449
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Antigonus", 
+        "start_line": 1453
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mariner", 
+        "start_line": 1455
+    }, 
+    {
+        "line_count": 43.0, 
+        "person": "Antigonus", 
+        "start_line": 1457
+    }, 
+    {
+        "line_count": 19.0, 
+        "person": "OldShepheard", 
+        "start_line": 1501
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1521
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "OldShepheard", 
+        "start_line": 1522
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Clowne", 
+        "start_line": 1525
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 1529
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Clowne", 
+        "start_line": 1530
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 1544
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 1545
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 1548
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1550
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "OldShepheard", 
+        "start_line": 1552
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 1559
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "OldShepheard", 
+        "start_line": 1562
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Clowne", 
+        "start_line": 1567
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "OldShepheard", 
+        "start_line": 1571
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1574
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 1576
+    }, 
+    {
+        "line_count": 31.0, 
+        "person": "Time", 
+        "start_line": 1580
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Polixenes", 
+        "start_line": 1614
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 1617
+    }, 
+    {
+        "line_count": 18.0, 
+        "person": "Polixenes", 
+        "start_line": 1623
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Camillo", 
+        "start_line": 1642
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Polixenes", 
+        "start_line": 1647
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 1654
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Polixenes", 
+        "start_line": 1657
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 1665
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 1666
+    }, 
+    {
+        "line_count": 31.0, 
+        "person": "Autolicus", 
+        "start_line": 1668
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 1701
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 1704
+    }, 
+    {
+        "line_count": 12.0, 
+        "person": "Clowne", 
+        "start_line": 1705
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 1718
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1719
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 1720
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1722
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 1724
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1727
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 1729
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1732
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 1733
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Clowne", 
+        "start_line": 1734
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 1738
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1739
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 1740
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1742
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 1743
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1745
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Autolicus", 
+        "start_line": 1747
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1752
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Autolicus", 
+        "start_line": 1754
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 1759
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Autolicus", 
+        "start_line": 1762
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1769
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 1771
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 1773
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 1776
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1778
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 1779
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1782
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 1783
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1784
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Autolicus", 
+        "start_line": 1786
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Florizell", 
+        "start_line": 1798
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Perdita", 
+        "start_line": 1803
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 1813
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Perdita", 
+        "start_line": 1816
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Florizell", 
+        "start_line": 1825
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Perdita", 
+        "start_line": 1837
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Florizell", 
+        "start_line": 1843
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Perdita", 
+        "start_line": 1855
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 1857
+    }, 
+    {
+        "line_count": 15.0, 
+        "person": "OldShepheard", 
+        "start_line": 1860
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Perdita", 
+        "start_line": 1876
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Polixenes", 
+        "start_line": 1884
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Perdita", 
+        "start_line": 1887
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 1894
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Perdita", 
+        "start_line": 1896
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Polixenes", 
+        "start_line": 1899
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Perdita", 
+        "start_line": 1909
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 1910
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Perdita", 
+        "start_line": 1912
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 1922
+    }, 
+    {
+        "line_count": 19.0, 
+        "person": "Perdita", 
+        "start_line": 1924
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 1944
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Perdita", 
+        "start_line": 1945
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Florizell", 
+        "start_line": 1951
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Perdita", 
+        "start_line": 1963
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Florizell", 
+        "start_line": 1969
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Perdita", 
+        "start_line": 1974
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Polixenes", 
+        "start_line": 1975
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 1979
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 1982
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Dorcas", 
+        "start_line": 1983
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mopsa", 
+        "start_line": 1985
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 1986
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 1990
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "OldShepheard", 
+        "start_line": 1992
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2001
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "OldShepheard", 
+        "start_line": 2002
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Servants", 
+        "start_line": 2006
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Clowne", 
+        "start_line": 2012
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Servants", 
+        "start_line": 2016
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2026
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2027
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Servants", 
+        "start_line": 2029
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2036
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Perdita", 
+        "start_line": 2038
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2040
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Perdita", 
+        "start_line": 2042
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Autolicus", 
+        "start_line": 2044
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 2056
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mopsa", 
+        "start_line": 2059
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Dorcas", 
+        "start_line": 2061
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Mopsa", 
+        "start_line": 2063
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Clowne", 
+        "start_line": 2066
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mopsa", 
+        "start_line": 2072
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2074
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2076
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2078
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2079
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2081
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mopsa", 
+        "start_line": 2082
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Autolicus", 
+        "start_line": 2084
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mopsa", 
+        "start_line": 2088
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2089
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2090
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2091
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mopsa", 
+        "start_line": 2094
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2095
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Autolicus", 
+        "start_line": 2097
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2104
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2105
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2107
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2108
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mopsa", 
+        "start_line": 2109
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2110
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mopsa", 
+        "start_line": 2113
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2115
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2116
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2119
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2120
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mopsa", 
+        "start_line": 2121
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2122
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mopsa", 
+        "start_line": 2123
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2125
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Mopsa", 
+        "start_line": 2126
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2127
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2128
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2129
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2130
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Dorcas", 
+        "start_line": 2131
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Mopsa", 
+        "start_line": 2132
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Clowne", 
+        "start_line": 2134
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Autolicus", 
+        "start_line": 2138
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Servants", 
+        "start_line": 2145
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "OldShepheard", 
+        "start_line": 2153
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 2156
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Servants", 
+        "start_line": 2158
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2161
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Servants", 
+        "start_line": 2163
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Polixenes", 
+        "start_line": 2165
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Florizell", 
+        "start_line": 2179
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Polixenes", 
+        "start_line": 2189
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2194
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2195
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Florizell", 
+        "start_line": 2196
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2205
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 2206
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2207
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Perdita", 
+        "start_line": 2209
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "OldShepheard", 
+        "start_line": 2213
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Florizell", 
+        "start_line": 2217
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2222
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 2224
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2226
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2227
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2228
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Polixenes", 
+        "start_line": 2229
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 2238
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Polixenes", 
+        "start_line": 2241
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Florizell", 
+        "start_line": 2248
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2252
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2253
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 2254
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2255
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2256
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2258
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Polixenes", 
+        "start_line": 2260
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2268
+    }, 
+    {
+        "line_count": 16.0, 
+        "person": "Polixenes", 
+        "start_line": 2269
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Perdita", 
+        "start_line": 2286
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 2296
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "OldShepheard", 
+        "start_line": 2298
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Florizell", 
+        "start_line": 2310
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Camillo", 
+        "start_line": 2315
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2322
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 2324
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Perdita", 
+        "start_line": 2325
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Florizell", 
+        "start_line": 2328
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 2334
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Florizell", 
+        "start_line": 2335
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 2339
+    }, 
+    {
+        "line_count": 18.0, 
+        "person": "Florizell", 
+        "start_line": 2340
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 2359
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2362
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Camillo", 
+        "start_line": 2364
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 2371
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 2374
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Florizell", 
+        "start_line": 2377
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Camillo", 
+        "start_line": 2381
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Florizell", 
+        "start_line": 2395
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 2399
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Florizell", 
+        "start_line": 2401
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Camillo", 
+        "start_line": 2406
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 2420
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Camillo", 
+        "start_line": 2423
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2432
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Camillo", 
+        "start_line": 2434
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Perdita", 
+        "start_line": 2445
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 2448
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 2451
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 2454
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Perdita", 
+        "start_line": 2457
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Florizell", 
+        "start_line": 2459
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 2465
+    }, 
+    {
+        "line_count": 23.0, 
+        "person": "Autolicus", 
+        "start_line": 2472
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 2496
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2498
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 2499
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Perdita", 
+        "start_line": 2500
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 2502
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2505
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Camillo", 
+        "start_line": 2506
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2509
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 2510
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2516
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 2518
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2520
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Florizell", 
+        "start_line": 2521
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2522
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Camillo", 
+        "start_line": 2524
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Perdita", 
+        "start_line": 2533
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 2535
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2537
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 2539
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2541
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2542
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Camillo", 
+        "start_line": 2544
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2550
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Camillo", 
+        "start_line": 2552
+    }, 
+    {
+        "line_count": 16.0, 
+        "person": "Autolicus", 
+        "start_line": 2553
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 2570
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2573
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2574
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2575
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Clowne", 
+        "start_line": 2576
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "OldShepheard", 
+        "start_line": 2582
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 2586
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2589
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2590
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2592
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2594
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2595
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2598
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Autolicus", 
+        "start_line": 2599
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2603
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Autolicus", 
+        "start_line": 2604
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2609
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2611
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Autolicus", 
+        "start_line": 2612
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2621
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2622
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2623
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2624
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2626
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2627
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2630
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2631
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Clowne", 
+        "start_line": 2633
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2636
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "OldShepheard", 
+        "start_line": 2638
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2642
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2643
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Autolicus", 
+        "start_line": 2644
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2648
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2650
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 2653
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Autolicus", 
+        "start_line": 2654
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2663
+    }, 
+    {
+        "line_count": 15.0, 
+        "person": "Autolicus", 
+        "start_line": 2665
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Clowne", 
+        "start_line": 2681
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "OldShepheard", 
+        "start_line": 2687
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 2691
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 2692
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2693
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2695
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 2697
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Clowne", 
+        "start_line": 2699
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 2705
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 2708
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 2710
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Autolicus", 
+        "start_line": 2712
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Cleomines", 
+        "start_line": 2727
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Leontes", 
+        "start_line": 2733
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Paulina", 
+        "start_line": 2740
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 2745
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Cleomines", 
+        "start_line": 2750
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 2754
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Dion", 
+        "start_line": 2756
+    }, 
+    {
+        "line_count": 15.0, 
+        "person": "Paulina", 
+        "start_line": 2767
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Leontes", 
+        "start_line": 2783
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 2789
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Leontes", 
+        "start_line": 2791
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 2797
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 2799
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Paulina", 
+        "start_line": 2801
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 2807
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 2810
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 2812
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Paulina", 
+        "start_line": 2813
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Cleomines", 
+        "start_line": 2814
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 2815
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Cleomines", 
+        "start_line": 2818
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Paulina", 
+        "start_line": 2819
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 2825
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 2827
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Servants", 
+        "start_line": 2831
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 2835
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Servants", 
+        "start_line": 2840
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 2842
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Servants", 
+        "start_line": 2843
+    }, 
+    {
+        "line_count": 8.0, 
+        "person": "Paulina", 
+        "start_line": 2845
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Servants", 
+        "start_line": 2854
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Paulina", 
+        "start_line": 2861
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Servants", 
+        "start_line": 2862
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 2865
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 2869
+    }, 
+    {
+        "line_count": 20.0, 
+        "person": "Leontes", 
+        "start_line": 2873
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Florizell", 
+        "start_line": 2894
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Leontes", 
+        "start_line": 2904
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2914
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 2916
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Florizell", 
+        "start_line": 2918
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Leontes", 
+        "start_line": 2929
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Lords", 
+        "start_line": 2941
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 2949
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Lords", 
+        "start_line": 2950
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 2958
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Lords", 
+        "start_line": 2961
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 2963
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Lords", 
+        "start_line": 2964
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Perdita", 
+        "start_line": 2970
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 2973
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Florizell", 
+        "start_line": 2974
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 2977
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Florizell", 
+        "start_line": 2979
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Leontes", 
+        "start_line": 2981
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Florizell", 
+        "start_line": 2987
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 2995
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 2997
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Leontes", 
+        "start_line": 3001
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Autolicus", 
+        "start_line": 3011
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Gentlemen", 
+        "start_line": 3013
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 3018
+    }, 
+    {
+        "line_count": 12.0, 
+        "person": "Gentlemen", 
+        "start_line": 3019
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Gentlemen", 
+        "start_line": 3032
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Gentlemen", 
+        "start_line": 3040
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Gentlemen", 
+        "start_line": 3051
+    }, 
+    {
+        "line_count": 15.0, 
+        "person": "Gentlemen", 
+        "start_line": 3052
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Gentlemen", 
+        "start_line": 3068
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Gentlemen", 
+        "start_line": 3070
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Gentlemen", 
+        "start_line": 3076
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Gentlemen", 
+        "start_line": 3078
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Gentlemen", 
+        "start_line": 3088
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Gentlemen", 
+        "start_line": 3090
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Gentlemen", 
+        "start_line": 3101
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Gentlemen", 
+        "start_line": 3102
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Gentlemen", 
+        "start_line": 3112
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Gentlemen", 
+        "start_line": 3117
+    }, 
+    {
+        "line_count": 13.0, 
+        "person": "Autolicus", 
+        "start_line": 3121
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 3135
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Clowne", 
+        "start_line": 3137
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 3144
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 3145
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 3146
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Clowne", 
+        "start_line": 3147
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 3154
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 3155
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Autolicus", 
+        "start_line": 3157
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "OldShepheard", 
+        "start_line": 3160
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Clowne", 
+        "start_line": 3162
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 3163
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 3164
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 3166
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Clowne", 
+        "start_line": 3167
+    }, 
+    {
+        "line_count": 1, 
+        "person": "OldShepheard", 
+        "start_line": 3169
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Clowne", 
+        "start_line": 3170
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Autolicus", 
+        "start_line": 3177
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Clowne", 
+        "start_line": 3178
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 3186
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Paulina", 
+        "start_line": 3188
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Leontes", 
+        "start_line": 3195
+    }, 
+    {
+        "line_count": 9.0, 
+        "person": "Paulina", 
+        "start_line": 3202
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Leontes", 
+        "start_line": 3212
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 3219
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 3220
+    }, 
+    {
+        "line_count": 10.0, 
+        "person": "Leontes", 
+        "start_line": 3223
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Perdita", 
+        "start_line": 3234
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 3239
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Camillo", 
+        "start_line": 3242
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Polixenes", 
+        "start_line": 3247
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 3251
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 3255
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 3256
+    }, 
+    {
+        "line_count": 4.0, 
+        "person": "Leontes", 
+        "start_line": 3258
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 3263
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 3265
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Paulina", 
+        "start_line": 3267
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 3270
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Paulina", 
+        "start_line": 3274
+    }, 
+    {
+        "line_count": 5.0, 
+        "person": "Leontes", 
+        "start_line": 3276
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 3282
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Leontes", 
+        "start_line": 3286
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Perdita", 
+        "start_line": 3287
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Paulina", 
+        "start_line": 3289
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Leontes", 
+        "start_line": 3296
+    }, 
+    {
+        "line_count": 3.0, 
+        "person": "Paulina", 
+        "start_line": 3300
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Leontes", 
+        "start_line": 3304
+    }, 
+    {
+        "line_count": 11.0, 
+        "person": "Paulina", 
+        "start_line": 3306
+    }, 
+    {
+        "line_count": 2.0, 
+        "person": "Leontes", 
+        "start_line": 3318
+    }, 
+    {
+        "line_count": 1, 
+        "person": "Polixenes", 
+        "start_line": 3321
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Camillo", 
+        "start_line": 3322
+    }, 
+    {
+        "line_count": 1.0, 
+        "person": "Polixenes", 
+        "start_line": 3324
+    }, 
+    {
+        "line_count": 6.0, 
+        "person": "Paulina", 
+        "start_line": 3326
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Hermione", 
+        "start_line": 3333
+    }, 
+    {
+        "line_count": 7.0, 
+        "person": "Paulina", 
+        "start_line": 3341
+    }, 
+    {
+        "line_count": 20.0, 
+        "person": "Leontes", 
+        "start_line": 3349
+    }
+]

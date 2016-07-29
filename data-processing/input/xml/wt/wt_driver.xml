@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="nvs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="nvs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+
+<!DOCTYPE TEI [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
+<!ENTITY verbar     "&#x2002;&#x007C;&#x2002;">
+]>
+
+
+<TEI xmlns="http://www.mla.org/NVSns"
+xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<teiHeader>
+
+<fileDesc>
+
+  <titleStmt>
+    <title>The Winter’s Tale</title>
+    <author>William Shakespeare</author>
+    <editor role="primary">Robert Kean Turner</editor>
+    <editor role="primary">Virginia Westling Haas</editor>
+    <editor role="secondary">Robert A. Jones</editor>
+    <editor role="secondary">Andrew J. Sabol</editor>
+    <editor role="secondary">Patricia E. Tatspaugh</editor>
+  </titleStmt>
+	
+  <editionStmt>
+    <edition>First edition</edition>
+  </editionStmt>
+	
+  <publicationStmt>
+    <publisher>The Modern Language Association of America</publisher>
+    <address>
+<addrLine>26 Broadway</addrLine>
+<addrLine>New York, NY 10004-1789</addrLine>
+<addrLine>permissions@mla.org</addrLine>
+<addrLine>fax: 646-458-0030</addrLine>
+</address>
+    <availability>
+      <p>© 2005 by The Modern Language Association of America</p>
+      <p>All rights reserved</p>
+      <p>For information about obtaining permission to reprint material from MLA book publications, send your request by mail, email or fax to the address given.</p>
+    </availability>
+    <idno type="ISBN">0-87352-294-X (alk. paper)</idno>
+    <idno type="LC">PR2839.A2T87 2004</idno>
+    <idno type="D">822.3′3—dc22</idno>
+  </publicationStmt>
+	
+  <seriesStmt>
+    <title>A New Variorum Edition of Shakespeare</title>
+    <respStmt>
+      <resp>General Editors</resp>
+      <name>Richard Knowles</name>
+      <name>Paul Werstine</name>
+    </respStmt>	
+  </seriesStmt>
+	
+  <sourceDesc>
+    <p>This is the source.</p>
+  </sourceDesc>
+
+</fileDesc>
+
+  <encodingDesc>
+    <projectDesc>
+      <p>Founded by Horace Howard Furness (<date>1833–1912</date>), continued by Horace Howard Furness, Jr. (<date>1865–1930</date>), and now issued under the sponsorship of The Modern Language Association of America</p>
+    </projectDesc>
+    <classDecl>
+      <taxonomy xml:id="LCSH">
+        <bibl>Library of Congress Subject Headings</bibl>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+
+  <profileDesc>
+    <langUsage>
+      <language ident="en">English</language>
+      <language ident="grc">Ancient Greek</language>
+    	<language ident="el">Modern Greek</language>
+    	<language ident="grk-latn">Greek (transliterated into Latin script)</language>
+      <language ident="la">Latin</language>
+      <language ident="it">Italian</language>
+      <language ident="es">Spanish</language>
+      <language ident="fr">French</language>
+      <language ident="de">German</language>
+      <language ident="nl">Dutch</language>
+    </langUsage>
+    <textClass>
+      <keywords scheme="LCSH">
+        <list>
+          <item>1. Fathers and daughters—Drama</item>
+          <item>2. Kings and rulers—Drama</item>
+          <item>3. Married people—Drama</item>
+          <item>4. Sicily (Italy)—Drama</item>
+          <item>5. Castaways—Drama</item>
+          <item>I. Turner, Robert Kean, 1926–</item>
+          <item>II. Haas, Virginia Westling, 1935–</item>
+          <item>III. Jones, Robert A.</item>
+          <item>IV. Sabol, Andrew J.</item>
+          <item>V. Tatspaugh, Patricia Elizabeth, 1938–</item>
+          <item>VI. Modern Language Association of America</item>
+          <item>VII. Title</item>
+        </list>
+      </keywords>
+    </textClass>
+  </profileDesc>
+
+<revisionDesc>
+	<change when="2014-02-12" who="#RB">Version 1.2.2: Minor updates</change>
+	<change when="2014-02-07" who="#RB">Version 1.2.1: Added note type=“source” encoding</change>
+	<change when="2013-08-16" who="#RB">Version 1.2.0: Updated to conform with Lear encoding</change>
+	<change when="2012-07-06" who="#RB">Version 1.1.3: Initial updates to conform with Lear encoding</change>
+	<change when="2010-05-24" who="#RB">Version 1.1.2: Index is commented out</change>
+	<change when="2010-05-18" who="#RB">Version 1.1.1: Minor encoding changes</change>
+	<change when="2010-02-21" who="#RB">Version 1.1.0: Converted to TEI P5</change>
+	<change when="2008-05-24" who="#RB">Version 1.0.3: Minor encoding fixes</change>
+	<change when="2007-05-26" who="#RB">Version 1.0.2: Updated to conform with COE encoding</change>
+	<change when="2005-12-12" who="#RB">Version 1.0.1: Added rend and type attributes to stage; misc fixes</change>  
+	<change when="2005-10-06" who="#RB">Version 1.0.0: Re-encoding complete</change> 
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<xi:include href="wt_front.xml" xpointer="front"/>
+
+<body>
+<xi:include href="wt_playtext.xml" xpointer="div_playtext"/>
+<xi:include href="wt_textualnotes.xml" xpointer="div_textualnotes"/>
+<xi:include href="wt_commentary.xml" xpointer="div_commentary"/>
+</body>
+
+<back>
+<xi:include href="wt_appendix.xml" xpointer="div_appendix"/>
+<xi:include href="wt_bibliography.xml" xpointer="div_biblio"/>
+<xi:include href="wt_index.xml" xpointer="div_index"/> <!-- The Index is commented out -->
+<xi:include href="wt_endpapers.xml" xpointer="div_endpapers"/>
+</back>
+
+</text>
+</TEI>

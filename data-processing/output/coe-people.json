@@ -1,0 +1,5132 @@
+[
+    {
+        "data": [
+            {
+                "line": 2, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Duke of Ephesus"
+                    }, 
+                    {
+                        "name": "Merchant of Siracusa"
+                    }, 
+                    {
+                        "name": "Iaylor"
+                    }
+                ]
+            }, 
+            {
+                "line": 161, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 162, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholis Erotes"
+                    }, 
+                    {
+                        "name": "Marchant"
+                    }, 
+                    {
+                        "name": "Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 181, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 196, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 205, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Dromio of Ephesus"
+                    }
+                ]
+            }, 
+            {
+                "line": 260, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Dromio Ep."
+                    }
+                ]
+            }, 
+            {
+                "line": 271, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 5, 
+                        "name": "Solinus"
+                    }
+                ], 
+                "line": 4, 
+                "type": "speaker", 
+                "name": "Marchant.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 7, 
+                        "name": "Siracusa"
+                    }, 
+                    {
+                        "line": 18, 
+                        "name": "Siracusians"
+                    }, 
+                    {
+                        "line": 20, 
+                        "name": "Ephesus"
+                    }, 
+                    {
+                        "line": 21, 
+                        "name": "Siracusian"
+                    }, 
+                    {
+                        "line": 22, 
+                        "name": "Siracusian"
+                    }, 
+                    {
+                        "line": 23, 
+                        "name": "Ephesus"
+                    }
+                ], 
+                "line": 7, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 30, 
+                "type": "speaker", 
+                "name": "Mer.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 32, 
+                        "name": "Siracusian"
+                    }, 
+                    {
+                        "line": 34, 
+                        "name": "Ephesus"
+                    }
+                ], 
+                "line": 32, 
+                "type": "speaker", 
+                "name": "Duk.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 40, 
+                        "name": "Syracusa"
+                    }, 
+                    {
+                        "line": 45, 
+                        "name": "Epidamium"
+                    }, 
+                    {
+                        "line": 65, 
+                        "name": "Epidamium"
+                    }, 
+                    {
+                        "line": 90, 
+                        "name": "Corinth"
+                    }, 
+                    {
+                        "line": 96, 
+                        "name": "Corinth"
+                    }, 
+                    {
+                        "line": 96, 
+                        "name": "Epidarus"
+                    }
+                ], 
+                "line": 35, 
+                "type": "speaker", 
+                "name": "Mer.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 99, 
+                "type": "speaker", 
+                "name": "Duk.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 114, 
+                        "name": "Corinth"
+                    }
+                ], 
+                "line": 101, 
+                "type": "speaker", 
+                "name": "Merch.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 124, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 135, 
+                        "name": "Greece"
+                    }, 
+                    {
+                        "line": 136, 
+                        "name": "Asia"
+                    }, 
+                    {
+                        "line": 137, 
+                        "name": "Ephesus"
+                    }
+                ], 
+                "line": 127, 
+                "type": "speaker", 
+                "name": "Merch.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 143, 
+                        "name": "Egeon"
+                    }, 
+                    {
+                        "line": 155, 
+                        "name": "Ephesus"
+                    }
+                ], 
+                "line": 143, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 159, 
+                "type": "speaker", 
+                "name": "Iaylor.", 
+                "who_id": "#Jailor"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 160, 
+                        "name": "Egean"
+                    }
+                ], 
+                "line": 160, 
+                "type": "speaker", 
+                "name": "Merch.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 163, 
+                        "name": "Epidamium"
+                    }, 
+                    {
+                        "line": 165, 
+                        "name": "Syracusian"
+                    }
+                ], 
+                "line": 163, 
+                "type": "speaker", 
+                "name": "Mer.", 
+                "who_id": "#Merchant1"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 172, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 171, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 179, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 182, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 187, 
+                "type": "speaker", 
+                "name": "E. Mar.", 
+                "who_id": "#Merchant1"
+            }, 
+            {
+                "line": 193, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 195, 
+                "type": "speaker", 
+                "name": "E. Mar.", 
+                "who_id": "#Merchant1"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 205, 
+                        "name": "Dromio of Ephesus"
+                    }
+                ], 
+                "line": 197, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 208, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 218, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 220, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 223, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 227, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 233, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 233, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 236, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 237, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 240, 
+                        "name": "Ph\u0153nix"
+                    }
+                ], 
+                "line": 239, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 242, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 247, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 252, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 253, 
+                        "name": "Ph\u0153nix"
+                    }
+                ], 
+                "line": 253, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 256, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 258, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 261, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }
+        ], 
+        "act": "1"
+    }, 
+    {
+        "data": [
+            {
+                "line": 273, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Adriana"
+                    }, 
+                    {
+                        "name": "Antipholis Sereptus"
+                    }, 
+                    {
+                        "name": "Luciana"
+                    }
+                ]
+            }, 
+            {
+                "line": 318, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Dromio Eph."
+                    }
+                ]
+            }, 
+            {
+                "line": 393, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 394, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholis Errotis"
+                    }
+                ]
+            }, 
+            {
+                "line": 401, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Dromio Siracusia"
+                    }
+                ]
+            }, 
+            {
+                "line": 418, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Dro."
+                    }
+                ]
+            }, 
+            {
+                "line": 504, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Adriana"
+                    }, 
+                    {
+                        "name": "Luciana"
+                    }
+                ]
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 277, 
+                        "name": "Luciana"
+                    }
+                ], 
+                "line": 275, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 278, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 284, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 285, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 286, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 287, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 288, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 289, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 300, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 301, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 302, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 303, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 304, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 305, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 306, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 316, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 319, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 320, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 322, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 324, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 326, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 328, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 331, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 333, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 334, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 335, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 346, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 347, 
+                "type": "speaker", 
+                "name": "E. Dr.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 351, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 352, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 354, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 355, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 357, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 358, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 362, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 363, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 378, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 379, 
+                "type": "speaker", 
+                "name": "Ad.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 392, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 395, 
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "line": 396, 
+                        "name": "Centaur"
+                    }, 
+                    {
+                        "line": 399, 
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "line": 401, 
+                        "name": "Dromio Siracusia"
+                    }, 
+                    {
+                        "line": 404, 
+                        "name": "Centaur"
+                    }, 
+                    {
+                        "line": 406, 
+                        "name": "Ph\u0153nix"
+                    }
+                ], 
+                "line": 395, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 408, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 409, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 411, 
+                        "name": "Centaur"
+                    }
+                ], 
+                "line": 410, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 412, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 415, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 417, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 419, 
+                "type": "speaker", 
+                "name": "S. Dr.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 421, 
+                "type": "speaker", 
+                "name": "Antiph.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 430, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 435, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 436, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 437, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 438, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 440, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 442, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 445, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 446, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 448, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 450, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 451, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 452, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 453, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 454, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 455, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 456, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 458, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 460, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 462, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 463, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 465, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 466, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 468, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 469, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 471, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 473, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 476, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 478, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 480, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 482, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 484, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 485, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 486, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 487, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 488, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 489, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 490, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 491, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 494, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 496, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 498, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 500, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 502, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 505, 
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "line": 507, 
+                        "name": "Adriana"
+                    }
+                ], 
+                "line": 505, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 543, 
+                        "name": "Ephesus"
+                    }
+                ], 
+                "line": 542, 
+                "type": "speaker", 
+                "name": "Antip.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 549, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 547, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 550, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 550, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 550, 
+                "type": "speaker", 
+                "name": "Drom.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 551, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 554, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 556, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 557, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 559, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 560, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 562, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 575, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 582, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 582, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 583, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 589, 
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "line": 589, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 588, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 590, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 591, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 592, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 593, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 594, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 595, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 596, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 602, 
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "line": 607, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 599, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 608, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 613, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 614, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 615, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 615, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }
+        ], 
+        "act": "2"
+    }, 
+    {
+        "data": [
+            {
+                "line": 617, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus of Ephesus"
+                    }, 
+                    {
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "name": "Angelo"
+                    }, 
+                    {
+                        "name": "Balthaser"
+                    }
+                ]
+            }, 
+            {
+                "line": 679, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Luce"
+                    }
+                ]
+            }, 
+            {
+                "line": 706, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Adriana"
+                    }
+                ]
+            }, 
+            {
+                "line": 785, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 786, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Iuliana"
+                    }, 
+                    {
+                        "name": "Antipholus of Siracusia"
+                    }
+                ]
+            }, 
+            {
+                "line": 860, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 861, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 945, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 955, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Angelo"
+                    }
+                ]
+            }, 
+            {
+                "line": 972, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 979, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 619, 
+                        "name": "Angelo"
+                    }
+                ], 
+                "line": 619, 
+                "type": "speaker", 
+                "name": "E. Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 629, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 633, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 634, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 638, 
+                        "name": "Balthazar"
+                    }
+                ], 
+                "line": 638, 
+                "type": "speaker", 
+                "name": "E. An.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 640, 
+                "type": "speaker", 
+                "name": "Bal.", 
+                "who_id": "#Balthazar"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 641, 
+                        "name": "Balthazar"
+                    }
+                ], 
+                "line": 641, 
+                "type": "speaker", 
+                "name": "E. An.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 643, 
+                "type": "speaker", 
+                "name": "Bal.", 
+                "who_id": "#Balthazar"
+            }, 
+            {
+                "line": 644, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 646, 
+                "type": "speaker", 
+                "name": "Bal.", 
+                "who_id": "#Balthazar"
+            }, 
+            {
+                "line": 648, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 652, 
+                        "name": "Maud"
+                    }, 
+                    {
+                        "line": 652, 
+                        "name": "Briget"
+                    }, 
+                    {
+                        "line": 652, 
+                        "name": "Marian"
+                    }, 
+                    {
+                        "line": 652, 
+                        "name": "Cisley"
+                    }, 
+                    {
+                        "line": 652, 
+                        "name": "Gillian"
+                    }, 
+                    {
+                        "line": 652, 
+                        "name": "Ginn"
+                    }
+                ], 
+                "line": 652, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 653, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 658, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 660, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 662, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 663, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 665, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 667, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 669, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 672, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 671, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 676, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 673, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 680, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 680, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 682, 
+                        "name": "Luce"
+                    }
+                ], 
+                "line": 682, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 683, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "line": 685, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 688, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 690, 
+                        "name": "Luce"
+                    }, 
+                    {
+                        "line": 690, 
+                        "name": "Luce"
+                    }
+                ], 
+                "line": 690, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 692, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 694, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "line": 695, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 696, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 698, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 699, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "line": 700, 
+                "type": "speaker", 
+                "name": "E. Drom.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 701, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "line": 702, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 704, 
+                "type": "speaker", 
+                "name": "Luce.", 
+                "who_id": "#Luce"
+            }, 
+            {
+                "line": 707, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 708, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 710, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 712, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 713, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 715, 
+                "type": "speaker", 
+                "name": "Angelo.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 717, 
+                "type": "speaker", 
+                "name": "Baltz.", 
+                "who_id": "#Balthazar"
+            }, 
+            {
+                "line": 719, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 721, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 723, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 729, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 730, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 732, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 735, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 737, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 739, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 741, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 742, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 745, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 746, 
+                "type": "speaker", 
+                "name": "Balth.", 
+                "who_id": "#Balthazar"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 777, 
+                        "name": "Porpentine"
+                    }
+                ], 
+                "line": 768, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 783, 
+                "type": "speaker", 
+                "name": "Ang.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 784, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 788, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 787, 
+                "type": "speaker", 
+                "name": "Iulia.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 815, 
+                "type": "speaker", 
+                "name": "S. Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 840, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 841, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 842, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 843, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 844, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 846, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 847, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 848, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 849, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 850, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 854, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 855, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 859, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 862, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 862, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 864, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 864, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 866, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 866, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 868, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 870, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 872, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 875, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 876, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 880, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 881, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 885, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 890, 
+                        "name": "Poland"
+                    }
+                ], 
+                "line": 886, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 892, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 893, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 896, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 897, 
+                        "name": "Noahs"
+                    }
+                ], 
+                "line": 897, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 899, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 900, 
+                        "name": "Nell"
+                    }
+                ], 
+                "line": 900, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 903, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 904, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 907, 
+                        "name": "Ireland"
+                    }
+                ], 
+                "line": 907, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 908, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 910, 
+                        "name": "Scotland"
+                    }
+                ], 
+                "line": 910, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 911, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 913, 
+                        "name": "France"
+                    }
+                ], 
+                "line": 913, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 914, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 916, 
+                        "name": "England"
+                    }
+                ], 
+                "line": 916, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 919, 
+                        "name": "France"
+                    }
+                ], 
+                "line": 917, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 920, 
+                        "name": "Spaine"
+                    }
+                ], 
+                "line": 920, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 921, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 922, 
+                        "name": "America"
+                    }, 
+                    {
+                        "line": 922, 
+                        "name": "Indies"
+                    }
+                ], 
+                "line": 922, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 923, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 927, 
+                        "name": "Belgia"
+                    }, 
+                    {
+                        "line": 927, 
+                        "name": "Netherlands"
+                    }
+                ], 
+                "line": 927, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 930, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 928, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 937, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 944, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 946, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 956, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 956, 
+                "type": "speaker", 
+                "name": "Ang.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 957, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 959, 
+                        "name": "Porpentine"
+                    }
+                ], 
+                "line": 958, 
+                "type": "speaker", 
+                "name": "Ang.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 961, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 962, 
+                "type": "speaker", 
+                "name": "Ang.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 964, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 965, 
+                "type": "speaker", 
+                "name": "Ang.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 970, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 972, 
+                "type": "speaker", 
+                "name": "Ang.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 978, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 973, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }
+        ], 
+        "act": "3"
+    }, 
+    {
+        "data": [
+            {
+                "line": 981, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Merchant"
+                    }, 
+                    {
+                        "name": "Goldsmith"
+                    }, 
+                    {
+                        "name": "Officer"
+                    }
+                ]
+            }, 
+            {
+                "line": 995, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus Ephes."
+                    }, 
+                    {
+                        "name": "Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 1004, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 1073, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Dromio Sira."
+                    }
+                ]
+            }, 
+            {
+                "line": 1097, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1102, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1103, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Adriana"
+                    }, 
+                    {
+                        "name": "Luciana"
+                    }
+                ]
+            }, 
+            {
+                "line": 1135, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "S. Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 1159, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Luciana"
+                    }
+                ]
+            }, 
+            {
+                "line": 1178, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Luciana"
+                    }
+                ]
+            }, 
+            {
+                "line": 1182, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1183, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus Siracusia"
+                    }
+                ]
+            }, 
+            {
+                "line": 1195, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Dromio Sir."
+                    }
+                ]
+            }, 
+            {
+                "line": 1227, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Curtizan"
+                    }
+                ]
+            }, 
+            {
+                "line": 1263, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1280, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus Ephes."
+                    }, 
+                    {
+                        "name": "Iailor"
+                    }
+                ]
+            }, 
+            {
+                "line": 1288, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Dromio Eph."
+                    }
+                ]
+            }, 
+            {
+                "line": 1321, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Adriana"
+                    }, 
+                    {
+                        "name": "Luciana"
+                    }, 
+                    {
+                        "name": "Courtizan"
+                    }, 
+                    {
+                        "name": "Pinch"
+                    }
+                ]
+            }, 
+            {
+                "line": 1327, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Dro."
+                    }
+                ]
+            }, 
+            {
+                "line": 1394, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 1426, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Offic."
+                    }, 
+                    {
+                        "name": "Adri."
+                    }, 
+                    {
+                        "name": "Luci."
+                    }, 
+                    {
+                        "name": "Courtizan"
+                    }
+                ]
+            }, 
+            {
+                "line": 1440, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus Siracusia"
+                    }, 
+                    {
+                        "name": "Dromio Sirac."
+                    }
+                ]
+            }, 
+            {
+                "line": 1445, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1447, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1461, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 985, 
+                        "name": "Persia"
+                    }
+                ], 
+                "line": 982, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 989, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 988, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 996, 
+                "type": "speaker", 
+                "name": "Offi.", 
+                "who_id": "#Officer"
+            }, 
+            {
+                "line": 997, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1003, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1005, 
+                "type": "speaker", 
+                "name": "Eph. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1010, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1017, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1023, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1025, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1027, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1029, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1031, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1035, 
+                        "name": "Porpentine"
+                    }
+                ], 
+                "line": 1034, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1038, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1039, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1040, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1041, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1043, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1045, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1048, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1049, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1050, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1051, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1052, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1054, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1056, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1057, 
+                "type": "speaker", 
+                "name": "Offi.", 
+                "who_id": "#Officer"
+            }, 
+            {
+                "line": 1059, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1062, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1064, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1067, 
+                "type": "speaker", 
+                "name": "Offic.", 
+                "who_id": "#Officer"
+            }, 
+            {
+                "line": 1068, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1071, 
+                        "name": "Ephesus"
+                    }
+                ], 
+                "line": 1071, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1074, 
+                        "name": "Epidamium"
+                    }, 
+                    {
+                        "line": 1078, 
+                        "name": "Balsamum"
+                    }
+                ], 
+                "line": 1074, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1083, 
+                        "name": "Epidamium"
+                    }
+                ], 
+                "line": 1082, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1084, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1085, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1087, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1091, 
+                        "name": "Adriana"
+                    }
+                ], 
+                "line": 1089, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1098, 
+                        "name": "Adriana"
+                    }
+                ], 
+                "line": 1098, 
+                "type": "speaker", 
+                "name": "S. Dromio.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1104, 
+                        "name": "Luciana"
+                    }
+                ], 
+                "line": 1104, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1110, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1111, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1112, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1113, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1115, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1116, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1117, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1118, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1119, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1121, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1122, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1123, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1129, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1131, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1136, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1138, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1139, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1140, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1140, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1141, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1150, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1151, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1153, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1154, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1159, 
+                        "name": "Luciana"
+                    }
+                ], 
+                "line": 1158, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1162, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1164, 
+                "type": "speaker", 
+                "name": "Adria.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1165, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1167, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1168, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1170, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1172, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1179, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1179, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1184, 
+                "type": "speaker", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1197, 
+                        "name": "Adam"
+                    }
+                ], 
+                "line": 1196, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1198, 
+                        "name": "Adam"
+                    }
+                ], 
+                "line": 1198, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1200, 
+                        "name": "Adam"
+                    }, 
+                    {
+                        "line": 1201, 
+                        "name": "Adam"
+                    }
+                ], 
+                "line": 1200, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1205, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1206, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1212, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1213, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1217, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1220, 
+                        "name": "Expedition"
+                    }, 
+                    {
+                        "line": 1221, 
+                        "name": "Hoy\n        "
+                    }
+                ], 
+                "line": 1219, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1224, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1228, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 1228, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1231, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1232, 
+                        "name": "Sathan"
+                    }
+                ], 
+                "line": 1232, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1233, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1234, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1241, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1243, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1245, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1245, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1246, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1248, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1251, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1254, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1259, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1261, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1261, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1262, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1264, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 1264, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1286, 
+                        "name": "Ephesus"
+                    }, 
+                    {
+                        "line": 1288, 
+                        "name": "Dromio Eph."
+                    }
+                ], 
+                "line": 1281, 
+                "type": "speaker", 
+                "name": "An.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1291, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1292, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1293, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1294, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1295, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1296, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1297, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1299, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1300, 
+                "type": "speaker", 
+                "name": "Offi.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1301, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1303, 
+                "type": "speaker", 
+                "name": "Offi.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1304, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1305, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1306, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1308, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1310, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1323, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1325, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1327, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1328, 
+                "type": "speaker", 
+                "name": "Curt.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1330, 
+                        "name": "Pinch"
+                    }
+                ], 
+                "line": 1329, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1333, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1334, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1335, 
+                "type": "speaker", 
+                "name": "Pinch.", 
+                "who_id": "#Pinch"
+            }, 
+            {
+                "line": 1337, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1338, 
+                "type": "speaker", 
+                "name": "Pinch.", 
+                "who_id": "#Pinch"
+            }, 
+            {
+                "line": 1342, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1343, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1344, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1349, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1352, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1354, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1355, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1356, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1358, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1359, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1360, 
+                "type": "speaker", 
+                "name": "Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1362, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1363, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1364, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1366, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1367, 
+                "type": "speaker", 
+                "name": "Pinch.", 
+                "who_id": "#Pinch"
+            }, 
+            {
+                "line": 1369, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1372, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1371, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1373, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1375, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1376, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1377, 
+                "type": "speaker", 
+                "name": "Luci.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1378, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1380, 
+                "type": "speaker", 
+                "name": "Pinch.", 
+                "who_id": "#Pinch"
+            }, 
+            {
+                "line": 1383, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1385, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1386, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1388, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1389, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1396, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1398, 
+                "type": "speaker", 
+                "name": "Pinch.", 
+                "who_id": "#Pinch"
+            }, 
+            {
+                "line": 1399, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1400, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1403, 
+                "type": "speaker", 
+                "name": "Offi.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1405, 
+                "type": "speaker", 
+                "name": "Pinch.", 
+                "who_id": "#Pinch"
+            }, 
+            {
+                "line": 1406, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1409, 
+                "type": "speaker", 
+                "name": "Offi.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1411, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1416, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1417, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1418, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1420, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1422, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1424, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1427, 
+                        "name": "Angelo"
+                    }
+                ], 
+                "line": 1427, 
+                "type": "speaker", 
+                "name": "Off.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1428, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1429, 
+                "type": "speaker", 
+                "name": "Off.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1430, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1431, 
+                "type": "speaker", 
+                "name": "Off.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1432, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1433, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1437, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1442, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1443, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1446, 
+                "type": "speaker", 
+                "name": "Off.", 
+                "who_id": "#Officer2"
+            }, 
+            {
+                "line": 1448, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1449, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1451, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1454, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1460, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }
+        ], 
+        "act": "4"
+    }, 
+    {
+        "data": [
+            {
+                "line": 1463, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Merchant"
+                    }, 
+                    {
+                        "name": "Goldsmith"
+                    }
+                ]
+            }, 
+            {
+                "line": 1473, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "name": "Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 1497, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Adriana"
+                    }, 
+                    {
+                        "name": "Luciana"
+                    }, 
+                    {
+                        "name": "Courtezan"
+                    }
+                ]
+            }, 
+            {
+                "line": 1503, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1504, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Ladie Abbesse"
+                    }
+                ]
+            }, 
+            {
+                "line": 1599, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Duke of Ephesus"
+                    }, 
+                    {
+                        "name": "Merchant of Siracuse"
+                    }, 
+                    {
+                        "name": "Headsman"
+                    }, 
+                    {
+                        "name": "Officers"
+                    }
+                ]
+            }, 
+            {
+                "line": 1640, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Messenger"
+                    }
+                ]
+            }, 
+            {
+                "line": 1657, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1665, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "name": "E. Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 1761, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1811, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Abbesse"
+                    }, 
+                    {
+                        "name": "Antipholus Siracusa"
+                    }, 
+                    {
+                        "name": "Dromio Sir"
+                    }
+                ]
+            }, 
+            {
+                "line": 1815, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1898, 
+                "type": "stage_exit", 
+                "people": [
+                    {
+                        "name": "Dromio"
+                    }
+                ]
+            }, 
+            {
+                "line": 1905, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1919, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1464, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1467, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1468, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1472, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1477, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 1474, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1487, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1488, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1489, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1490, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1493, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1496, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1500, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1498, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1501, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1505, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1506, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1509, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1510, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1511, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1512, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1516, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1522, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1524, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1525, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1526, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1527, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1528, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1529, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1530, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1531, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1537, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1556, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1559, 
+                "type": "speaker", 
+                "name": "Adri.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1561, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1562, 
+                "type": "speaker", 
+                "name": "Ad.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1563, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1567, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1571, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1578, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1581, 
+                "type": "speaker", 
+                "name": "Ab.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1582, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1583, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1587, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1592, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1593, 
+                        "name": "Siracusian"
+                    }
+                ], 
+                "line": 1593, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1597, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1598, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1602, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1605, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1606, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1608, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 1608, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1633, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1641, 
+                "type": "speaker", 
+                "who_id": "#Messenger"
+            }, 
+            {
+                "line": 1651, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1653, 
+                "type": "speaker", 
+                "name": "Mess.", 
+                "who_id": "#Messenger"
+            }, 
+            {
+                "line": 1659, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1661, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1666, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1672, 
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "line": 1672, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1671, 
+                "type": "speaker", 
+                "name": "Mar. Fat.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 1673, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1679, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1680, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1683, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1684, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1687, 
+                "type": "speaker", 
+                "name": "Luc.", 
+                "who_id": "#Luciana"
+            }, 
+            {
+                "line": 1689, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1700, 
+                        "name": "Balthasar"
+                    }, 
+                    {
+                        "line": 1714, 
+                        "name": "Pinch"
+                    }
+                ], 
+                "line": 1691, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1731, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1733, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1734, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1736, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "#Merchant2"
+            }, 
+            {
+                "line": 1742, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1747, 
+                        "name": "Circes"
+                    }
+                ], 
+                "line": 1746, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1752, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1754, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1755, 
+                "type": "speaker", 
+                "name": "E. Anti.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1756, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1757, 
+                "type": "speaker", 
+                "name": "Curt.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1758, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1762, 
+                "type": "speaker", 
+                "name": "Fa.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1765, 
+                        "name": "Siracusian"
+                    }
+                ], 
+                "line": 1765, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1766, 
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "line": 1767, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1766, 
+                "type": "speaker", 
+                "name": "Fath.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1770, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1768, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1771, 
+                "type": "speaker", 
+                "name": "Fath.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1774, 
+                        "name": "Pinches"
+                    }
+                ], 
+                "line": 1772, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1775, 
+                "type": "speaker", 
+                "name": "Father.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 1777, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1778, 
+                "type": "speaker", 
+                "name": "Fa.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 1782, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1783, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1783, 
+                "type": "speaker", 
+                "name": "Fat.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 1784, 
+                "type": "speaker", 
+                "name": "Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1785, 
+                "type": "speaker", 
+                "name": "Fa.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 1786, 
+                "type": "speaker", 
+                "name": "E. Dromio.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1799, 
+                        "name": "Antipholus"
+                    }
+                ], 
+                "line": 1788, 
+                "type": "speaker", 
+                "name": "Fath.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "line": 1800, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1801, 
+                        "name": "Siracusa"
+                    }
+                ], 
+                "line": 1801, 
+                "type": "speaker", 
+                "name": "Fa.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1806, 
+                        "name": "Siracusa"
+                    }
+                ], 
+                "line": 1804, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1807, 
+                        "name": "Siracusian"
+                    }, 
+                    {
+                        "line": 1808, 
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "line": 1809, 
+                        "name": "Siracusa"
+                    }
+                ], 
+                "line": 1807, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1813, 
+                "type": "speaker", 
+                "name": "Abbesse.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1816, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1817, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1820, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1820, 
+                "type": "speaker", 
+                "name": "S. Dromio.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1821, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1821, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1822, 
+                        "name": "Egeon"
+                    }
+                ], 
+                "line": 1822, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1823, 
+                "type": "speaker", 
+                "name": "S. Drom.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1827, 
+                        "name": "Egeon"
+                    }, 
+                    {
+                        "line": 1828, 
+                        "name": "\u00c6milia"
+                    }, 
+                    {
+                        "line": 1830, 
+                        "name": "Egeon"
+                    }, 
+                    {
+                        "line": 1831, 
+                        "name": "\u00c6milia"
+                    }
+                ], 
+                "line": 1825, 
+                "type": "speaker", 
+                "name": "Abb.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1833, 
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "line": 1834, 
+                        "name": "Dromio\u2019s"
+                    }
+                ], 
+                "line": 1832, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1838, 
+                        "name": "\u00c6milia"
+                    }
+                ], 
+                "line": 1838, 
+                "type": "speaker", 
+                "name": "Fa.", 
+                "who_id": "#Aegeon"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1841, 
+                        "name": "Epidamium"
+                    }, 
+                    {
+                        "line": 1842, 
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "line": 1843, 
+                        "name": "Corinth"
+                    }, 
+                    {
+                        "line": 1844, 
+                        "name": "Dromio"
+                    }, 
+                    {
+                        "line": 1845, 
+                        "name": "Epidamium"
+                    }
+                ], 
+                "line": 1841, 
+                "type": "speaker", 
+                "name": "Abb.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1848, 
+                        "name": "Antipholus"
+                    }, 
+                    {
+                        "line": 1848, 
+                        "name": "Corinth"
+                    }
+                ], 
+                "line": 1848, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1849, 
+                        "name": "Siracuse"
+                    }
+                ], 
+                "line": 1849, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1850, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1851, 
+                        "name": "Corinth"
+                    }
+                ], 
+                "line": 1851, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1852, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1855, 
+                        "name": "Menaphon"
+                    }
+                ], 
+                "line": 1853, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1856, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1857, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1858, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1859, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1860, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1865, 
+                "type": "speaker", 
+                "name": "Goldsmith.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "line": 1867, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1868, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1869, 
+                "type": "speaker", 
+                "name": "Gold.", 
+                "who_id": "#Angelo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1871, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1870, 
+                "type": "speaker", 
+                "name": "Adr.", 
+                "who_id": "#Adriana"
+            }, 
+            {
+                "line": 1872, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1874, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1873, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1878, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1879, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1880, 
+                "type": "speaker", 
+                "name": "Cur.", 
+                "who_id": "#Curtizan"
+            }, 
+            {
+                "line": 1881, 
+                "type": "speaker", 
+                "name": "E. Ant.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1883, 
+                "type": "speaker", 
+                "name": "Abb.", 
+                "who_id": "#Aemilia"
+            }, 
+            {
+                "line": 1897, 
+                "type": "speaker", 
+                "name": "Duke.", 
+                "who_id": "#Salinus"
+            }, 
+            {
+                "line": 1900, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1901, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1901, 
+                "type": "speaker", 
+                "name": "E. An.", 
+                "who_id": "#Antipholus_Ephesus"
+            }, 
+            {
+                "line": 1902, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1903, 
+                        "name": "Dromio"
+                    }
+                ], 
+                "line": 1903, 
+                "type": "speaker", 
+                "name": "S. Ant.", 
+                "who_id": "#Antipholus_Syracuse"
+            }, 
+            {
+                "line": 1906, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1909, 
+                "type": "speaker", 
+                "name": "E. D.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1912, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1913, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }, 
+            {
+                "line": 1914, 
+                "type": "speaker", 
+                "name": "S. Dro.", 
+                "who_id": "#Dromio_Syracuse"
+            }, 
+            {
+                "line": 1916, 
+                "type": "speaker", 
+                "name": "E. Dro.", 
+                "who_id": "#Dromio_Ephesus"
+            }
+        ], 
+        "act": "5"
+    }
+]

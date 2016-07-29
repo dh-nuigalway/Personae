@@ -1,0 +1,90 @@
+[
+    {
+        "id": "Salinus", 
+        "name": "Salinus"
+    }, 
+    {
+        "id": "Aegeon", 
+        "name": "\u00c6geon"
+    }, 
+    {
+        "id": "Antipholus_Ephesus", 
+        "name": "Antipholis [Sereptus] of Ephesus"
+    }, 
+    {
+        "id": "Antipholus_Syracuse", 
+        "name": "Antipholis [Erotes] of Syracuse"
+    }, 
+    {
+        "id": "Dromio_Ephesus", 
+        "name": "Dromio of Ephesus"
+    }, 
+    {
+        "id": "Dromio_Syracuse", 
+        "name": "Dromio of Syracuse"
+    }, 
+    {
+        "id": "Balthazar", 
+        "name": "Balthazar"
+    }, 
+    {
+        "id": "Angelo", 
+        "name": "Angelo"
+    }, 
+    {
+        "id": "Merchant1", 
+        "name": "Merchant1"
+    }, 
+    {
+        "id": "Merchant2", 
+        "name": "Merchant2"
+    }, 
+    {
+        "id": "Pinch", 
+        "name": "Pinch"
+    }, 
+    {
+        "id": "Aemilia", 
+        "name": "\u00c6milia"
+    }, 
+    {
+        "id": "Adriana", 
+        "name": "Adriana"
+    }, 
+    {
+        "id": "Luciana", 
+        "name": "Luciana"
+    }, 
+    {
+        "id": "Luce", 
+        "name": "Luce"
+    }, 
+    {
+        "id": "Curtizan", 
+        "name": "Curtizan"
+    }, 
+    {
+        "id": "Jailor", 
+        "name": "Jailor"
+    }, 
+    {
+        "id": "Officer", 
+        "name": "Officer"
+    }, 
+    {
+        "id": "Headsman", 
+        "name": "Headsman"
+    }, 
+    {
+        "id": "Attendant", 
+        "name": "Attendants"
+    }, 
+    {
+        "id": "Messenger", 
+        "name": "Messenger"
+    }, 
+    {
+        "id": "Officer2", 
+        "name": "Officer2"
+    }
+]

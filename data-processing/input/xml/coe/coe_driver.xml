@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="nvs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="nvs.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<!DOCTYPE TEI [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
+<!ENTITY verbar     "&#x2002;&#x007C;&#x2002;">
+<!ENTITY cmacr     "&#x63;&#x304;">
+]>
+
+
+<TEI xmlns="http://www.mla.org/NVSns"
+xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<teiHeader>
+
+<fileDesc>
+
+<titleStmt>
+	<title>The Comedy of Errors</title>
+	<author>William Shakespeare</author>
+	<editor role="primary">Standish Henning</editor>
+	<editor role="secondary">Thomas Whitfield Baldwin (1890–1984)</editor>
+	<editor role="secondary">John Hazel Smith (1928–86)</editor>
+	<respStmt>
+		<resp>Encoding, schema development, corrections entry</resp>
+		<name xml:id="RB">Ridgeback</name>
+	</respStmt>
+</titleStmt>
+
+<editionStmt>
+  <edition>First edition</edition>
+</editionStmt>
+
+<publicationStmt>
+  <publisher>The Modern Language Association of America</publisher>
+  <address>
+    <addrLine>26 Broadway</addrLine>
+    <addrLine>New York, NY 10004-1789</addrLine>
+    <addrLine>permissions@mla.org</addrLine>
+    <addrLine>fax: 646-458-0030</addrLine>
+  </address>
+  <availability>
+    <p>© 2011 by The Modern Language Association of America</p>
+    <p>All rights reserved</p>
+    <p>For information about obtaining permission to reprint material from MLA book publications, send your request by mail, email or fax to the address given.</p>
+  </availability>
+  <idno type="ISBN">978-0-87352-296-0</idno>
+  <idno type="LC">PR2804.A2H45 2009</idno>
+  <idno type="D">822.3′3—dc22</idno>
+</publicationStmt>
+	
+<seriesStmt>
+  <title>A New Variorum Edition of Shakespeare</title>
+  <respStmt>
+    <resp>General Editors</resp>
+    <name>Richard Knowles</name>
+    <name>Paul Werstine</name>
+  </respStmt>	
+</seriesStmt>
+	
+<sourceDesc>
+  <p>This is the source.</p>
+</sourceDesc>
+
+</fileDesc>
+
+<encodingDesc>
+  <projectDesc>
+    <p>Founded by Horace Howard Furness (<date>1833–1912</date>), continued by Horace Howard Furness, Jr. (<date>1865–1930</date>), and now issued under the sponsorship of The Modern Language Association of America</p>
+  </projectDesc>
+  <classDecl>
+    <taxonomy xml:id="LCSH">
+      <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+  </classDecl>
+</encodingDesc>
+
+<profileDesc>
+  <langUsage>
+    <language ident="en">English</language>
+    <language ident="grc">Ancient Greek</language>
+    <language ident="el">Modern Greek</language>
+    <language ident="grk-latn">Greek (transliterated into Latin script)</language>
+    <language ident="la">Latin</language>
+    <language ident="it">Italian</language>
+    <language ident="es">Spanish</language>
+    <language ident="fr">French</language>
+    <language ident="de">German</language>
+    <language ident="nl">Dutch</language>
+  </langUsage>
+  <textClass>
+   <keywords scheme="LCSH">
+     <list>
+       <item>1. Shipwreck victims—Drama</item>
+       <item>2. Mistaken identity—Drama</item>
+       <item>3. Brothers—Drama</item>
+       <item>4. Greece—Drama</item>
+       <item>5. Twins—Drama</item>
+       <item>I. Henning, Standish</item>
+       <item>II. Baldwin, Thomas Whitfield, b. 1890</item>
+       <item>III. Smith, John Hazel, 1928–</item>
+       <item>IV. Title</item>
+     </list>
+   </keywords>
+  </textClass>
+</profileDesc>
+
+<revisionDesc>
+	<change when="2014-02-12" who="#RB">Version 1.1.2: Minor updates</change>
+	<change when="2013-08-16" who="#RB">Version 1.1.1: Updated to conform with Lear encoding</change>
+	<change when="2011-11-10" who="#RB">Version 1.0.1: Final release for DVD; fixed encoding error in Menaechmi</change>
+	<change when="2011-10-26" who="#RB">Version 1.0.0: Reconfigured revisionDesc</change>
+	<change when="2011-10-21" who="#RB">Version 0.9.12: Contracted date range on title page and in TEI Header</change>
+	<change when="2011-10-14" who="#RB">Version 0.9.11: Restored extra period in Salingar entry</change>
+	<change when="2011-10-12" who="#RB">Version 0.9.10: Removed Orger “Histories” biblio entry; adjusted refs</change>
+	<change when="2011-10-05" who="#RB">Version 0.9.9: Entered minor textual corrections</change>
+	<change when="2011-09-29" who="#RB">Version 0.9.8: Entered all correx to date</change>
+	<change when="2010-05-18" who="#RB">Version 0.9.7: Minor encoding changes</change>
+	<change when="2010-04-29" who="#RB">Version 0.9.6: Entered revisions from 2009/10/16</change>
+	<change when="2010-02-18" who="#RB">Version 0.9.5: Converted to TEI P5</change>
+	<change when="2009-08-16" who="#RB">Version 0.9.4: Reconfigured the div structure for cast lists</change>
+	<change when="2009-07-21" who="#RB">Version 0.9.3: Corrections entered; Fig 1 and caption added</change>
+	<change when="2009-02-02" who="#RB">Version 0.9.2: Corrections entered</change>
+	<change when="2008-05-24" who="#RB">Version 0.9.1: Minor encoding fixes</change>
+	<change when="2007-05-10" who="#RB">Version 0.9.0: Initial encoding completed</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+
+	<xi:include href="coe_front.xml" xpointer="front"/>
+	
+	<body>
+		<xi:include href="coe_playtext.xml" xpointer="div_playtext"/>
+		<xi:include href="coe_textualnotes.xml" xpointer="div_textualnotes"/>
+		<xi:include href="coe_commentary.xml" xpointer="div_commentary"/>
+	</body>
+	
+	<back>
+		<xi:include href="coe_appendix.xml" xpointer="div_appendix"/>
+		<xi:include href="coe_bibliography.xml" xpointer="div_biblio"/>
+		<xi:include href="coe_endpapers.xml" xpointer="div_endpapers"/>
+	</back>
+
+</text>
+</TEI>

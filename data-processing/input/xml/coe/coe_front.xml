@@ -1,0 +1,2130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE container [
+<!ENTITY hellip     " &#x2E;&#xA0;&#x2E;&#xA0;&#x2E; ">
+<!ENTITY inked     "&#x2759;">
+<!ENTITY caret     "&#x2038;">
+<!ENTITY minus     "&#x2212;">
+<!ENTITY plus     "&#x002B;">
+<!ENTITY shy     "&#x00AD;">
+<!ENTITY sigrange     "&#x002D;">
+<!ENTITY swdash     "&#x2002;&#x007E;&#x2002;">
+<!ENTITY verbar     "&#x2002;&#x007C;&#x2002;">
+<!ENTITY cmacr     "&#x63;&#x304;">
+]>
+
+<container xmlns="http://www.mla.org/NVSns">
+
+
+
+<front xml:id="front">
+
+<titlePage type="series">
+
+<docTitle>
+<titlePart type="series">A New Variorum Edition of Shakespeare</titlePart>
+<titlePart type="desc">Founded by <name>Horace Howard Furness</name> (<date>1833–1912</date>), <lb/>continued by <name>Horace Howard Furness, Jr.</name> (<date>1865–1930</date>), <lb/>and now issued under the sponsorship of <lb/>The Modern Language Association of America</titlePart>
+</docTitle>
+
+<byline><editor role="series">Richard Knowles</editor> and <editor role="series">Paul Werstine</editor> <lb/>General Editors</byline>
+
+</titlePage>
+
+
+
+<titlePage type="main">
+
+<docTitle>
+<titlePart type="series">A New Variorum Edition of Shakespeare</titlePart>
+<titlePart type="volume">The Comedy <lb/>of Errors</titlePart>
+</docTitle>
+
+<byline><hi rend="italic">Edited by</hi> <lb/><editor role="primary">Standish Henning</editor> <lb/><hi rend="italic">incorporating the work of</hi> <lb/><editor role="secondary">Thomas Whitfield Baldwin (<date>1890–1984</date>)</editor> <lb/>and <lb/><editor role="secondary">John Hazel Smith (<date>1928–86</date>)</editor></byline>
+
+<docImprint>
+<publisher>The Modern Language Association of America</publisher>
+</docImprint>
+
+</titlePage>
+
+
+
+<div type="copyright" xml:id="div_copyright">
+
+<p>© 2011 by The Modern Language Association of America
+<lb/>All rights reserved
+<lb/>Printed in the United States of America</p>
+
+<p>MLA and the MODERN LANGUAGE ASSOCIATION are trademarks owned by the Modern Language Association of America. For information about obtaining permission to reprint material from MLA book publications, send your request by mail (see address below), e-mail (permissions@mla.org), or fax (646 458-0030).</p>
+
+<p>Library of Congress Cataloging-in-Publication Data</p>
+
+<p>Shakespeare, William, 1564–1616.
+<lb/>The comedy of errors / edited by Standish Henning ; incorporating the work of Thomas Whitfield Baldwin and John Hazel Smith. 
+ <lb/><space extent="1em"/>p.<space extent="2em"/>cm.— (A new variorum edition of Shakespeare)
+ <lb/>Includes bibliographical references and index.
+ <lb/>ISBN 978-0-87352-296-0 (alk. paper)
+ <lb/>1. Shipwreck victims—Drama. 2. Mistaken identity—Drama. 3. Brothers—Drama. 4. Greece—Drama. 5. Twins—Drama.  I. Henning, Standish. II. Baldwin, Thomas Whitfield, b. 1890. III. Smith, John Hazel, 1928– IV. Title.
+ <lb/>PR2804.A2H45 2009
+ <lb/>822.3′3—dc22<space extent="4em"/>2009035175</p>
+
+<p>Published by The Modern Language Association of America
+<lb/>26 Broadway, New York, NY 10004-1789
+<lb/>www.mla.org</p>
+
+</div>
+
+
+
+
+<div type="toc" xml:id="div_toc">
+
+<head>Contents</head>
+
+<p>Preface <ptr targType="div" target="#div_preface" mode="toc"/></p>
+
+<p>Plan of the Work <ptr targType="div" target="#div_potw" mode="toc"/></p>
+
+<p>Map: A Voyage to the Levant <ptr targType="figure" target="#fig_001" mode="toc"/></p>
+
+<p>THE COMEDY OF ERRORS: Text, Textual Notes, and Commentary <ptr targType="div" target="#div_playtext" mode="toc"/></p>
+
+<p>Appendix</p>
+  
+<list>
+  <item>Irregular, Doubtful, and Emended Accidentals in <siglum>F1</siglum> <ptr targType="div" target="#div_irregular" mode="toc"/></item>
+  
+  <item>Unadopted Conjectures <ptr targType="div" target="#div_unadopted" mode="toc"/></item>
+  
+  <item>The Text
+  	<list>
+  		<item>Authorship <ptr targType="div" target="#div_text_authorship" mode="toc"/></item>
+  		<item>The <siglum>F1</siglum> Version <ptr targType="div" target="#div_text_f1version" mode="toc"/></item>
+  		<item>The Printer’s Copy <ptr targType="div" target="#div_text_printerscopy" mode="toc"/></item>
+  	</list>
+  </item>
+  
+  <item>The Date of Composition <ptr targType="div" target="#div_date" mode="toc"/>
+  	<list>
+  		<item>External Evidence
+  			<list>
+  				<item><title level="m">Gesta Grayorum</title> <ptr targType="div" target="#div_date_gesta" mode="toc"/></item>
+  				<item>Meres’s <title level="m">Palladis Tamia</title> and Late Dating <ptr targType="div" target="#div_date_meres" mode="toc"/></item>
+  				<item><quote>The Gelyous Comodey</quote> <ptr targType="div" target="#div_date_gelyous" mode="toc"/></item>
+  				<item>Lord Chamberlain’s Company, Founded 1594 <ptr targType="div" target="#div_date_chamberlain" mode="toc"/></item>
+  				<item>Earlier Time for Beginning Performances <ptr targType="div" target="#div_date_performances" mode="toc"/></item>
+  				<item>Relation to Other Works <ptr targType="div" target="#div_date_relation" mode="toc"/></item>
+  				<item>Topical Allusions <ptr targType="div" target="#div_date_allusions" mode="toc"/></item>
+  			</list>
+  		</item>
+  
+  		<item>Internal Evidence
+  			<list>
+  				<item>Doggerel <ptr targType="div" target="#div_date_doggerel" mode="toc"/></item>
+  				<item>Vocabulary <ptr targType="div" target="#div_date_vocabulary" mode="toc"/></item>
+  				<item>Metrical Tests <ptr targType="div" target="#div_date_metrical" mode="toc"/></item>
+  			</list>
+  		</item>
+  	  
+           <item>Shakespeare’s Development <ptr targType="div" target="#div_date_development" mode="toc"/></item>
+  		<item>Comparative Chronologies <ptr targType="div" target="#div_date_comparative" mode="toc"/></item>
+  	</list>
+  </item>
+  
+  <item>Sources and Influences <ptr targType="div" target="#div_sources" mode="toc"/>
+  	<list>
+  		<item>Titus Maccius Plautus <ptr targType="div" target="#div_plautus" mode="toc"/>
+  			<list>
+  				<item><title level="m">Menaechmi</title> <ptr targType="div" target="#div_plautus_menaechmi" mode="toc"/></item>
+  				<item><title level="m">Amphitruo</title> and the Supposita <ptr targType="div" target="#div_plautus_amphitruo" mode="toc"/></item>
+  				<item>Shakespeare’s Use of Plautus
+  					<list>
+  						<item>General Indebtedness <ptr targType="div" target="#div_plautus_indebtedness" mode="toc"/></item>
+  						<item>Structure, Themes, Characterization <ptr targType="div" target="#div_plautus_structure" mode="toc"/></item>
+  					</list>
+  				</item>
+  			</list>
+  		</item>
+  
+  		<item>The Bible and the Liturgy <ptr targType="div" target="#div_bibleandliturgy" mode="toc"/>
+  			<list>
+  				<item>Acts <ptr targType="div" target="#div_bible_acts" mode="toc"/></item>
+  				<item>Ephesians <ptr targType="div" target="#div_bible_ephesians" mode="toc"/></item>
+  				<item>Shakespeare’s Use of the Bible <ptr targType="div" target="#div_bible_use" mode="toc"/></item>
+  				<item>The Book of Common Prayer <ptr targType="div" target="#div_commonprayer" mode="toc"/></item>
+  				<item>The Book of Homilies <ptr targType="div" target="#div_homilies" mode="toc"/></item>
+  			</list>
+  		</item>
+  
+  		<item>Gower, <quote>Apollonius of Tyre</quote> <ptr targType="div" target="#div_gower" mode="toc"/></item>
+  		
+  		<item>Other Sources and Influences <ptr targType="div" target="#div_othersources" mode="toc"/></item>
+  		
+  		<item>Shakespeare’s Map <ptr targType="div" target="#div_shakesmap" mode="toc"/></item>
+  	</list>
+  </item>
+  
+  <item>Criticism
+  	<list>
+  		<item>General Comments and Assessments <ptr targType="div" target="#div_assessments" mode="toc"/></item>
+  
+  		<item>Genre
+  			<list>
+  				<item>Farce <ptr targType="div" target="#div_genre_farce" mode="toc"/></item>
+  				<item>Comedy <ptr targType="div" target="#div_genre_comedy" mode="toc"/></item>
+  				<item>Mixed Tones <ptr targType="div" target="#div_genre_mixed" mode="toc"/></item>
+  			</list>
+  		</item>
+  
+  		<item>Themes and Significance
+  			<list>
+  				<item>General Comments <ptr targType="div" target="#div_themes_general" mode="toc"/></item>
+  				<item>Identity <ptr targType="div" target="#div_themes_identity" mode="toc"/></item>
+  				<item>Family and Marriage <ptr targType="div" target="#div_themes_family" mode="toc"/></item>
+  				<item>Order and Disorder <ptr targType="div" target="#div_themes_order" mode="toc"/></item>
+  				<item>Other Themes <ptr targType="div" target="#div_themes_other" mode="toc"/></item>
+  				<item><foreign xml:lang="fr" rend="italic">Drame à Clef</foreign> <ptr targType="div" target="#div_themes_drameaclef" mode="toc"/></item>
+  			</list>
+  		</item>
+  
+  		<item>Technique
+  			<list>
+  				<item>Structure
+  					<list>
+  						<item>General Comments <ptr targType="div" target="#div_tech_str_general" mode="toc"/></item>
+  						<item>Unities <ptr targType="div" target="#div_tech_str_unities" mode="toc"/></item>
+  						<item>Framing Structure <ptr targType="div" target="#div_tech_str_framing" mode="toc"/></item>
+  						<item>Five-Act Structure <ptr targType="div" target="#div_tech_str_fiveact" mode="toc"/></item>
+  					</list>
+  				</item>
+  				<item>Audience Involvement <ptr targType="div" target="#div_tech_audience" mode="toc"/></item>
+  				<item>Symbolic Properties <ptr targType="div" target="#div_tech_symbolic" mode="toc"/></item>
+  				<item>Language and Style <ptr targType="div" target="#div_tech_language" mode="toc"/></item>
+  			</list>
+  		</item>
+  
+  		<item>Characters
+  			<list>
+  				<item>The Characters in General <ptr targType="div" target="#div_char_general" mode="toc"/></item>
+  				<item>Adriana <ptr targType="div" target="#div_char_adriana" mode="toc"/></item>
+  				<item>Æmilia <ptr targType="div" target="#div_char_aemilia" mode="toc"/></item>
+  				<item>E. Antipholus <ptr targType="div" target="#div_char_eantipholus" mode="toc"/></item>
+  				<item>S. Antipholus <ptr targType="div" target="#div_char_santipholus" mode="toc"/></item>
+  				<item>Courtesan <ptr targType="div" target="#div_char_courtesan" mode="toc"/></item>
+  				<item>The Dromios <ptr targType="div" target="#div_char_dromios" mode="toc"/></item>
+  				<item>Egeon <ptr targType="div" target="#div_char_egeon" mode="toc"/></item>
+  				<item>Luciana <ptr targType="div" target="#div_char_luciana" mode="toc"/></item>
+  				<item>Pinch <ptr targType="div" target="#div_char_pinch" mode="toc"/></item>
+  				<item>Solinus <ptr targType="div" target="#div_char_solinus" mode="toc"/></item>
+  			</list>
+  		</item>
+  	</list>
+  </item>
+  
+  <item><title level="m">The Comedy of Errors</title> on the Stage
+  	<list>
+  		<item>Staging <ptr targType="div" target="#div_staging" mode="toc"/></item>
+  		<item>Performances <ptr targType="div" target="#div_performances" mode="toc"/></item>
+  		<item>The Text on the Stage <ptr targType="div" target="#div_textonstage" mode="toc"/></item>
+  	</list>
+  </item>
+</list>
+
+
+<p>Bibliography <ptr targType="div" target="#div_biblio" mode="toc"/></p>
+
+<p>Index</p>
+
+</div>
+
+
+
+
+<div type="preface" xml:id="div_preface">
+
+<head>Preface</head>
+
+<p>The title page tells part of the story of my indebtedness to two men who worked on this edition until their deaths. <title level="m">The Comedy of Errors</title> took up much of T. W. Baldwin’s professional life, as the bibliography shows. Baldwin completed a draft of the commentary notes, based on his reading about the play from the earliest commentaries until about the middle of the twentieth century, when his interest in keeping current seems to have waned. He does systematically quote R. A. Foakes’s 1962 Arden edition. After Baldwin’s death, John Hazel Smith, his former student and a professor at Brandeis University, took over as editor. Smith assembled a rich bibliography and obtained photocopies of most of the entries. He also collated the editions listed in the Plan of the Work from 1623 to 1974, that is, from the First Folio to the Riverside edition of G. B. Evans, and he drafted the historical collation under the eyes of the general editors, Robert K. Turner and Richard Knowles. At Smith’s untimely death, then, much of the groundwork for the present edition had been completed, and I here express my gratitude for Baldwin’s and Smith’s labors; indeed, I would not have undertaken completing this edition if I had had to start from scratch.</p>
+
+<p>I also wish to acknowledge the help of Denise Lamb, who assisted me at the very start of the project and whose proofreading eye caught my mistakes through the drafting of the first version of the commentary notes; would that she had been able to continue her aid. Elizabeth Mermann helped with German texts, and Jennifer Perry located reviews of performances in the late 19th and the 20th century. The staffs at the Folger Library, Brandeis University, the University of Illinois at Champaign-Urbana, and the Shakespeare Institute at Stratford-upon-Avon assisted me in countless ways. Memorial Library on the Madison campus of the University of Wisconsin (Kenneth L. Frazier, director of libraries) maintains the Shakespeare Collection of great riches for the use of Variorum editors. This bibliographical support has been invaluable, as has that of the Memorial Library reference librarians, whose counsel and friendship went further than even their ability to figure out what in the world I was asking about. Thanks also to Pamela E. Wilkinson, my copyeditor, who brought order to what turned out to be a pretty primitive manuscript.</p>
+
+<p>The Graduate School, through its Research Committee, funded a research assistant, for which I am grateful.</p>
+
+<p>My debt to the general editors, Robert K. Turner, Richard Knowles, and Paul Werstine, far exceeds what is recorded on these pages. Especially, Dick Knowles, my colleague and friend, found ways to organize the compound mass I periodically dropped on him. Kent Cartwright alerted me to several mistakes in the historical collation, generously providing corrections.</p>
+
+<p>I am happy to say in print what I have been saying for half a century to Jane Henning: <quote>I can no other answer make but thanks, And thanks,</quote> and hope she will not complete the quotation.</p>
+
+<closer><signed>Standish Henning</signed></closer>
+</div>
+
+
+
+
+<div type="potw" xml:id="div_potw">
+
+<head>Plan of the Work</head>
+
+<p>This edition contains four principal parts: (1) the text of <title level="m">The Comedy of Errors</title> reprinted from the First Folio edition of 1623; (2) textual notes of the few significant emendations of the <siglum>F1</siglum> text that have been made, as well as all the departures from the text of <siglum>F1</siglum> in all the important editions of the play since 1623; (3) comments on the text designed to explicate its language where explication is called for and to summarize the notes that a long succession of editors and commentators have written on it; and (4) an appendix in which certain general aspects of the play are reproduced or summed up and data and opinions whose bulk or length precludes their incorporation in the commentary are collected.</p>
+
+<p>The text printed here is a modified diplomatic reprint of that in the Norton facsimile of <siglum>F1</siglum> prepared by Charlton Hinman (1968), checked against copy 53, the Urquhart-Wyndham copy, in the Folger Library. Press variants found in other copies are recorded in the appendix. The reprint does not reproduce typographical features such as the long <hi rend="italic">s</hi>, display and swash letters, ornaments, and rules; abbreviations printed as one letter above another are printed as two consecutive letters, the second one superscript. Minor typographical blemishes such as irregular spacing; printing space-types; and wrong-font, damaged, turned, transposed, misprinted, or missing letters and punctuation marks have been corrected, usually silently. If, however, the anomaly is likely to have any bibliographical significance, its correction is recorded in the appendix. Where the error is not clearly typographical or where the correction is not an obvious one, the text has been left unaltered and various emendations have been recorded in the textual notes. When emendation of an obvious typographical error has resulted in a change from one word to another, the emendation has been treated as being substantive and has been recorded in the textual notes; otherwise, no substantive emendation or semisubstantive change of an accidental detail has been made in the text. The <siglum>F1</siglum> lineation of both verse and prose has been preserved, except that the turned-over and turned-under lines have been printed continuously and such alteration has been recorded in the appendix. In general, the attempt has been made to omit and ignore all insignificant typographical peculiarities but to retain or at least record any accidental details of possible textual significance.</p>
+
+<p>Through Line Numbers (TLNs) are printed by fives in the right margin; these numbers are used for all notes and cross-references in the edition. Inclusive act-scene-line numbers as determined in G. B. Evans’s Riverside edition (1974) are supplied in arabic numerals in the headline of each page of text, and Riverside act-and-scene division is indicated by boldface arabic numerals in the right margin. The beginning of each Folio column is marked outside the margins by signature-and-column indicators in parentheses.</p>
+
+<p>The textual notes are based on a collation of the following editions. Each entry below is preceded by the siglum that represents that edition in the textual notes. These editions have been fully collated, letter and point. The place of publication is not mentioned when it is London.</p>
+
+
+<listWit xml:id="listwit_editions">
+
+<witness xml:id="s_f1">
+<siglum>F1</siglum>
+<bibl><hi rend="lscaps">The First Folio</hi>. <title level="m">M<hi rend="superscript">r</hi>. William Shakespeares Comedies, Histories, &amp; Tragedies</title>.</bibl>
+<date>1623</date>
+</witness>
+
+<witness xml:id="s_f2">
+<siglum>F2</siglum>
+<bibl><hi rend="lscaps">The Second Folio</hi>. <title level="m">M<hi rend="superscript">r</hi>. William Shakespeares Comedies, Histories, and Tragedies.&hellip; The second Impression</title>.</bibl>
+<date>1632</date>
+</witness>
+
+<witness xml:id="s_f3">
+<siglum>F3</siglum>
+<bibl><hi rend="lscaps">The Third Folio</hi>. <title level="m">M<hi rend="superscript">r</hi>. William Shakespear’s Comedies, Histories, and Tragedies.&hellip; The third Impression</title>.</bibl>
+<date>1663–4</date>
+</witness>
+
+<witness xml:id="s_f4">
+<siglum>F4</siglum>
+<bibl><hi rend="lscaps">The Fourth Folio</hi>. <title level="m">M<hi rend="superscript">r</hi>. William Shakespear’s Comedies, Histories, and Tragedies.&hellip; The Fourth Edition</title>.</bibl>
+<date>1685</date>
+</witness>
+
+<witness xml:id="s_rowe1">
+<siglum rend="smcaps">rowe1</siglum>
+<bibl><name type="app">Nicholas Rowe</name>. <title level="m">Works</title>. 6 vols. 1709. Vol. 1.</bibl>
+<date>1709</date>
+</witness>
+
+<witness xml:id="s_rowe2">
+<siglum rend="smcaps">rowe2</siglum>
+<bibl><name type="app">Nicholas Rowe</name>. <title level="m">Works</title>. 6 vols. 1709. Vol. 1.</bibl>
+<date>1709</date>
+</witness>
+
+<witness xml:id="s_rowe3">
+<siglum rend="smcaps">rowe3</siglum>
+<bibl><name type="app">Nicholas Rowe</name>. <title level="m">Works</title>. 8 vols. 1714. Vol. 1.</bibl>
+<date>1714</date>
+</witness>
+
+<witness xml:id="s_pope1">
+<siglum rend="smcaps">pope1</siglum>
+<bibl><name type="app">Alexander Pope</name>. <title level="m">Works</title>. 6 vols. 1725. Vol. 1.</bibl>
+<date>1725</date>
+</witness>
+
+<witness xml:id="s_pope2">
+<siglum rend="smcaps">pope2</siglum>
+<bibl><name type="app">Alexander Pope</name>. <title level="m">Works</title>. 2nd ed. 8 vols. 1728. Vol. 2.</bibl>
+<date>1728</date>
+</witness>
+
+<witness xml:id="s_theo1">
+<siglum rend="smcaps">theo1</siglum>
+<bibl><name type="app">Lewis Theobald</name>. <title level="m">Works</title>. 7 vols. 1733. Vol. 2.</bibl>
+<date>1733</date>
+</witness>
+
+<witness xml:id="s_theo2">
+<siglum rend="smcaps">theo2</siglum>
+<bibl><name type="app">Lewis Theobald</name>. <title level="m">Works</title>. 2nd ed. 8 vols. 1740. Vol. 3.</bibl>
+<date>1740</date>
+</witness>
+
+<witness xml:id="s_han1">
+<siglum rend="smcaps">han1</siglum>
+<bibl><name type="app">Thomas Hanmer</name>. <title level="m">Works</title>. 6 vols. Oxford, 1743–4. Vol. 1.</bibl>
+<date>1744</date>
+</witness>
+
+<witness xml:id="s_han2">
+<siglum rend="smcaps">han2</siglum>
+<bibl><name type="app">Thomas Hanmer</name>. <title level="m">Works</title>. 2nd ed. 6 vols. Oxford, 1745. Vol. 1.</bibl>
+<date>1745</date>
+</witness>
+
+<witness xml:id="s_warb">
+<siglum rend="smcaps">warb</siglum>
+<bibl><name type="app">William Warburton</name>. <title level="m">Works</title>. 8 vols. 1747. Vol. 3.</bibl>
+<date>1747</date>
+</witness>
+
+<witness xml:id="s_theo4">
+<siglum rend="smcaps">theo4</siglum>
+<bibl><name type="app">Lewis Theobald</name>. <title level="m">Works</title>. 8 vols. 1757. Vol. 3.</bibl>
+<date>1757</date>
+</witness>
+
+<witness xml:id="s_john1">
+<siglum rend="smcaps">john1</siglum>
+<bibl><name type="app">Samuel Johnson</name>. <title level="m">Plays</title>. 8 vols. Printed for J. and R. Tonson, C. Corbet&hellip;, 1765. Vol. 3.</bibl>
+<date>1765</date>
+</witness>
+
+<witness xml:id="s_john2">
+<siglum rend="smcaps">john2</siglum>
+<bibl><name type="app">Samuel Johnson</name>. <title level="m">Plays</title>. 8 vols. Printed for J. and R. Tonson, H. Woodfall&hellip;, 1765. Vol. 3.</bibl>
+<date>1765</date>
+</witness>
+
+<witness xml:id="s_cap">
+<siglum rend="smcaps">cap</siglum>
+<bibl><name type="app">Edward Capell</name>. <title level="m">Comedies, Histories, &amp; Tragedies</title>. 10 vols. 1768. Vol. 2.</bibl>
+<date>1768</date>
+</witness>
+
+<witness xml:id="s_v1773">
+<siglum>v1773</siglum>
+<bibl><name type="app">Samuel Johnson</name> &amp; <name type="app">George Steevens</name>. <title level="m">Plays</title>. 10 vols. 1773. Vol. 2.</bibl>
+<date>1773</date>
+</witness>
+
+<witness xml:id="s_v1778">
+<siglum>v1778</siglum>
+<bibl><name type="app">Samuel Johnson</name> &amp; <name type="app">George Steevens</name>. <title level="m">Plays</title>. 10 vols. 1778. Vol. 2.</bibl>
+<date>1778</date>
+</witness>
+
+<witness xml:id="s_v1785">
+<siglum>v1785</siglum>
+<bibl><name type="app">Samuel Johnson</name>, <name type="app">George Steevens</name>, &amp; <name type="app">Isaac Reed</name>. <title level="m">Plays</title>. 10 vols. 1785. Vol. 2.</bibl>
+<date>1785</date>
+</witness>
+
+<witness xml:id="s_rann">
+<siglum rend="smcaps">rann</siglum>
+<bibl><name type="app">Joseph Rann</name>. <title level="m">Dramatic Works</title>. 6 vols. Oxford, 1786–[94]. Vol. 1.</bibl>
+<date>1786</date>
+</witness>
+
+<witness xml:id="s_mal">
+<siglum rend="smcaps">mal</siglum>
+<bibl><name type="app">Edmond Malone</name>. <title level="m">Plays &amp; Poems</title>. 10 vols. 1790. Vol. 2.</bibl>
+<date>1790</date>
+</witness>
+
+<witness xml:id="s_v1793">
+<siglum>v1793</siglum>
+<bibl><name type="app">George Steevens</name> &amp; <name type="app">Isaac Reed</name>. <title level="m">Plays</title>. 15 vols. 1793. Vol. 7.</bibl>
+<date>1793</date>
+</witness>
+
+<witness xml:id="s_v1803">
+<siglum>v1803</siglum>
+<bibl><name type="app">Isaac Reed</name>. <title level="m">Plays</title>. 21 vols. 1803. Vol. 20.</bibl>
+<date>1803</date>
+</witness>
+
+<witness xml:id="s_v1813">
+<siglum>v1813</siglum>
+<bibl><name type="app">Isaac Reed</name>. <title level="m">Plays</title>. 21 vols. 1813. Vol. 20.</bibl>
+<date>1813</date>
+</witness>
+
+<witness xml:id="s_v1821">
+<siglum>v1821</siglum>
+<bibl><name type="app">James Boswell</name>. <title level="m">Plays &amp; Poems</title>. 21 vols. 1821. Vol. 4.</bibl>
+<date>1821</date>
+</witness>
+
+<witness xml:id="s_sing1">
+<siglum rend="smcaps">sing1</siglum>
+<bibl><name type="app">Samuel W. Singer</name>. <title level="m">Dramatic Works</title>. 10 vols. Chiswick, 1826. Vol. 4.</bibl>
+<date>1826</date>
+</witness>
+
+<witness xml:id="s_knt1">
+<siglum rend="smcaps">knt1</siglum>
+<bibl><name type="app">Charles Knight</name>. <title level="m">Comedies, Histories, Tragedies, &amp; Poems</title>. Pictorial Ed. 55 parts. [1838–43.] Reissued in 8 vols. Part 11 (vol. 1).</bibl>
+<date>1839</date>
+</witness>
+
+<witness xml:id="s_knt2">
+<siglum rend="smcaps">knt2</siglum>
+<bibl><name type="app">Charles Knight</name>. <title level="m">Comedies, Histories, Tragedies, &amp; Poems</title>. 2nd Ed. 12 vols. 1842–4. Vol. 1.</bibl>
+<date>1842</date>
+</witness>
+
+<witness xml:id="s_col1">
+<siglum rend="smcaps">col1</siglum>
+<bibl><name type="app">John Payne Collier</name>. <title level="m">Works</title>. 8 vols. 1842–4. Vol. 2.</bibl>
+<date>1842</date>
+</witness>
+
+<witness xml:id="s_hud1">
+<siglum rend="smcaps">hud1</siglum>
+<bibl><name type="app">Henry N. Hudson</name>. <title level="m">Works</title>. 11 vols. Boston &amp; Cambridge, Mass., 1851–6. Vol. 4.</bibl>
+<date>1852</date>
+</witness>
+
+<witness xml:id="s_col2">
+<siglum rend="smcaps">col2</siglum>
+<bibl><name type="app">John Payne Collier</name>. <title level="m">Plays</title>.</bibl>
+<date>1853</date>
+</witness>
+
+<witness xml:id="s_hal">
+<siglum rend="smcaps">hal</siglum>
+<bibl><name type="app">James O. Halliwell</name>. <title level="m">Works</title>. 16 vols. 1853–65. Vol. 3.</bibl>
+<date>1854</date>
+</witness>
+
+<witness xml:id="s_sing2">
+<siglum rend="smcaps">sing2</siglum>
+<bibl><name type="app">Samuel W. Singer</name>. <title level="m">Dramatic Works</title>. 10 vols. 1856. Vol. 2.</bibl>
+<date>1856</date>
+</witness>
+
+<witness xml:id="s_dyce1">
+<siglum rend="smcaps">dyce1</siglum>
+<bibl><name type="app">Alexander Dyce</name>. <title level="m">Works</title>. 6 vols. 1857. Vol. 1.</bibl>
+<date>1857</date>
+</witness>
+
+<witness xml:id="s_wh1">
+<siglum rend="smcaps">wh1</siglum>
+<bibl><name type="app">Richard Grant White</name>. <title level="m">Works</title>. 12 vols. Boston, 1857–66. Vol. 3.</bibl>
+<date>1857</date>
+</witness>
+
+<witness xml:id="s_stau">
+<siglum rend="smcaps">stau</siglum>
+<bibl><name type="app">Howard Staunton</name>. <title level="m">Plays</title>. 50 parts. 1856–60. Reissued in 3 vols. 1858–60. Parts 3–4 (vol. 1).</bibl>
+<date>1857</date>
+</witness>
+
+<witness xml:id="s_col3">
+<siglum rend="smcaps">col3</siglum>
+<bibl><name type="app">John Payne Collier</name>. <title level="m">Comedies, Histories, Tragedies, &amp; Poems</title>. <quote>The Second Edition.</quote> 6 vols. 1858. Vol. 1.</bibl>
+<date>1858</date>
+</witness>
+
+<witness xml:id="s_del2">
+<siglum rend="smcaps">del2</siglum>
+<bibl><name type="app">Nicolaus Delius</name>. <title level="m">Werke</title>. 7 vols. Elberfeld, 1854–[61]. Vol. 5.</bibl>
+<date>1858</date>
+</witness>
+
+<witness xml:id="s_cam1">
+<siglum rend="smcaps">cam1</siglum>
+<bibl><name type="app">William George Clark</name>, <name type="app">John Glover</name>, &amp; <name type="app">William Aldis Wright</name>. <title level="m">Works</title>. Cambridge Sh. 9 vols. 1863–6. Vol. 1.</bibl>
+<date>1863</date>
+</witness>
+
+<witness xml:id="s_glo">
+<siglum rend="smcaps">glo</siglum>
+<bibl><name type="app">William George Clark</name> &amp; <name type="app">William Aldis Wright</name>. <title level="m">Works</title>. Globe Ed. Cambridge.</bibl>
+<date>1864</date>
+</witness>
+
+<witness xml:id="s_ktly">
+<siglum rend="smcaps">ktly</siglum>
+<bibl><name type="app">Thomas Keightley</name>. <title level="m">Plays</title>. 6 vols. 1864. Vol. 1.</bibl>
+<date>1864</date>
+</witness>
+
+<witness xml:id="s_dyce2">
+<siglum rend="smcaps">dyce2</siglum>
+<bibl><name type="app">Alexander Dyce</name>. <title level="m">Works</title>. 2nd ed. 9 vols. 1864–7. Vol. 2.</bibl>
+<date>1864</date>
+</witness>
+
+<witness xml:id="s_cmc">
+<siglum rend="smcaps">c&amp;mc</siglum>
+<bibl><name type="app">Charles &amp; Mary Cowden Clarke</name>. <title level="m">Plays</title>. Cassell’s Illustrated Sh. 270 parts. 1864–9. Reissued in 3 vols. [1864–9.] Parts 23–7 (vol. 1).</bibl>
+<date>1864</date>
+</witness>
+
+<witness xml:id="s_dyce3">
+<siglum rend="smcaps">dyce3</siglum>
+<bibl><name type="app">Alexander Dyce</name>. <title level="m">Works</title>. 3rd ed. 9 vols. 1875–6. Vol. 1.</bibl>
+<date>1875</date>
+</witness>
+
+<witness xml:id="s_col4">
+<siglum rend="smcaps">col4</siglum>
+<bibl><name type="app">John Payne Collier</name>. <title level="m">Plays &amp; Poems</title>. 8 vols. 1875–8. Vol. 1.</bibl>
+<date>1875</date>
+</witness>
+
+<witness xml:id="s_hud2">
+<siglum rend="smcaps">hud2</siglum>
+<bibl><name type="app">Henry N. Hudson</name>. <title level="m">Works</title>. Harvard Ed. 20 vols. Boston, 1880–1. Vol. 1.</bibl>
+<date>1880</date>
+</witness>
+
+<witness xml:id="s_rlf">
+<siglum rend="smcaps">rlf</siglum>
+<bibl><name type="app">William J. Rolfe</name>. <title level="m">Err.</title> Rolfe’s English Classics. N.Y., 1881.</bibl>
+<date>1881</date>
+</witness>
+
+<witness xml:id="s_wh2">
+<siglum rend="smcaps">wh2</siglum>
+<bibl><name type="app">Richard Grant White</name>. <title level="m">Comedies, Histories, Tragedies, &amp; Poems</title>. Riverside Sh. 3 vols. Boston, 1883. Vol. 1.</bibl>
+<date>1883</date>
+</witness>
+
+<witness xml:id="s_irv">
+<siglum rend="smcaps">irv</siglum>
+<bibl><name type="app">Henry Irving</name> &amp; <name type="app">Frank Marshall</name>. <title level="m">Works</title>. Henry Irving Sh. 8 vols. N.Y., 1888–90. Vol. 1. (<title level="m">Err.</title> ed. Frank Marshall.)</bibl>
+<date>1888</date>
+</witness>
+
+<witness xml:id="s_oxf1">
+<siglum rend="smcaps">oxf1</siglum>
+<bibl><name type="app">William J. Craig</name>. <title level="m">Works</title>. Oxford Sh.</bibl>
+<date>[1891]</date>
+</witness>
+
+<witness xml:id="s_bul">
+<siglum rend="smcaps">bul</siglum>
+<bibl><name type="app">A. H. Bullen</name>. <title level="m">Works</title>. Stratford Town Ed. 10 vols. Stratford-on-Avon. [1904–7.] Vol. 2.</bibl>
+<date>1905</date>
+</witness>
+
+<witness xml:id="s_nlsn">
+<siglum rend="smcaps">nlsn</siglum>
+<bibl><name type="app">William Allan Neilson</name>. <title level="m">Works</title>. Cambridge Ed. Boston &amp; N.Y., 1906.</bibl>
+<date>1906</date>
+</witness>
+
+<witness xml:id="s_ard1a">
+<siglum><hi rend="smcaps">ard</hi>1a</siglum>
+<bibl><name type="app">Henry Cuningham</name>. <title level="m">Err.</title> Arden Sh.</bibl>
+<date>1907</date>
+</witness>
+
+<witness xml:id="s_cam3a">
+<siglum><hi rend="smcaps">cam</hi>3a</siglum>
+<bibl><name type="app">Arthur Quiller-Couch</name> &amp; <name type="app">John Dover Wilson</name>. <title level="m">Err.</title> New [Cambridge] Sh.</bibl>
+<date>1922</date>
+</witness>
+
+<witness xml:id="s_rid">
+<siglum rend="smcaps">rid</siglum>
+<bibl><name type="app">M. R. Ridley</name>. <title level="m">Err.</title> New Temple Sh.</bibl>
+<date>1934</date>
+</witness>
+
+<witness xml:id="s_kit1">
+<siglum rend="smcaps">kit1</siglum>
+<bibl><name type="app">George Lyman Kittredge</name>. <title level="m">Works</title>. Boston.</bibl>
+<date>1936</date>
+</witness>
+
+<witness xml:id="s_alex">
+<siglum rend="smcaps">alex</siglum>
+<bibl><name type="app">Peter Alexander</name>. <title level="m">Works</title>.</bibl>
+<date>1951</date>
+</witness>
+
+<witness xml:id="s_sis">
+<siglum rend="smcaps">sis</siglum>
+<bibl><name type="app">Charles J. Sisson</name>. <title level="m">Works</title>.</bibl>
+<date>1954</date>
+</witness>
+
+<witness xml:id="s_ard2">
+<siglum rend="smcaps">ard2</siglum>
+<bibl><name type="app">R. A. Foakes</name>. <title level="m">Err.</title> New Arden Sh.</bibl>
+<date>1962</date>
+</witness>
+
+<witness xml:id="s_cam3b">
+<siglum><hi rend="smcaps">cam</hi>3b</siglum>
+<bibl><name type="app">John Dover Wilson</name>. <title level="m">Err.</title> New [Cambridge] Sh. (1962 rpt.).</bibl>
+<date>1962</date>
+</witness>
+
+<witness xml:id="s_pel1">
+<siglum rend="smcaps">pel1</siglum>
+<bibl><name type="app">Paul A. Jorgensen</name>. <title level="m">Err.</title> Pelican Sh. Baltimore.</bibl>
+<date>1964</date>
+</witness>
+
+<witness xml:id="s_sig">
+<siglum rend="smcaps">sig</siglum>
+<bibl><name type="app">Harry Levin</name>. <title level="m">Err.</title> Signet Classic Sh. N.Y.</bibl>
+<date>1965</date>
+</witness>
+
+<witness xml:id="s_pen2">
+<siglum rend="smcaps">pen2</siglum>
+<bibl><name type="app">Stanley Wells</name>. <title level="m">Err.</title> New Penguin Sh.</bibl>
+<date>1972</date>
+</witness>
+
+<witness xml:id="s_evns">
+<siglum rend="smcaps">evns</siglum>
+<bibl><name type="app">G. Blakemore Evans et al.</name> <title level="m">Works</title>. Riverside Sh. Boston.</bibl>
+<date>1974</date>
+</witness>
+
+<witness xml:id="s_oxf2">
+<siglum rend="smcaps">oxf2</siglum>
+<bibl><name type="app">Stanley Wells</name> &amp; <name type="app">Gary Taylor</name>. <title level="m">Works</title>. Oxford Sh. (Mod. Sp.)</bibl>
+<date>1986</date>
+</witness>
+
+<witness xml:id="s_oxf3">
+<siglum rend="smcaps">oxf3</siglum>
+<bibl><name type="app">Stanley Wells</name> &amp; <name type="app">Gary Taylor</name> <title level="m">Works</title>. Oxford Sh. (Orig. Sp.)</bibl>
+<date>1986</date>
+</witness>
+
+<witness xml:id="s_ban2">
+<siglum rend="smcaps">ban2</siglum>
+<bibl><name type="app">David Bevington</name>. <title level="m">Works</title>. Bantam Sh. N.Y.</bibl>
+<date>1988</date>
+</witness>
+
+<witness xml:id="s_ard" corresp="#s_ard1 #s_ard2" display="book(suppress)">
+<siglum rend="smcaps">ard</siglum>
+</witness>
+
+<witness xml:id="s_ays" corresp="#s_ays1 #s_ays2" display="book(suppress)">
+<siglum rend="smcaps">ays</siglum>
+</witness>
+
+<witness xml:id="s_bev" corresp="#s_bev3 #s_bev4" display="book(suppress)">
+<siglum rend="smcaps">bev</siglum>
+</witness>
+
+<witness xml:id="s_cam" corresp="#s_cam1 #s_cam3" display="book(suppress)">
+<siglum rend="smcaps">cam</siglum>
+</witness>
+
+<witness xml:id="s_col" corresp="#s_col1 #s_col2 #s_col3 #s_col4" display="book(suppress)">
+<siglum rend="smcaps">col</siglum>
+</witness>
+
+<witness xml:id="s_del" corresp="#s_del2 #s_del4" display="book(suppress)">
+<siglum rend="smcaps">del</siglum>
+</witness>
+
+<witness xml:id="s_dyce" corresp="#s_dyce1 #s_dyce2" display="book(suppress)">
+<siglum rend="smcaps">dyce</siglum>
+</witness>
+
+<witness xml:id="s_ff" corresp="#s_f1 #s_f2 #s_f3 #s_f4" display="book(suppress)">
+<siglum>Ff</siglum>
+</witness>
+
+<witness xml:id="s_han" corresp="#s_han1 #s_han2" display="book(suppress)">
+<siglum rend="smcaps">han</siglum>
+</witness>
+
+<witness xml:id="s_hud" corresp="#s_hud1 #s_hud2" display="book(suppress)">
+<siglum rend="smcaps">hud</siglum>
+</witness>
+
+<witness xml:id="s_john" corresp="#s_john1 #s_john2" display="book(suppress)">
+<siglum rend="smcaps">john</siglum>
+</witness>
+
+<witness xml:id="s_kem" corresp="#s_kem1 #s_kem2" display="book(suppress)">
+<siglum rend="smcaps">kem</siglum>
+</witness>
+
+<witness xml:id="s_knt" corresp="#s_knt1 #s_knt2 #s_knt3" display="book(suppress)">
+<siglum rend="smcaps">knt</siglum>
+</witness>
+
+<witness xml:id="s_oxf" corresp="#s_oxf1 #s_oxf2" display="book(suppress)">
+<siglum rend="smcaps">oxf</siglum>
+</witness>
+
+<witness xml:id="s_pope" corresp="#s_pope1 #s_pope2" display="book(suppress)">
+<siglum rend="smcaps">pope</siglum>
+</witness>
+
+<witness xml:id="s_rowe" corresp="#s_rowe1 #s_rowe2 #s_rowe3" display="book(suppress)">
+<siglum rend="smcaps">rowe</siglum>
+</witness>
+
+<witness xml:id="s_sing" corresp="#s_sing1 #s_sing2" display="book(suppress)">
+<siglum rend="smcaps">sing</siglum>
+</witness>
+
+<witness xml:id="s_theo" corresp="#s_theo1 #s_theo2 #s_theo4" display="book(suppress)">
+<siglum rend="smcaps">theo</siglum>
+</witness>
+
+<witness xml:id="s_wh" corresp="#s_wh1 #s_wh2" display="book(suppress)">
+<siglum rend="smcaps">wh</siglum>
+</witness>
+
+</listWit>
+
+
+<p>The following editions, books, and manuscripts are occasionally quoted in the textual notes (for unusual readings and corrections), commentary, or appendix:</p>
+
+
+<listWit xml:id="listwit_other">
+
+<witness xml:id="s_mdou">
+<siglum>m<hi rend="smcaps">dou</hi></siglum>
+<bibl>Douai MS. 7.87, Bibliothèque de Douai</bibl>
+<date>1694</date>
+</witness>
+
+<witness xml:id="s_mtby1">
+<siglum>m<hi rend="smcaps">tby</hi>1</siglum>
+<bibl><name type="app">Styan Thirlby</name>. MS notes in lost copy of Rowe’s 1709 or 1714 ed.</bibl>
+<date>1709–25</date>
+</witness>
+
+<witness xml:id="s_mtby2">
+<siglum>m<hi rend="smcaps">tby</hi>2</siglum>
+<bibl><name type="app">Styan Thirlby</name>. MS notes in Pope’s 1725 ed. Beinecke Library, Yale.</bibl>
+<date>1725–33</date>
+</witness>
+
+<witness xml:id="s_mtby3">
+<siglum>m<hi rend="smcaps">tby</hi>3</siglum>
+<bibl><name type="app">Styan Thirlby</name>. MS notes in Theobald’s 1733 ed., Copy 2, Folger Library.</bibl>
+<date>1733–47</date>
+</witness>
+
+<witness xml:id="s_mtby4">
+<siglum>m<hi rend="smcaps">tby</hi>4</siglum>
+<bibl><name type="app">Styan Thirlby</name>. MS notes in Warburton’s 1747 ed., Copy 2, Folger Library.</bibl>
+<date>1747–53</date>
+</witness>
+
+<witness xml:id="s_theo3">
+<siglum rend="smcaps">theo3</siglum>
+<bibl><name type="app">Lewis Theobald</name>. <title level="m">Works</title>. 8 vols. 1752. Vol. 3.</bibl>
+<date>1752</date>
+</witness>
+
+<witness xml:id="s_theo5">
+<siglum rend="smcaps">theo5</siglum>
+<bibl><name type="app">Lewis Theobald</name>. <title level="m">Works</title>. 8 vols. 1762. Vol. 3.</bibl>
+<date>1762</date>
+</witness>
+
+<witness xml:id="s_han3">
+<siglum rend="smcaps">han3</siglum>
+<bibl><name type="app">Thomas Hanmer</name>. <title level="m">Works</title>. 6 vols. 1770–1. Vol. 1.</bibl>
+<date>1770</date>
+</witness>
+
+<witness xml:id="s_capn">
+<siglum rend="smcaps">capn</siglum>
+<bibl><name type="app">Edward Capell</name>. <title level="m">Notes and Various Readings to Shakespeare</title>. 3 vols. [1783.] Vol. 1, pt. 1, pub. 1774 but withdrawn.</bibl>
+<date>1783</date>
+</witness>
+
+<witness xml:id="s_del4">
+<siglum rend="smcaps">del4</siglum>
+<bibl><name type="app">Nicolaus Delius</name>. <title level="m">Werke</title>. <quote>Dritte, Revidirte Auflage.</quote> 2 vols. Elberfeld, 1872. Vol. 1.</bibl>
+<date>1872</date>
+</witness>
+
+<witness xml:id="s_cam2">
+<siglum rend="smcaps">cam2</siglum>
+<bibl><name type="app">William Aldis Wright</name>. <title level="m">Works</title>. Cambridge Sh., 2nd ed. 9 vols. 1891–3. Vol. 1.</bibl>
+<date>1891</date>
+</witness>
+
+<witness xml:id="s_ard1b">
+<siglum><hi rend="smcaps">ard</hi>1b</siglum>
+<bibl><name type="app">Henry Cuningham</name>. <title level="m">Err.</title> Arden Sh., rev. ed.</bibl>
+<date>1933</date>
+</witness>
+
+<witness xml:id="s_cam4">
+<siglum rend="smcaps">cam4</siglum>
+<bibl><name type="app">T. S. Dorsch</name>. <title level="m">Err.</title> New Cambridge Sh.</bibl>
+<date>1988</date>
+</witness>
+
+</listWit>
+
+
+
+<p>The following editions are occasionally quoted in the commentary and the appendix only, and hence are not assigned sigla.</p>
+
+
+<listBibl xml:id="bibl_pw_occasional">
+
+<bibl xml:id="pw_ashj1670"><name type="app">Joseph Ashbury</name>. <title level="m">Err.</title> Prompt-book. Dublin, Smock Alley.<date>1670s</date></bibl>
+
+<bibl xml:id="pw_nurs1672"><name type="app">Nursery</name>. <title level="m">Err.</title> Prompt-book. Hatton Garden Nursery, London.<date>ca. 1672</date></bibl>
+
+<bibl xml:id="pw_tons1734"><name type="app">Tonson</name>. <title level="m">Err.</title> Printed for J. Tonson.<date>1734</date></bibl>
+
+<bibl xml:id="pw_genf1774"><name type="app">Francis Gentleman</name>. <title level="m">Plays</title>. Bell’s Ed. 9 vols. [1773–4.] Vol.8.<date>1774</date></bibl>
+
+<bibl xml:id="pw_woow1780"><name type="app">William Woods</name>. <title level="m">The Twins, or Which is Which</title>.<date>1780?</date></bibl>
+
+<bibl xml:id="pw_hult1793"><name type="app">Thomas Hull</name>. <title level="m">Err.</title> As performed at the Theatre-Royal, Covent-Garden. A New Ed.<date>1793</date></bibl>
+
+<bibl xml:id="pw_ince1808"><name type="app">[Elizabeth] Inchbald</name>. <title level="m">Err.</title> British Th.<date>1808</date></bibl>
+
+<bibl xml:id="pw_kemj1811"><name type="app">John Philip Kemble</name>. <title level="m">Err.</title> Prompt-book. (Ed. Charles H. Shattuck. Vol. 1. Charlottesville, 1974.)<date>1811</date></bibl>
+
+<bibl xml:id="pw_reyf1819">[<name type="app">Frederick Reynolds</name>.] <title level="m">Err.</title><date>1819</date></bibl>
+
+<bibl xml:id="pw_dang1827">[<name type="app">George Daniel</name>.] <title level="m">Err.</title> Cumberland’s British Th. 16.<date>1827</date></bibl>
+
+<bibl xml:id="pw_plah1845"><name type="app">Henry &amp; Thomas Placide</name>. <title level="m">Err.</title> Prompt-book. N.Y.<date>1845</date></bibl>
+
+<bibl xml:id="pw_phes1855"><name type="app">Samuel Phelps</name>. <title level="m">Err.</title> Prompt-book.<date>1855</date></bibl>
+
+<bibl xml:id="pw_ellg1864"><name type="app">George Ellis</name>. <title level="m">Err.</title> Prompt-book.<date>1864</date></bibl>
+
+<bibl xml:id="pw_claj1864"><name type="app">John Sleeper Clarke</name>. <title level="m">Err.</title> Prompt-book. N.Y.<date>1864</date></bibl>
+
+<bibl xml:id="pw_herw1870"><name type="app">W. [A. B.] Hertzberg</name>. <title level="m">Dramatische Werke</title>. Tr. A. W. Schlegel &amp; L. Tieck, ed. H. Ulrici. 12 vols. Berlin, 1867–71. Vol. 8.<date>1870</date></bibl>
+
+<bibl xml:id="pw_craw1878"><name type="app">W. H. Crane</name> &amp; <name type="app">Stuart Robson</name>. <title level="m">Err.</title> Prompt-book. N.Y.<date>1878</date></bibl>
+
+<bibl xml:id="pw_herc1899"><name type="app">C. H. Herford</name>. <title level="m">Works</title>. Eversley Ed. 10 vols. 1899. Vol. 1.<date>1899</date></bibl>
+
+<bibl xml:id="pw_porc1903"><name type="app">Charlotte Porter</name> &amp; <name type="app">Helen A. Clarke</name>. <title level="m">Err.</title> First Folio Ed. N.Y.<date>1903</date></bibl>
+
+<bibl xml:id="pw_balt1928"><name type="app">Thomas W. Baldwin</name>. <title level="m">Err.</title> Heath’s American Arden Sh. N.Y.<date>[1928]</date></bibl>
+
+<bibl xml:id="pw_komt1938"><name type="app">Theodore Komisarjevsky</name>. <title level="m">Err.</title> Prompt-book. Stratford-upon-Avon.<date>1938</date></bibl>
+
+<bibl xml:id="pw_crah1951"><name type="app">Harden Craig</name>. <title level="m">Works</title>. Chicago.<date>1951</date></bibl>
+
+<bibl xml:id="pw_wilc1962"><name type="app">Clifford Williams</name>. <title level="m">Err.</title> Prompt-book. Stratford-upon-Avon.<date>1962</date></bibl>
+
+<bibl xml:id="pw_wril1963"><name type="app">Louis B. Wright</name> &amp; <name type="app">Virginia LaMar</name>. <title level="m">Err.</title> Folger Library Sh. N.Y.<date>1963</date></bibl>
+
+<bibl xml:id="pw_kitg1966"><name type="app">George Lyman Kittredge</name> &amp; <name type="app">Irving Ribner</name>. <title level="m">Err.</title> Waltham, Mass.<date>1966</date></bibl>
+
+<bibl xml:id="pw_hara1969"><name type="app">Alfred Harbage</name>. <title level="m">Works</title>. Pelican Text Rev. N.Y.<date>1969</date></bibl>
+
+<bibl xml:id="pw_bars1972"><name type="app">Sylvan Barnet</name>. <title level="m">Works</title>. Signet Sh. N.Y.<date>1972</date></bibl>
+
+<bibl xml:id="pw_bevd1973"><name type="app">David Bevington</name>. <title level="m">Works</title>. Chicago.<date>1973</date></bibl>
+
+<bibl xml:id="pw_nunt1977"><name type="app">Trevor Nunn</name>. <title level="m">Err.</title> Prompt-book.<date>1977</date></bibl>
+
+<bibl xml:id="pw_werp1978"><name type="app">Paul Werstine</name>. <hi rend="lscaps">Werstine</hi> MS: Paul Werstine’s unpublished old-spelling ed. of <title level="m">Err.</title><date>1978</date></bibl>
+
+<bibl xml:id="pw_rosk1982"><name type="app">Kurt Tetzeli von Rosador</name>. <title level="m">Err. / Die Komödie der Irrungen</title>. Englisch-Deutsche Studienausgabe der Dramen Shakespeares. Bern &amp; München.<date>1982</date></bibl>
+
+<bibl xml:id="pw_balt1984"><name type="app">T. W. Baldwin</name>. <hi rend="lscaps">Baldwin</hi> MS: T. W. Baldwin’s draft of the commentary notes for the present ed.<date>1984</date></bibl>
+
+<bibl xml:id="pw_bevd1992"><name type="app">David Bevington et al.</name> <title level="m">Works</title>. <quote>Fourth Edition</quote>. N.Y. Updated &amp; reissued by Longman in 1997.<date>1992</date></bibl>
+
+<bibl xml:id="pw_mowb1996"><name type="app">Barbara Mowat</name> &amp; <name type="app">Paul Werstine</name>. <title level="m">Err.</title> New Folger Library Sh. N.Y.<date>1996</date></bibl>
+
+<bibl xml:id="pw_gres1997"><name type="app">Stephen Greenblatt et al.</name> <title level="m">Works</title>. Norton Sh. N.Y.<date>1997</date></bibl>
+
+</listBibl>
+
+<anchor type="xref" xml:id="anchor_0001-a"/>
+<p>A conjectural emendation is recorded in the textual notes only if an editor subsequently printed such a reading in the text; in these cases the earliest known instance of the conjecture that might have been known to the editor is recorded in the note. When the editor’s emendation differs in minor details of spelling or punctuation from the conjecture as originally proposed, the note records only the editor’s version, since this form was usually imitated by subsequent editors. A few unadopted conjectures of special interest are discussed in the commentary notes; all other unadopted conjectures and all that are merely duplicates of earlier conjectures are listed in the appendix. Manuscript conjectures, including J. P. Collier’s forgeries in the <quote>Perkins</quote> Folio, are ignored unless known to have been adopted or noted by an editor. The alterations of the text in printed acting versions and in prompt-books are discussed in a separate part of the appendix.</p>
+
+<p>The textual notes record substantive or semisubstantive variants from the Variorum text in the editions fully collated—that is, either substitutions, additions, or reorderings of words or passages or else such changes of details of spelling, punctuation, typography, spacing, and lineation as significantly affect meaning or meter.</p>
+
+<p>(1) Verbal variants: Misprints go unnoticed unless they create a word in the English vocabulary or appear to have been taken for a legitimate word by being repeated in one or more of the four Shakespeare Folios. Variant or modernized spellings are ignored; however, in doubtful cases variants possibly of this sort are included if the <title level="m">Oxford English Dictionary</title> gives them a separate listing.</p>
+
+<p>(2) Punctuation: Variant punctuation is recorded only when meaning is affected. Thus the fact that in various editions an independent clause ends with a comma, semicolon, colon, dash, or period is ignored if the meaning of the sentence or speech is unchanged thereby except in minor degrees of pace or emphasis, whereas a change from comma to semicolon that alters meaning is recorded. Similarly, there is no record that an obviously rhetorical question is marked with a period in some texts, but a period that distinguishes between a declarative and an interrogative sentence is recorded.</p>
+
+<p>(3) Lining and meter: Variant lining that affects meter—that is, the relining of verse as prose, of prose as verse, or of verse as different verse—is recorded. The elision or expansion of syllables for metrical purposes or the addition of diacritical marks to locate accent is recorded only if the alteration displaces the accent from one syllable to another or changes the number of metrical feet in a line—that is, if it significantly affects the meter rather than merely makes the metrical pattern more obvious.</p>
+
+<p>Variants in the accessories are recorded somewhat more selectively than those in the text proper.</p>
+
+<p>(1) Added stage directions that describe action clearly implied by the text are ignored, as are directions for insignificant bits of stage business or those intended merely as props to a reader’s imagination. Variants that affect only secondary details of a stage direction are also ignored; in some cases the abbreviation <hi rend="italic">subst.</hi> is employed to indicate substantial agreement among editions despite differences of detail. All differences about who enters or exits, about when he or she does so, or about stage business that affects the interpretation of a speech or scene are recorded.</p>
+
+<p>(2) Only those variant speech prefixes that imply disagreement as to the identity of the speaker are recorded; variants in the form or spelling of the prefix are ignored. Variant scene divisions and numberings are recorded, but not alternative ways of recording these differences. Added and variant indications of locale are recorded, but not the different ways of indicating and particularizing the same place.</p>
+
+<p>A variant reading in the textual notes appears in the form printed in the first edition to adopt that reading; insignificant variations in the spelling, punctuation, typography, spacing, and lineation of the reading in later editions are not recorded. Thus a variant given as <quote>I, <siglum>F3</siglum>&plus;</quote> does not imply that all editions from <siglum>F3</siglum> onwards print <quote>I</quote> in precisely that form: later renderings of the reading may be spelled <quote>Ay</quote> or punctuated <quote>Ay;</quote> or <quote>Ay.</quote>, but as these variations do not affect the meaning they are not recorded. When a variant is only a matter of the punctuation after a word, the word in the lemma is not repeated in the note but is replaced by the lemma sign (&swdash;), and the absence of punctuation in either lemma or variant is indicated by a caret (&caret;). Thus <quote>looke&caret; heere.] &swdash;, &swdash;? <siglum>F2</siglum>&sigrange;<siglum>F4</siglum></quote> indicates that <siglum>F2</siglum>, <siglum>F3</siglum>, and <siglum>F4</siglum> differ significantly from <siglum>F1</siglum> at this point only in adding a comma after <quote>looke</quote> and in substituting a question mark after <quote>heere</quote>.</p>
+
+<p>Four kinds of formulas are used in the textual notes as space-saving devices to avoid listing a long series of sigla for editions that agree on a reading:</p>
+
+<p>(1) When all editions after a certain one agree with that edition, the agreement is shown by a plus sign after its siglum. Thus <quote><siglum rend="smcaps">rowe1</siglum>&plus;</quote> means that all editions fully collated from Rowe’s first edition of 1709 through Bevington’s edition of 1988 agree with Rowe’s text at this point.</p>
+
+<p>(2) The abbreviation <hi rend="italic">etc.</hi> after a siglum for an edition means that all editions fully collated that are not otherwise accounted for in the note agree with that edition. Thus <quote>hers] Ff, <siglum rend="smcaps">kit1</siglum>, <siglum rend="smcaps">ard2</siglum>; theirs <siglum rend="smcaps">rowe1</siglum> <hi rend="italic">etc.</hi></quote> means that every edition but the four Folios and the editions of Kittredge and Foakes agrees with <siglum rend="smcaps">rowe1</siglum>.</p>
+
+<p>(3) The agreement of three or more editions in chronological succession is indicated by a hyphen between the sigla of the first and last edition in the series. Thus <quote><siglum rend="smcaps">pope1</siglum>&sigrange;<siglum rend="smcaps">john1</siglum></quote> indicates the agreement of all fully collated editions from Pope’s first edition to Johnson’s first edition.</p>
+
+<p>(4) The agreement of a <quote>family</quote> of related editions—that is, editions by the same editor or bearing the same name—is indicated by the siglum root for that family. Thus <siglum rend="smcaps">theo</siglum> indicates agreement of all editions by Theobald (<siglum rend="smcaps">theo1</siglum>, <siglum rend="smcaps">theo2</siglum>, etc.) that were fully collated, <siglum rend="smcaps">cam</siglum> the agreement of all <quote>Cambridge</quote> editions fully collated.</p>
+
+<p>A siglum printed in parentheses and with a minus sign after any of the first three of the above kinds of formulae indicates an exceptional edition in the succession whose text agrees with <siglum>F1</siglum> rather than with the variant in question. Thus <quote><siglum rend="smcaps">rowe1</siglum>&plus; (&minus;<siglum rend="smcaps">rid</siglum>, <siglum rend="smcaps">sis</siglum>)</quote> indicates the agreement of all editions from <siglum rend="smcaps">rowe1</siglum> onwards except those of Ridley and Sisson, which agree with <siglum>F1</siglum>.</p>
+
+<p>To facilitate the interpretation of the formulae—for example, to enable the reader to see quickly which fully collated editions are included in such a formula as <siglum rend="smcaps">stau</siglum>&minus;<siglum rend="smcaps">sis</siglum>—a chronological list of sigla is provided on the paste-down papers inside the front and back covers of this edition. An alphabetical list of sigla on the facing pages both identifies the editors and gives the date whereby any siglum may be located in the chronological list.</p><anchor type="xref" xml:id="anchor_0001-b"/>
+
+<p>The Commentary seeks not only to elucidate the text but also at times to trace the history of the criticism to which the word or passage has been subjected. It includes only a selection from all that has been written about this play, and the responsibility for the selection is the editor’s. The critical stance is historical and neutral, although occasionally perceived flaws that damage the critic’s argument are noted.</p>
+
+<p>All words and phrases that the <title level="m">Oxford English Dictionary</title> describes as not in current standard use are defined, and all passages that are annotated by a number of commentators are annotated here. (The dagger and <hi rend="italic">obs.</hi> used by <title level="m">OED</title> to indicate obsolete senses have been omitted.)</p>
+
+<p>All quotations are enclosed in quotation marks (to set them off from paraphrase) and are reproduced as in the source, except that titles of books and plays enclosed in quotation marks are printed in italics. Omissions within quotations are indicated by ellipsis points; when such omissions remove the beginning or end of a sentence but still leave a sentence complete in itself, that remaining sentence is silently given an initial capital letter. Quotations made by commentators have been verified and, where necessary, corrected within square brackets. The commentators’ references to passages in this play by act, scene, and line have been replaced by Through Line Numbers (TLNs) within brackets, and quotations of more than a few words have generally been omitted and replaced by a cross-reference of TLNs in brackets to the appropriate passage in this edition. In references to Shakespeare’s other plays, Riverside act-scene-line numbers are followed by TLNs within parentheses or brackets. Quotations from Shakespeare’s <title level="m">Poems</title> or <title level="m">Sonnets</title> are made to conform to the texts in the New Variorum edition, and those from the plays to the most authoritative Folio or Quarto text; specifically, the following plays are quoted from the best quarto rather than from <siglum>F1</siglum>: <title level="m">Ado</title>, <title level="m">1H4</title>, <title level="m">2H4</title> (&plus;<siglum>F1</siglum>), <title level="m">Ham.</title> (&plus;<siglum>F1</siglum>), <title level="m">LLL</title>, <title level="m">Lr.</title> (&plus;<siglum>F1</siglum>), <title level="m">MND</title>, <title level="m">MV</title>, <title level="m">Oth.</title> (&plus;<siglum>F1</siglum>), <title level="m">Per.</title>, <title level="m">R2</title> (&plus;<siglum>F1</siglum>), <title level="m">Rom.</title>, <title level="m">Tit.</title> (&plus;<siglum>F1</siglum>), <title level="m">TNK</title>, and <title level="m">Tro.</title> All biblical quotations are printed in the language of the Geneva Bible (1560) unless some other version is specified.</p>
+
+<p>The notes printed in the Commentary are as a rule identified only by the commentator’s last name and the date of the article or book; further information is given only when two or more works of the same date are drawn upon. Full identification will be found in the bibliography or in the list of editions consulted that is printed above. Since arabic numerals are used in preference to roman numerals wherever possible, volume-and-page citations appear in the form 39:256 instead of XXXIX, 256. All statements in the Commentary not otherwise assigned and all information within square brackets [ ] are the contribution of the editor. When square brackets appear in the work quoted, they have been changed to pointed brackets &lt; &gt;.</p>
+
+<p>The Commentary quotes from and cites the following standard editions unless a different edition is specified:
+
+<listBibl xml:id="bibl_pw_primarysources">
+
+<bibl xml:id="pw_gasg1957"><name type="app">George Gascoigne</name>. <title level="m">Supposes</title>. In <title level="m">Early Comedies, Poems, <title level="m">Romeo and Juliet</title></title>. Ed. Geoffrey Bullough. N.Y. &amp; London, <date>1957</date>. Vol. 1 of <title level="m">Narrative and Dramatic Sources of Shakespeare</title>.</bibl>
+
+<bibl xml:id="pw_grag1968"><title level="m">Gesta Grayorum</title>. Ed. Desmond Bland. Liverpool, <date>1968</date>.</bibl>
+
+<bibl xml:id="pw_jonb1925"><title level="m">Ben Jonson</title>. Ed. C. H. Herford &amp; Percy &amp; Evelyn Simpson. 11 vols. Oxford, <date>1925–52</date>.</bibl>
+
+<bibl xml:id="pw_lylj1902"><name type="app">John Lyly</name>. <title level="m">The Complete Works</title>. Ed. R. Warwick Bond. 3 vols. Oxford, <date>1902</date>.</bibl>
+
+<bibl xml:id="pw_marc1973"><name type="app">Christopher Marlowe</name>. <title level="m">The Complete Works</title>. Ed. Fredson Bowers. 2 vols. Cambridge, <date>1973</date>.</bibl>
+
+<bibl xml:id="pw_mena1921"><title level="m">Menander: The Principal Fragments</title>. Tr. Francis G. Allinson. Loeb Classical Library. London &amp; Cambridge, Mass., <date>1921</date>.</bibl>
+
+<bibl xml:id="pw_nast1904"><name type="app">Thomas Nashe</name>. <title level="m">Works</title>. Ed. R. B. McKerrow. 5 vols. <date>1904–10</date>.</bibl>
+
+<bibl xml:id="pw_nasp1914"><name type="app">Publius Ovidius Naso</name>. <title level="m"><title level="m">Heroides</title> and <title level="m">Amores</title></title>. Tr. Grant Showerman. Loeb Classical Library. London &amp; Cambridge, Mass., <date>1914</date>.</bibl>
+
+<bibl xml:id="pw_nasp1961"><name type="app" display="book(ldash)">Publius Ovidius Naso</name>. <title level="m">Metamorphoses</title>. Tr. Arthur Golding. 1567. As <title level="m">Shakespeare’s Ovid</title>. Ed. W. H. D. Rouse. N.Y., <date>1961</date>.</bibl>
+
+<bibl xml:id="pw_nasp1931"><name type="app" display="book(ldash)">Publius Ovidius Naso</name>. <title level="m">Ovid’s <title level="m">Fasti</title></title>. With an English Translation by Sir James George Frazer. Loeb Classical Library. London &amp; Cambridge, Mass., <date>1931</date>.</bibl>
+
+<bibl xml:id="pw_peeg1970"><name type="app">George Peele</name>. <title level="m">Araygnement of Paris</title>, ed. R. Mark Benbow. In <title level="m">The Dramatic Works of George Peele</title>. 3 vols. Vol. 3, ed. Benbow, Elmer Blistein &amp; Frank S. Hook. New Haven, <date>1970</date>.</bibl>
+
+<bibl xml:id="pw_plat1829"><name type="app">Titus Maccius Plautus</name>. <title level="m"><title level="m">Amphitruo</title> Supposita</title>. <title level="m">T. Maccii Plauti Comediae ex editione J. F. Gronovii</title>. 5 vols. <date>1829</date>. Vol 1.</bibl>
+
+<bibl xml:id="pw_plat1852"><name type="app" display="book(ldash)">Titus Maccius Plautus</name>. <title level="m">The Comedies of Plautus Literally Translated into English Prose, with Notes</title>. Tr. Henry T. Riley. 2 vols. Bohn’s Classical Library. <date>1852</date>. (Rpt. 1919) Vol. 1.</bibl>
+
+<bibl xml:id="pw_plat1595a"><name type="app" display="book(ldash)">Titus Maccius Plautus</name>. <title level="m">Ex fide, atque auctoritate complurium librorum manuscriptum opera Dionysius Lambini Monstroliensis emendatus</title>. Geneva, <date>1595</date>.</bibl>
+
+<bibl xml:id="pw_plat1595b"><name type="app" display="book(ldash)">Titus Maccius Plautus</name>. <title level="m">Menaechmi. A pleasant and fine Conceited Comædie, taken out of the most excellent wittie Poet <hi rend="clear">Plautus</hi></title>. Tr. William Warner. <date>1595</date>.</bibl>
+
+<bibl xml:id="pw_plat1917"><name type="app" display="book(ldash)">Titus Maccius Plautus</name>. <title level="m">Plautus</title>. Tr. Paul Nixon. 5 vols. Loeb Classical Library. London &amp; Cambridge, Mass., <date>1917</date>.</bibl>
+
+<bibl xml:id="pw_popa1961"><name type="app">Alexander Pope</name>. <title level="m">Poems</title>. 10 vols. Twickenham Ed. Vol. 1, ed. E. Audra &amp; Aubrey Williams. London &amp; New Haven, <date>1961</date>.</bibl>
+
+<bibl xml:id="pw_afep1912"><name type="app">Publius Terentius Afer</name>. <title level="m">Terence</title>. Ed. John Sargeaunt. 2 vols. Loeb Classical Library. London &amp; Cambridge, Mass., <date>1912</date>.</bibl>
+
+<bibl xml:id="pw_marp1930"><name type="app">Publius Virgili Maronis</name>. <title level="m">Virgil</title>. Tr. H. Rushton Fairclough. 2 vols. Loeb Classical Library. London &amp; Cambridge, Mass., <date>1930</date>. (Rev. ed. 1934.) Vol. 1.</bibl>
+
+</listBibl>
+</p>
+
+
+
+<p>In general the style of quotation and citation used in the Commentary is also used in the appendix.</p>
+
+
+<p>The following list of abbreviations and symbols used in this edition does not include some that are in common use or whose full form should be immediately apparent:
+
+<list xml:id="pw_abbrev">
+
+<item>
+<abbr>a</abbr>
+<expan>(in a signature, superscript) left-hand column</expan>
+</item>
+
+<item>
+<abbr>a.</abbr>
+<expan>adjective</expan>
+</item>
+
+<item>
+<abbr>ad.</abbr>
+<expan>(in a textual note) added, additionally</expan>
+</item>
+
+<item>
+<abbr>ad loc.</abbr>
+<expan><foreign xml:lang="la" rend="italic">ad locum</foreign>, referring to this word, line, passage</expan>
+</item>
+
+<item>
+<abbr><title level="m">Ado</title></abbr>
+<expan><title level="m">Much Ado about Nothing</title></expan>
+</item>
+
+<item>
+<abbr>adv.</abbr>
+<expan>adverb</expan>
+</item>
+
+<item>
+<abbr><title level="m">AEB</title></abbr>
+<expan><title level="m">Analytical and Enumerative Bibliography</title></expan>
+</item>
+
+<item>
+<abbr>after</abbr>
+<expan>a conjecture based on, and expanding, someone else’s reading, comment, or conjecture</expan>
+</item>
+
+<item>
+<abbr>Anon., anon.</abbr>
+<expan>Anonymous</expan>
+</item>
+
+<item>
+<abbr><title level="m">Ant.</title></abbr>
+<expan><title level="m">Antony and Cleopatra</title></expan>
+</item>
+
+<item>
+<abbr>ante</abbr>
+<expan>above</expan>
+</item>
+
+<item>
+<abbr>apud</abbr>
+<expan>according to; <hi rend="italic">see</hi> conj. apud</expan>
+</item>
+
+<item>
+<abbr><title level="j">Archiv</title></abbr>
+<expan><title level="j">Archiv für das Studium der Neueren Sprachen und Literaturen</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">AWW</title></abbr>
+<expan><title level="m">All’s Well that Ends Well</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">AYL</title></abbr>
+<expan><title level="m">As You Like It</title></expan>
+</item>
+
+<item>
+<abbr>b</abbr>
+<expan>(in a signature, superscipt) right-hand column</expan>
+</item>
+
+<item>
+<abbr>Bar.</abbr>
+<expan>Baruch</expan>
+</item>
+
+<item>
+<abbr>bk.</abbr>
+<expan>book</expan>
+</item>
+
+<item>
+<abbr>(c)</abbr>
+<expan>(in citing press-variants) corrected</expan>
+</item>
+
+<item>
+<abbr>c.</abbr>
+<expan>chapter; century</expan>
+</item>
+
+<item>
+<abbr>ca.</abbr>
+<expan>circa</expan>
+</item>
+
+<item>
+<abbr><title level="j">CahiersE</title></abbr>
+<expan><title level="j">Cahiers Elizabéthains</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">CE</title></abbr>
+<expan><title level="j">College English</title></expan>
+</item>
+
+<item>
+<abbr>cf.</abbr>
+<expan>compare</expan>
+</item>
+
+<item>
+<abbr>ch.</abbr>
+<expan>chapter</expan>
+</item>
+
+<item>
+<abbr><title level="j">CL</title></abbr>
+<expan><title level="j">Comparative Literature</title></expan>
+</item>
+
+<item>
+<abbr>col(s).</abbr>
+<expan>column(s)</expan>
+</item>
+
+<item>
+<abbr><title level="j">CompD</title></abbr>
+<expan><title level="j">Comparative Drama</title></expan>
+</item>
+
+<item>
+<abbr>conj.</abbr>
+<expan>conjecture; conjunction</expan>
+</item>
+
+<item>
+<abbr>conj. apud</abbr>
+<expan>conjecture recorded in the ed. whose siglum follows</expan>
+</item>
+
+<item>
+<abbr>conj. in</abbr>
+<expan>conjecture published in</expan>
+</item>
+
+<item>
+<abbr><title level="m">Cor.</title></abbr>
+<expan><title level="m">Coriolanus</title></expan>
+</item>
+
+<item>
+<abbr>1 Cor.</abbr>
+<expan>1 Corinthians</expan>
+</item>
+
+<item>
+<abbr>2 Cor.</abbr>
+<expan>2 Corinthians</expan>
+</item>
+
+<item>
+<abbr>cp.</abbr>
+<expan>compare</expan>
+</item>
+
+<item>
+<abbr>CUP</abbr>
+<expan>Cambridge Univ. Pr.</expan>
+</item>
+
+<item>
+<abbr><title level="m">Cym.</title></abbr>
+<expan><title level="m">Cymbeline</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">DA(I)</title></abbr>
+<expan><title level="j">Dissertation Abstracts (International)</title></expan>
+</item>
+
+<item>
+<abbr>degr.</abbr>
+<expan>degraded (to the bottom margin)</expan>
+</item>
+
+<item>
+<abbr>diss.</abbr>
+<expan>dissertation</expan>
+</item>
+
+<item>
+<abbr><title level="m">DNB</title></abbr>
+<expan><title level="m">Dictionary of National Biography</title></expan>
+</item>
+
+<item>
+<abbr>DP</abbr>
+<expan>Dramatis Personæ</expan>
+</item>
+
+<item>
+<abbr><title level="m">EA</title></abbr>
+<expan><title level="j">Études Anglaises</title></expan>
+</item>
+
+<item>
+<abbr>Eccles.</abbr>
+<expan>Ecclesiastes</expan>
+</item>
+
+<item>
+<abbr>ed.</abbr>
+<expan>edited by, edition, editor</expan>
+</item>
+
+<item>
+<abbr>edd., eds.</abbr>
+<expan>editions, editors</expan>
+</item>
+
+<item>
+<abbr>EETS</abbr>
+<expan>Early English Text Society</expan>
+</item>
+
+<item>
+<abbr><title level="j">ELH</title></abbr>
+<expan><title level="j">English Literary History</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">ELN</title></abbr>
+<expan><title level="j">English Language Notes</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">ELR</title></abbr>
+<expan><title level="j">English Literary Renaissance</title></expan>
+</item>
+
+<item>
+<abbr>enl.</abbr>
+<expan>enlarged</expan>
+</item>
+
+<item>
+<abbr>Eph.</abbr>
+<expan>Ephesians</expan>
+</item>
+
+<item>
+<abbr><title level="m">Err.</title></abbr>
+<expan><title level="m">The Comedy of Errors</title></expan>
+</item>
+
+<item>
+<abbr>(errata)</abbr>
+<expan>(in a textual note) reading as corrected in the errata of the work</expan>
+</item>
+
+<item>
+<abbr><title level="j">ES</title></abbr>
+<expan><title level="j">English Studies</title></expan>
+</item>
+
+<item>
+<abbr>et al.</abbr>
+<expan>and others</expan>
+</item>
+
+<item>
+<abbr>etc.</abbr>
+<expan>(in a textual note) and all other fully collated editions</expan>
+</item>
+
+<item>
+<abbr>f(f).</abbr>
+<expan>and following page(s)</expan>
+</item>
+
+<item>
+<abbr>F, F., F1</abbr>
+<expan>First Folio (1623)</expan>
+</item>
+
+<item>
+<abbr>F2</abbr>
+<expan>Second Folio (1632)</expan>
+</item>
+
+<item>
+<abbr>F3</abbr>
+<expan>Third Folio (1663–4)</expan>
+</item>
+
+<item>
+<abbr>F4</abbr>
+<expan>Fourth Folio (1685)</expan>
+</item>
+
+<item>
+<abbr>facs.</abbr>
+<expan>facsimile</expan>
+</item>
+
+<item>
+<abbr>Ff</abbr>
+<expan>F1, F2, F3, and F4</expan>
+</item>
+
+<item>
+<abbr>fig.</abbr>
+<expan>figurative, -ly</expan>
+</item>
+
+<item>
+<abbr>fn.</abbr>
+<expan>footnote</expan>
+</item>
+
+<item>
+<abbr>fo.</abbr>
+<expan>folio</expan>
+</item>
+
+<item>
+<abbr>Folg.</abbr>
+<expan>Folger Library</expan>
+</item>
+
+<item>
+<abbr>fol(s).</abbr>
+<expan>folio(s), leaf (leaves)</expan>
+</item>
+
+<item>
+<abbr><title level="m">F.Q.</title></abbr>
+<expan><title level="m">Faerie Queene</title></expan>
+</item>
+
+<item>
+<abbr>Fr.</abbr>
+<expan>French</expan>
+</item>
+
+<item>
+<abbr>Gen.</abbr>
+<expan>Genesis</expan>
+</item>
+
+<item>
+<abbr><title level="j">Gent. Mag.</title></abbr>
+<expan><title level="j">The Gentleman’s Magazine</title></expan>
+</item>
+
+<item>
+<abbr>Ger.</abbr>
+<expan>German</expan>
+</item>
+
+<item>
+<abbr><title level="m">1H4</title></abbr>
+<expan><title level="m">1 Henry IV</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">2H4</title></abbr>
+<expan><title level="m">2 Henry IV</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">H5</title></abbr>
+<expan><title level="m">Henry V</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">1H6</title></abbr>
+<expan><title level="m">1 Henry VI</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">2H6</title></abbr>
+<expan><title level="m">2 Henry VI</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">3H6</title></abbr>
+<expan><title level="m">3 Henry VI</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">H8</title></abbr>
+<expan><title level="m">Henry VIII</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Ham.</title></abbr>
+<expan><title level="m">Hamlet</title></expan>
+</item>
+
+<item>
+<abbr>Heb.</abbr>
+<expan>Hebrews</expan>
+</item>
+
+<item>
+<abbr>ibid.</abbr>
+<expan><foreign xml:lang="la" rend="italic">ibidem</foreign>, at the same place</expan>
+</item>
+
+<item>
+<abbr>idem</abbr>
+<expan><foreign xml:lang="la" rend="italic">idem</foreign>, the same person</expan>
+</item>
+
+<item>
+<abbr>i.e.</abbr>
+<expan><foreign xml:lang="la" rend="italic">id est</foreign>, that is</expan>
+</item>
+
+<item>
+<abbr>inf.</abbr>
+<expan>infinitive</expan>
+</item>
+
+<item>
+<abbr>intr.</abbr>
+<expan>intransitive</expan>
+</item>
+
+<item>
+<abbr>Isa.</abbr>
+<expan>Isaiah</expan>
+</item>
+
+<item>
+<abbr><title level="m">JC</title></abbr>
+<expan><title level="m">Julius Caesar</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">JEGP</title></abbr>
+<expan><title level="j">Journal of English and Germanic Philology</title></expan>
+</item>
+
+<item>
+<abbr>Jer.</abbr>
+<expan>Jeremiah</expan>
+</item>
+
+<item>
+<abbr><title level="m">Jn.</title></abbr>
+<expan><title level="m">King John</title></expan>
+</item>
+
+<item>
+<abbr>L., l.</abbr>
+<expan><foreign xml:lang="la" rend="italic">liber</foreign>, book</expan>
+</item>
+
+<item>
+<abbr>l(l).</abbr>
+<expan>line(s)</expan>
+</item>
+
+<item>
+<abbr>Lev.</abbr>
+<expan>Leviticus</expan>
+</item>
+
+<item>
+<abbr>lit.</abbr>
+<expan>literal, -ly; literature, literary</expan>
+</item>
+
+<item>
+<abbr><title level="m">LLL</title></abbr>
+<expan><title level="m">Love’s Labour’s Lost</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Lr.</title></abbr>
+<expan><title level="m">King Lear</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Luc.</title></abbr>
+<expan><title level="m">The Rape of Lucrece</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Mac.</title></abbr>
+<expan><title level="m">Macbeth</title></expan>
+</item>
+
+<item>
+<abbr>Matt.</abbr>
+<expan>Matthew</expan>
+</item>
+
+<item>
+<abbr><title level="j">MLN</title></abbr>
+<expan><title level="j">Modern Language Notes</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">MLQ</title></abbr>
+<expan><title level="j">Modern Language Quarterly</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">MLR</title></abbr>
+<expan><title level="j">Modern Language Review</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">MM</title></abbr>
+<expan><title level="m">Measure for Measure</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">MND</title></abbr>
+<expan><title level="m">A Midsummer Night’s Dream</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">MP</title></abbr>
+<expan><title level="j">Modern Philology</title></expan>
+</item>
+
+<item>
+<abbr>M<hi rend="superscript">r</hi></abbr>
+<expan>Master</expan>
+</item>
+
+<item>
+<abbr>MSR</abbr>
+<expan>Malone Soc. Repr.</expan>
+</item>
+
+<item>
+<abbr>MS(S)</abbr>
+<expan>manuscript(s)</expan>
+</item>
+
+<item>
+<abbr><title level="m">MV</title></abbr>
+<expan><title level="m">The Merchant of Venice</title></expan>
+</item>
+
+<item>
+<abbr>n(n).</abbr>
+<expan>note(s)</expan>
+</item>
+
+<item>
+<abbr><title level="j">N&amp;Q</title></abbr>
+<expan><title level="j">Notes and Queries</title></expan>
+</item>
+
+<item>
+<abbr>n.d.</abbr>
+<expan>no date</expan>
+</item>
+
+<item>
+<abbr>NS</abbr>
+<expan>New Series</expan>
+</item>
+
+<item>
+<abbr>Num.</abbr>
+<expan>Numbers</expan>
+</item>
+
+<item>
+<abbr>obs.</abbr>
+<expan>obsolete</expan>
+</item>
+
+<item>
+<abbr><title level="m">OCD</title></abbr>
+<expan><title level="m">Oxford Classical Dictionary</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">ODEP</title></abbr>
+<expan><title level="m">Oxford Dictionary of English Proverbs</title>, rev. ed., 1970</expan>
+</item>
+
+<item>
+<abbr>OE</abbr>
+<expan>Old English</expan>
+</item>
+
+<item>
+<abbr><title level="m">OED</title></abbr>
+<expan><title level="m">Oxford English Dictionary</title>, rev. ed., originally published as <title level="m">A New English Dictionary</title> and abbreviated <title level="m">NED</title></expan>
+</item>
+
+<item>
+<abbr>om.</abbr>
+<expan>omitted</expan>
+</item>
+
+<item>
+<abbr><title level="m">Oth.</title></abbr>
+<expan><title level="m">Othello</title></expan>
+</item>
+
+<item>
+<abbr>OUP</abbr>
+<expan>Oxford Univ. Pr.</expan>
+</item>
+
+<item>
+<abbr><title level="j">PBSA</title></abbr>
+<expan><title level="j">Papers of the Bibliographical Society of America</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Per.</title></abbr>
+<expan><title level="m">Pericles</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">PhT</title></abbr>
+<expan><title level="m">The Phoenix and the Turtle</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">PMLA</title></abbr>
+<expan><title level="j">Publications of the Modern Language Association of America</title></expan>
+</item>
+
+<item>
+<abbr>post</abbr>
+<expan>below</expan>
+</item>
+
+<item>
+<abbr><title level="m">PP</title></abbr>
+<expan><title level="m">The Passionate Pilgrim</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">PQ</title></abbr>
+<expan><title level="j">Philological Quarterly</title></expan>
+</item>
+
+<item>
+<abbr>Pr.</abbr>
+<expan>Prologue</expan>
+</item>
+
+<item>
+<abbr>Prov.</abbr>
+<expan>Proverbs</expan>
+</item>
+
+<item>
+<abbr>Ps.</abbr>
+<expan>Psalms</expan>
+</item>
+
+<item>
+<abbr>pt(s).</abbr>
+<expan>part(s)</expan>
+</item>
+
+<item>
+<abbr>pub.</abbr>
+<expan>public, publication, published</expan>
+</item>
+
+<item>
+<abbr>r</abbr>
+<expan>(in a signature or folio, superscript) recto</expan>
+</item>
+
+<item>
+<abbr><title level="m">R2</title></abbr>
+<expan><title level="m">Richard II</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">R3</title></abbr>
+<expan><title level="m">Richard III</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">RD</title></abbr>
+<expan><title level="j">Renaissance Drama</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">REL</title></abbr>
+<expan><title level="j">Review of English Literature</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">RES</title></abbr>
+<expan><title level="j">Review of English Studies</title></expan>
+</item>
+
+<item>
+<abbr>rev.</abbr>
+<expan>revised</expan>
+</item>
+
+<item>
+<abbr>Rev.</abbr>
+<expan>Revelation</expan>
+</item>
+
+<item>
+<abbr><title level="m">Rev.</title></abbr>
+<expan><title level="m">Review</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Rom.</title></abbr>
+<expan><title level="m">Romeo and Juliet</title></expan>
+</item>
+
+<item>
+<abbr>rpt.</abbr>
+<expan>reprint, -ed</expan>
+</item>
+
+<item>
+<abbr>RSC</abbr>
+<expan>Royal Shakespeare Company</expan>
+</item>
+
+<item>
+<abbr><title level="j">SAB</title></abbr>
+<expan><title level="j">South Atlantic Bulletin</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">SB</title></abbr>
+<expan><title level="j">Studies in Bibliography</title></expan>
+</item>
+
+<item>
+<abbr>sb.</abbr>
+<expan>substantive (i.e., the part of speech); <hi rend="italic">see also</hi> subst.</expan>
+</item>
+
+<item>
+<abbr>Sc.</abbr>
+<expan>Scene</expan>
+</item>
+
+<item>
+<abbr>SD(s)</abbr>
+<expan>stage direction(s)</expan>
+</item>
+
+<item>
+<abbr><title level="j">SEL</title></abbr>
+<expan><title level="j">Studies in English Literature</title></expan>
+</item>
+
+<item>
+<abbr>ser.</abbr>
+<expan>series</expan>
+</item>
+
+<item>
+<abbr>Sh(n).</abbr>
+<expan>Shakespeare(an) (any spelling)</expan>
+</item>
+
+<item>
+<abbr><title level="j">ShAB</title></abbr>
+<expan><title level="j">Shakespeare Association Bulletin</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">ShakS</title></abbr>
+<expan><title level="j">Shakespeare Studies</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Shr.</title></abbr>
+<expan><title level="m">The Taming of the Shrew</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">ShS</title></abbr>
+<expan><title level="j">Shakespeare Survey</title></expan>
+</item>
+
+<item>
+<abbr>sig(s).</abbr>
+<expan>signature(s)</expan>
+</item>
+
+<item>
+<abbr><title level="j">SJ</title></abbr>
+<expan><title level="j">Shakespeare-Jahrbuch</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">SJH</title></abbr>
+<expan><title level="j">Shakespeare-Jahrbuch</title> (Heidelberg)</expan>
+</item>
+
+<item>
+<abbr><title level="j">SJW</title></abbr>
+<expan><title level="j">Shakespeare-Jahrbuch</title> (Weimar)</expan>
+</item>
+
+<item>
+<abbr>Soc.</abbr>
+<expan>Society</expan>
+</item>
+
+<item>
+<abbr><title level="m">Son.</title></abbr>
+<expan><title level="m">The Sonnets</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">SP</title></abbr>
+<expan><title level="j">Studies in Philology</title></expan>
+</item>
+
+<item>
+<abbr>SP(s)</abbr>
+<expan>speech prefix(es)</expan>
+</item>
+
+<item>
+<abbr>sp.</abbr>
+<expan>spelled</expan>
+</item>
+
+<item>
+<abbr>Sp.</abbr>
+<expan>Spanish</expan>
+</item>
+
+<item>
+<abbr><title level="j">SQ</title></abbr>
+<expan><title level="j">Shakespeare Quarterly</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">SR</title></abbr>
+<expan><title level="j">Sewanee Review</title></expan>
+</item>
+
+<item>
+<abbr>st.</abbr>
+<expan>stanza</expan>
+</item>
+
+<item>
+<abbr><title level="m">STC</title></abbr>
+<expan><title level="m">Short-Title Catalogue</title> (by A. W. Pollard &amp; G. R. Redgrave; 2nd ed., rev. &amp; enl. W. A. Jackson, F. S. Ferguson, &amp; K. F. Pantzer, 1976–86)</expan>
+</item>
+
+<item>
+<abbr>Stud.</abbr>
+<expan>Studies</expan>
+</item>
+
+<item>
+<abbr>subst.</abbr>
+<expan>substantially, substantive</expan>
+</item>
+
+<item>
+<abbr>(text)</abbr>
+<expan>(in a textual note) the reading so printed in the text of the edition</expan>
+</item>
+
+<item>
+<abbr><title level="m">TGV</title></abbr>
+<expan><title level="m">The Two Gentlemen of Verona</title></expan>
+</item>
+
+<item>
+<abbr>1 Thess.</abbr>
+<expan>1 Thessalonians</expan>
+</item>
+
+<item>
+<abbr><title level="m">Tim.</title></abbr>
+<expan><title level="m">Timon of Athens</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Tit.</title></abbr>
+<expan><title level="m">Titus Andronicus</title></expan>
+</item>
+
+<item>
+<abbr>TLN</abbr>
+<expan>Through Line Number, numbering</expan>
+</item>
+
+<item>
+<abbr><title level="j">TLS</title></abbr>
+<expan>London <title level="j">Times Literary Supplement</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">Tmp.</title></abbr>
+<expan><title level="m">The Tempest</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">TN</title></abbr>
+<expan><title level="m">Twelfth Night</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">TNK</title></abbr>
+<expan><title level="m">The Two Noble Kinsmen</title></expan>
+</item>
+
+<item>
+<abbr>tr.</abbr>
+<expan>translated by, translation, translator</expan>
+</item>
+
+<item>
+<abbr><title level="m">Tro.</title></abbr>
+<expan><title level="m">Troilus and Cressida</title></expan>
+</item>
+
+<item>
+<abbr><title level="j">TSE</title></abbr>
+<expan><title level="j">Tulane Studies in English</title></expan>
+</item>
+
+<item>
+<abbr>(u)</abbr>
+<expan>(in citing press-variant) uncorrected</expan>
+</item>
+
+<item>
+<abbr>v</abbr>
+<expan>(in a signature or folio, superscript) verso</expan>
+</item>
+
+
+<item>
+<abbr>v.</abbr>
+<expan>verb</expan>
+</item>
+
+<item>
+<abbr>Var.</abbr>
+<expan>Variorum</expan>
+</item>
+
+<item>
+<abbr><title level="m">Ven.</title></abbr>
+<expan><title level="m">Venus and Adonis</title></expan>
+</item>
+
+<item>
+<abbr>ver.</abbr>
+<expan>verse (line)</expan>
+</item>
+
+<item>
+<abbr>vb.</abbr>
+<expan>verb</expan>
+</item>
+
+<item>
+<abbr>vol(s).</abbr>
+<expan>volume(s)</expan>
+</item>
+
+<item>
+<abbr>Wisd.</abbr>
+<expan>Wisdom of Solomon</expan>
+</item>
+
+<item>
+<abbr>withdrawn</abbr>
+<expan>conjecture made and withdrawn by the same author in</expan>
+</item>
+
+<item>
+<abbr><title level="m">Wiv.</title></abbr>
+<expan><title level="m">The Merry Wives of Windsor</title></expan>
+</item>
+
+<item>
+<abbr><title level="m">WT</title></abbr>
+<expan><title level="m">The Winter’s Tale</title></expan>
+</item>
+
+<item>
+<abbr>w<hi rend="superscript">t</hi></abbr>
+<expan>what</expan>
+</item>
+
+<item>
+<abbr>w<hi rend="superscript">th</hi></abbr>
+<expan>with</expan>
+</item>
+
+<item>
+<abbr>y<hi rend="superscript">e</hi></abbr>
+<expan>the</expan>
+</item>
+
+<item>
+<abbr>y<hi rend="superscript">r</hi></abbr>
+<expan>your</expan>
+</item>
+
+<item>
+<abbr>y<hi rend="superscript">t</hi></abbr>
+<expan>that</expan>
+</item>
+
+</list>
+</p>
+
+
+
+<p>Symbols used in the textual notes:
+
+<list xml:id="pw_symbols">
+
+<item>
+<abbr>&caret;</abbr>
+<expan>punctuation missing or omitted</expan>
+</item>
+
+<item>
+<abbr>&swdash;</abbr>
+<expan>verbal form of the lemma unchanged (while punctuation varies)</expan>
+</item>
+
+<item>
+<abbr>&sigrange;</abbr>
+<expan>(between two sigla) all fully collated eds. between and including those indicated by the two sigla</expan>
+</item>
+
+<item>
+<abbr>&plus;</abbr>
+<expan>(after a siglum) and all succeeding fully collated eds.</expan>
+</item>
+
+<item>
+<abbr>(&minus; )</abbr>
+<expan>all sigla following the minus sign within parentheses indicate eds. that agree with the Variorum text (i.e., with <siglum>F1</siglum>).</expan>
+</item>
+
+</list>
+</p>
+
+</div>
+
+
+
+
+<div type="frontispiece" xml:id="div_frontispiece">
+
+<figure xml:id="fig_001">
+    <graphic url="coe_figures/fig1.svg"/>
+	 <head>A Voyage to the Levant</head>
+    <p>From Cornelis de Bruyn’s <title level="m">A Voyage to the Levant</title> (London, 1702). Reproduced by permission of the Folger Shakespeare Library from <ref targType="bibl" target="#pw_mowb1996"><name type="app">Mowat</name> and <name type="app">Werstine</name></ref> (ed. 1996), p. xii. For the spelling Epidamnum, see  n. <ref targType="note_cn" target="#cn_0045-01">45</ref>.</p>
+    <figDesc>Shakespeare’s Map</figDesc>
+</figure>
+
+</div>
+
+
+
+
+<titlePage type="halfTitle">
+<docTitle>
+<titlePart type="main">The Comedy of Errors</titlePart>
+</docTitle>
+</titlePage>
+
+
+</front>
+
+
+
+</container>

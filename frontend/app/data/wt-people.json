@@ -1,0 +1,6130 @@
+[
+    {
+        "data": [
+            {
+                "line": 2, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "name": "Archidamus"
+                    }
+                ]
+            }, 
+            {
+                "line": 47, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 49, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "name": "Mamillius"
+                    }, 
+                    {
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "name": "Camillo"
+                    }
+                ]
+            }, 
+            {
+                "line": 453, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 467, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Polixenes"
+                    }
+                ]
+            }, 
+            {
+                "line": 582, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 4, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 4, 
+                        "name": "Bohemia"
+                    }, 
+                    {
+                        "line": 7, 
+                        "name": "Bohemia"
+                    }, 
+                    {
+                        "line": 7, 
+                        "name": "Sicilia"
+                    }
+                ], 
+                "line": 3, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 9, 
+                        "name": "Sicilia"
+                    }, 
+                    {
+                        "line": 9, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 8, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 11, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "line": 13, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 14, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "line": 20, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 22, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 24, 
+                        "name": "Sicilia"
+                    }, 
+                    {
+                        "line": 24, 
+                        "name": "Bohe\u00ad\n"
+                    }
+                ], 
+                "line": 24, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 37, 
+                        "name": "Mamillius"
+                    }
+                ], 
+                "line": 35, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "line": 39, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 43, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "line": 44, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 46, 
+                "type": "speaker", 
+                "name": "Arch.", 
+                "who_id": "Archidamus"
+            }, 
+            {
+                "line": 50, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 59, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 61, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 67, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 69, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 70, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 71, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 72, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 74, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 83, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 87, 
+                        "name": "Bohemia\u2019s"
+                    }
+                ], 
+                "line": 84, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 90, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 90, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 96, 
+                        "name": "Bohemia"
+                    }, 
+                    {
+                        "line": 99, 
+                        "name": "Leontes"
+                    }
+                ], 
+                "line": 91, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 102, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 103, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 104, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 105, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 116, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 120, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 124, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 128, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 130, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 139, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 141, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 146, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 153, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 154, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 156, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 155, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 158, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 159, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 169, 
+                        "name": "Grace"
+                    }
+                ], 
+                "line": 160, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 172, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 177, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 192, 
+                        "name": "Mamillius"
+                    }
+                ], 
+                "line": 181, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 194, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 195, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 203, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 204, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 223, 
+                        "name": "Sicilia"
+                    }
+                ], 
+                "line": 223, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 224, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 225, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 226, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 227, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 229, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 241, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 242, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 245, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 254, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 252, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 259, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 278, 
+                        "name": "Smile"
+                    }
+                ], 
+                "line": 261, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 290, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 292, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 291, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 293, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 294, 
+                        "name": "Mamillius"
+                    }, 
+                    {
+                        "line": 295, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 294, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 296, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 298, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 299, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 304, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 301, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 306, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 307, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 316, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 315, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 317, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 318, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 319, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 320, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 324, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 322, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 331, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 332, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 340, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 359, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 359, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 371, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 387, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 377, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 390, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 393, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 394, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 396, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 395, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 403, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 405, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 404, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 416, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 423, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 434, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 433, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 440, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 445, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 443, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 449, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 452, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 453, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 456, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 467, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 454, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 470, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 468, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 471, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 472, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 473, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 474, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 482, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 486, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 483, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 491, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 498, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 495, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 506, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 508, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 507, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 516, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 522, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 522, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 523, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 524, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 524, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 525, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 526, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 527, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 531, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 539, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 547, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 548, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 577, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 563, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 580, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }
+        ], 
+        "act": "1"
+    }, 
+    {
+        "data": [
+            {
+                "line": 584, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "name": "Mamillius"
+                    }, 
+                    {
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "name": "Antigonus"
+                    }
+                ]
+            }, 
+            {
+                "line": 818, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 820, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "name": "Emilia"
+                    }
+                ]
+            }, 
+            {
+                "line": 896, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 898, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "name": "Antigonus"
+                    }
+                ]
+            }, 
+            {
+                "line": 928, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Paulina"
+                    }
+                ]
+            }, 
+            {
+                "line": 1058, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1124, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1126, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 1143, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 586, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 588, 
+                "type": "speaker", 
+                "name": "Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 590, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 591, 
+                "type": "speaker", 
+                "name": "Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 592, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 594, 
+                "type": "speaker", 
+                "name": "2. Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 595, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 600, 
+                "type": "speaker", 
+                "name": "2. Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 601, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 603, 
+                "type": "speaker", 
+                "name": "Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 604, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 606, 
+                "type": "speaker", 
+                "name": "Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 611, 
+                "type": "speaker", 
+                "name": "2. Lady.", 
+                "who_id": "Ladies"
+            }, 
+            {
+                "line": 613, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 616, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 617, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 618, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 620, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 623, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 624, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 625, 
+                "type": "speaker", 
+                "name": "Mam.", 
+                "who_id": "Mamillus"
+            }, 
+            {
+                "line": 627, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 628, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 628, 
+                "type": "speaker", 
+                "name": "Leon.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 630, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 643, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 633, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 651, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 654, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 658, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 661, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 659, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 663, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 666, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 681, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 686, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 686, 
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "line": 693, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 685, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 700, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 706, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 712, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 723, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 724, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 733, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 734, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 735, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 738, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 743, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 750, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 751, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 752, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 763, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 768, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 772, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 773, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 777, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 787, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 792, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 801, 
+                        "name": "Delphos"
+                    }, 
+                    {
+                        "line": 801, 
+                        "name": "Appollo\u2019s"
+                    }, 
+                    {
+                        "line": 802, 
+                        "name": "Cleomines"
+                    }, 
+                    {
+                        "line": 802, 
+                        "name": "Dion"
+                    }
+                ], 
+                "line": 790, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 806, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 807, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 817, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 821, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 826, 
+                "type": "speaker", 
+                "name": "Gao.", 
+                "who_id": "Gaoler"
+            }, 
+            {
+                "line": 828, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 830, 
+                "type": "speaker", 
+                "name": "Gao.", 
+                "who_id": "Gaoler"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 834, 
+                        "name": "Emilia"
+                    }
+                ], 
+                "line": 832, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 837, 
+                        "name": "Emilia"
+                    }
+                ], 
+                "line": 835, 
+                "type": "speaker", 
+                "name": "Gao.", 
+                "who_id": "Gaoler"
+            }, 
+            {
+                "line": 838, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 840, 
+                "type": "speaker", 
+                "name": "Gao.", 
+                "who_id": "Gaoler"
+            }, 
+            {
+                "line": 842, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 846, 
+                "type": "speaker", 
+                "name": "Emil.", 
+                "who_id": "Emilia"
+            }, 
+            {
+                "line": 850, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 851, 
+                "type": "speaker", 
+                "name": "Emil.", 
+                "who_id": "Emilia"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 861, 
+                        "name": "Emilia"
+                    }
+                ], 
+                "line": 855, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 869, 
+                "type": "speaker", 
+                "name": "Emil.", 
+                "who_id": "Emilia"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 879, 
+                        "name": "Emilia"
+                    }
+                ], 
+                "line": 879, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 883, 
+                "type": "speaker", 
+                "name": "Emil.", 
+                "who_id": "Emilia"
+            }, 
+            {
+                "line": 885, 
+                "type": "speaker", 
+                "name": "Gao.", 
+                "who_id": "Gaoler"
+            }, 
+            {
+                "line": 888, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 894, 
+                "type": "speaker", 
+                "name": "Gao.", 
+                "who_id": "Gaoler"
+            }, 
+            {
+                "line": 895, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 900, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 909, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 910, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 911, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 924, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 924, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 913, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 929, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 930, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 934, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 935, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 937, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 945, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 946, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 949, 
+                        "name": "Antigonus"
+                    }
+                ], 
+                "line": 948, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 952, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 955, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 956, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 960, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 963, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 970, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 971, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 975, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 976, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 981, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 984, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 992, 
+                        "name": "Partlet"
+                    }
+                ], 
+                "line": 989, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 994, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 998, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 999, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1001, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1002, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1003, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1015, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 1012, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1026, 
+                        "name": "Nature"
+                    }
+                ], 
+                "line": 1018, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1031, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1034, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1037, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1038, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1040, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1041, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1049, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1054, 
+                        "name": "Ioue"
+                    }
+                ], 
+                "line": 1053, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1059, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1071, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1074, 
+                "type": "speaker", 
+                "name": "Lords.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 1076, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1077, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1090, 
+                        "name": "Margerie"
+                    }
+                ], 
+                "line": 1084, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1094, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1099, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1101, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1102, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1116, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1125, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1129, 
+                        "name": "Cleomines"
+                    }, 
+                    {
+                        "line": 1129, 
+                        "name": "Dion"
+                    }
+                ], 
+                "line": 1127, 
+                "type": "speaker", 
+                "name": "Seru.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 1132, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1136, 
+                        "name": "Apollo"
+                    }
+                ], 
+                "line": 1134, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }
+        ], 
+        "act": "2"
+    }, 
+    {
+        "data": [
+            {
+                "line": 1145, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Cleomines"
+                    }, 
+                    {
+                        "name": "Dion"
+                    }
+                ]
+            }, 
+            {
+                "line": 1172, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1174, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "name": "Cleomines"
+                    }, 
+                    {
+                        "name": "Dion"
+                    }
+                ]
+            }, 
+            {
+                "line": 1185, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1435, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1437, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Antigonus"
+                    }
+                ]
+            }, 
+            {
+                "line": 1456, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1500, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1520, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 1577, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1146, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "line": 1149, 
+                "type": "speaker", 
+                "name": "Dion.", 
+                "who_id": "Dion"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1157, 
+                        "name": "Ioues"
+                    }
+                ], 
+                "line": 1155, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "line": 1159, 
+                "type": "speaker", 
+                "name": "Dio.", 
+                "who_id": "Dion"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1163, 
+                        "name": "Apollo"
+                    }, 
+                    {
+                        "line": 1165, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 1163, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1169, 
+                        "name": "Apollo\u2019s"
+                    }
+                ], 
+                "line": 1167, 
+                "type": "speaker", 
+                "name": "Dio.", 
+                "who_id": "Dion"
+            }, 
+            {
+                "line": 1176, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1184, 
+                "type": "speaker", 
+                "name": "Officer.", 
+                "who_id": "Officers"
+            }, 
+            {
+                "line": 1186, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1187, 
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "line": 1187, 
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "line": 1189, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 1190, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 1192, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 1187, 
+                "type": "speaker", 
+                "name": "Officer.", 
+                "who_id": "Officers"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1220, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 1196, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 1229, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1233, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 1235, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1238, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 1251, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 1236, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 1254, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1256, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1261, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 1260, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1295, 
+                        "name": "Apollo"
+                    }
+                ], 
+                "line": 1270, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1298, 
+                        "name": "Apollo\u2019s"
+                    }
+                ], 
+                "line": 1296, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 1299, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1305, 
+                        "name": "Cleomines"
+                    }, 
+                    {
+                        "line": 1305, 
+                        "name": "Dion"
+                    }, 
+                    {
+                        "line": 1308, 
+                        "name": "Apollo\u2019s"
+                    }
+                ], 
+                "line": 1304, 
+                "type": "speaker", 
+                "name": "Officer.", 
+                "who_id": "Officers"
+            }, 
+            {
+                "line": 1311, 
+                "type": "speaker", 
+                "name": "Cleo. Dio.", 
+                "who_id": "Cleomines #Dion"
+            }, 
+            {
+                "line": 1312, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1313, 
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "line": 1313, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 1313, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 1314, 
+                        "name": "Leontes"
+                    }
+                ], 
+                "line": 1313, 
+                "type": "speaker", 
+                "name": "Officer.", 
+                "who_id": "Officers"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1317, 
+                        "name": "Apollo"
+                    }
+                ], 
+                "line": 1317, 
+                "type": "speaker", 
+                "name": "Lords.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 1318, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 1319, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1320, 
+                "type": "speaker", 
+                "name": "Offic.", 
+                "who_id": "Officers"
+            }, 
+            {
+                "line": 1321, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1323, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 1324, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1325, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 1328, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1329, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1330, 
+                        "name": "Apollo\u2019s"
+                    }
+                ], 
+                "line": 1330, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1332, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1338, 
+                        "name": "Apollo"
+                    }, 
+                    {
+                        "line": 1340, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 1341, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 1345, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 1346, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 1347, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 1334, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1358, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1361, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1372, 
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "line": 1375, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 1362, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1390, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 1391, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1403, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 1406, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 1409, 
+                "type": "speaker", 
+                "name": "Pau.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 1424, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1440, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 1439, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1441, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "Mariner"
+            }, 
+            {
+                "line": 1446, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1449, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "Mariner"
+            }, 
+            {
+                "line": 1453, 
+                "type": "speaker", 
+                "name": "Antig.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1455, 
+                "type": "speaker", 
+                "name": "Mar.", 
+                "who_id": "Mariner"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1469, 
+                        "name": "Antigonus"
+                    }, 
+                    {
+                        "line": 1473, 
+                        "name": "Bohemia"
+                    }, 
+                    {
+                        "line": 1475, 
+                        "name": "Perdita"
+                    }, 
+                    {
+                        "line": 1478, 
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "line": 1484, 
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "line": 1485, 
+                        "name": "Apollo"
+                    }, 
+                    {
+                        "line": 1486, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 1457, 
+                "type": "speaker", 
+                "name": "Ant.", 
+                "who_id": "Antigonus"
+            }, 
+            {
+                "line": 1501, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1521, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1522, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1525, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1529, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1538, 
+                        "name": "Antigonus"
+                    }
+                ], 
+                "line": 1530, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1544, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1545, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1548, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1550, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1552, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1559, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1562, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1567, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1571, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 1574, 
+                "type": "speaker", 
+                "name": "Clowne.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1576, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }
+        ], 
+        "act": "3"
+    }, 
+    {
+        "data": [
+            {
+                "line": 1579, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 1611, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1613, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "name": "Camillo"
+                    }
+                ]
+            }, 
+            {
+                "line": 1666, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1668, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Autolicus"
+                    }
+                ]
+            }, 
+            {
+                "line": 1700, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 1785, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1794, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 1796, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "name": "Perdita"
+                    }, 
+                    {
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "name": "Ca\u00ad\n"
+                    }, 
+                    {
+                        "name": "Mopsa"
+                    }, 
+                    {
+                        "name": "Dorcas"
+                    }, 
+                    {
+                        "name": "Autolicus"
+                    }
+                ]
+            }, 
+            {
+                "line": 1988, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2005, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 2043, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Autolicus"
+                    }
+                ]
+            }, 
+            {
+                "line": 2144, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2164, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2285, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2309, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2471, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Autolicus"
+                    }
+                ]
+            }, 
+            {
+                "line": 2552, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2566, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 2723, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1596, 
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "line": 1601, 
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "line": 1603, 
+                        "name": "Perdita"
+                    }
+                ], 
+                "line": 1580, 
+                "type": "speaker", 
+                "name": "Time.", 
+                "who_id": "Time"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1614, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 1614, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1617, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1623, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 1638, 
+                        "name": "Florizell"
+                    }
+                ], 
+                "line": 1623, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1642, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1647, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 1647, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1654, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 1657, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1665, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1666, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 1666, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1681, 
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "line": 1692, 
+                        "name": "Autolicus"
+                    }
+                ], 
+                "line": 1668, 
+                "type": "speaker", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1701, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1704, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1705, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1718, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1719, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1720, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1722, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1724, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1727, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1729, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1732, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1733, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1734, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1738, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1739, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1740, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1742, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1743, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1745, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1747, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1752, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1754, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1759, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1768, 
+                        "name": "Autolicus"
+                    }
+                ], 
+                "line": 1762, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1769, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1771, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1773, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 1773, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1776, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1778, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1779, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1782, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1783, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 1784, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1786, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1799, 
+                        "name": "Flora"
+                    }
+                ], 
+                "line": 1798, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1803, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1813, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1816, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1825, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1837, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1843, 
+                        "name": "Perdita"
+                    }
+                ], 
+                "line": 1843, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1855, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1857, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1860, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1879, 
+                        "name": "Dorcas"
+                    }
+                ], 
+                "line": 1876, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1884, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1887, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1894, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1896, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1899, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1909, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1910, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1912, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1922, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1930, 
+                        "name": "Proserpina"
+                    }, 
+                    {
+                        "line": 1932, 
+                        "name": "Dysses"
+                    }, 
+                    {
+                        "line": 1935, 
+                        "name": "Iuno\u2019s"
+                    }, 
+                    {
+                        "line": 1936, 
+                        "name": "Cytherea\u2019s"
+                    }
+                ], 
+                "line": 1924, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1944, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1945, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1951, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1963, 
+                        "name": "Doricles"
+                    }, 
+                    {
+                        "line": 1967, 
+                        "name": "Doricles"
+                    }
+                ], 
+                "line": 1963, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1972, 
+                        "name": "Perdita"
+                    }
+                ], 
+                "line": 1969, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 1974, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 1975, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 1979, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 1982, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1983, 
+                        "name": "Mopsa"
+                    }
+                ], 
+                "line": 1983, 
+                "type": "speaker", 
+                "name": "Dorcas.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 1985, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 1986, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 1990, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 1992, 
+                        "name": "Doricles"
+                    }
+                ], 
+                "line": 1992, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2001, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2003, 
+                        "name": "Doricles"
+                    }
+                ], 
+                "line": 2002, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2006, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2012, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2016, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2026, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2027, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2030, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 2029, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2036, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2038, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2040, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2042, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2044, 
+                "type": "speaker", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2056, 
+                        "name": "Mopsa"
+                    }
+                ], 
+                "line": 2056, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2059, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2061, 
+                "type": "speaker", 
+                "name": "Dor.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2063, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2066, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2072, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2074, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2076, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2078, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2079, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2081, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2082, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2084, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2088, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2089, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2090, 
+                "type": "speaker", 
+                "name": "Dor.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2091, 
+                        "name": "Tale-\n"
+                    }
+                ], 
+                "line": 2091, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2094, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2095, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2097, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2104, 
+                "type": "speaker", 
+                "name": "Dor.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2105, 
+                "type": "speaker", 
+                "name": "Autol.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2107, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2108, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2109, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2110, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2113, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2115, 
+                "type": "speaker", 
+                "name": "Dor.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2116, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2119, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2120, 
+                "type": "speaker", 
+                "name": "Dor.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2121, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2122, 
+                "type": "speaker", 
+                "name": "Dor.", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2123, 
+                "type": "speaker", 
+                "name": "Mop.", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2125, 
+                "type": "speaker", 
+                "name": "Dor:", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2126, 
+                "type": "speaker", 
+                "name": "Mop:", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2127, 
+                "type": "speaker", 
+                "name": "Dor:", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2128, 
+                "type": "speaker", 
+                "name": "Aut:", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2129, 
+                "type": "speaker", 
+                "name": "Dor:", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2130, 
+                "type": "speaker", 
+                "name": "Aut:", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2131, 
+                "type": "speaker", 
+                "name": "Dor:", 
+                "who_id": "Dorcas"
+            }, 
+            {
+                "line": 2132, 
+                "type": "speaker", 
+                "name": "Mop:", 
+                "who_id": "Mopsa"
+            }, 
+            {
+                "line": 2134, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2138, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2145, 
+                "type": "speaker", 
+                "name": "Seruant.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2153, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2156, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2158, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2161, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2163, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2165, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2179, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2189, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2194, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2195, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2196, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2205, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2206, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2207, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2209, 
+                "type": "speaker", 
+                "name": "Per.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2213, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2217, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2222, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2224, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2226, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2227, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2228, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2229, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2238, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2241, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2248, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2252, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2253, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2254, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2255, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2256, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2258, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2260, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2268, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2275, 
+                        "name": "Deucalion"
+                    }
+                ], 
+                "line": 2269, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 2286, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2296, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2298, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2310, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2315, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2323, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2322, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2324, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2325, 
+                "type": "speaker", 
+                "name": "Per.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2328, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2334, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2335, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2339, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2341, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 2342, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 2340, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2359, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2362, 
+                        "name": "Perdita"
+                    }
+                ], 
+                "line": 2362, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2364, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2371, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2371, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2374, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2377, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2381, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2395, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2395, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2399, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2401, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2410, 
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "line": 2413, 
+                        "name": "Leontes"
+                    }
+                ], 
+                "line": 2406, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2420, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2420, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2423, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2432, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2434, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2445, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2448, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2451, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2451, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2454, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2457, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2459, 
+                        "name": "Perdita"
+                    }, 
+                    {
+                        "line": 2460, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 2463, 
+                        "name": "Bohemia\u2019s"
+                    }, 
+                    {
+                        "line": 2464, 
+                        "name": "Sicilia"
+                    }
+                ], 
+                "line": 2459, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2465, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2472, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2496, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2498, 
+                        "name": "Leontes"
+                    }
+                ], 
+                "line": 2498, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2499, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2500, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2502, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2505, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2506, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2509, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2510, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2516, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2518, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2520, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2521, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2522, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2524, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2533, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2535, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2537, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2539, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2541, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2542, 
+                        "name": "Perdita"
+                    }
+                ], 
+                "line": 2542, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2548, 
+                        "name": "Sicilia"
+                    }
+                ], 
+                "line": 2544, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2551, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2550, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2552, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 2553, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2570, 
+                "type": "speaker", 
+                "name": "Clowne.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2573, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2574, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2575, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2576, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2582, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2586, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2589, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2590, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2592, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2594, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2595, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2598, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2599, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2603, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2604, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2609, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2611, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2618, 
+                        "name": "Cap-a-pe"
+                    }
+                ], 
+                "line": 2612, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2621, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2622, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2623, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2624, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2626, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2627, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2630, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2631, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2633, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2636, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2638, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2642, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2643, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2644, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2648, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2650, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2653, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2654, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2663, 
+                "type": "speaker", 
+                "name": "Clo.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2665, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2681, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2687, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2691, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2692, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 2693, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2695, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2697, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2699, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2705, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 2708, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 2710, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2712, 
+                        "name": "Fortune"
+                    }
+                ], 
+                "line": 2712, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }
+        ], 
+        "act": "4"
+    }, 
+    {
+        "data": [
+            {
+                "line": 2725, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "name": "Cleomines"
+                    }, 
+                    {
+                        "name": "Dion"
+                    }, 
+                    {
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "name": "Florizel"
+                    }, 
+                    {
+                        "name": "Perdita"
+                    }
+                ]
+            }, 
+            {
+                "line": 2830, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 2868, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2878, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "name": "Perdita"
+                    }, 
+                    {
+                        "name": "Cleomines"
+                    }
+                ]
+            }, 
+            {
+                "line": 2940, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 3008, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 3010, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Autolicus"
+                    }
+                ]
+            }, 
+            {
+                "line": 3029, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 3035, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 3120, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 3131, 
+                "type": "stage_enter", 
+                "people": []
+            }, 
+            {
+                "line": 3182, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 3184, 
+                "type": "stage_enter", 
+                "people": [
+                    {
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "name": "Polixenes"
+                    }, 
+                    {
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "name": "Perdita"
+                    }, 
+                    {
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "name": "Hermione"
+                    }
+                ]
+            }, 
+            {
+                "line": 3369, 
+                "type": "stage_exit", 
+                "people": []
+            }, 
+            {
+                "line": 2727, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "line": 2733, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2740, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2745, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2750, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "line": 2754, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2756, 
+                "type": "speaker", 
+                "name": "Dio.", 
+                "who_id": "Dion"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2770, 
+                        "name": "Apollo"
+                    }, 
+                    {
+                        "line": 2772, 
+                        "name": "Leontes"
+                    }, 
+                    {
+                        "line": 2775, 
+                        "name": "Antigonus"
+                    }, 
+                    {
+                        "line": 2780, 
+                        "name": "Alexander"
+                    }
+                ], 
+                "line": 2767, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2783, 
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "line": 2784, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 2783, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2789, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2791, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2797, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2799, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2801, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2809, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 2807, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2810, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2812, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 2812, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2813, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2814, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2816, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 2815, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2818, 
+                "type": "speaker", 
+                "name": "Cleo.", 
+                "who_id": "Cleomines"
+            }, 
+            {
+                "line": 2819, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2825, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 2825, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2827, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2831, 
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "line": 2832, 
+                        "name": "Polixenes"
+                    }
+                ], 
+                "line": 2831, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2835, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2840, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2842, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2843, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2845, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 2845, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2854, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "line": 2861, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 2862, 
+                "type": "speaker", 
+                "name": "Ser.", 
+                "who_id": "Servants"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2865, 
+                        "name": "Cleomines"
+                    }
+                ], 
+                "line": 2865, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2869, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2878, 
+                        "name": "Florizell"
+                    }, 
+                    {
+                        "line": 2878, 
+                        "name": "Perdita"
+                    }, 
+                    {
+                        "line": 2878, 
+                        "name": "Cleomines"
+                    }
+                ], 
+                "line": 2873, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2895, 
+                        "name": "Sicilia"
+                    }
+                ], 
+                "line": 2894, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2911, 
+                        "name": "Neptune"
+                    }
+                ], 
+                "line": 2904, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2915, 
+                        "name": "Libia"
+                    }
+                ], 
+                "line": 2914, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2916, 
+                        "name": "Smalus"
+                    }
+                ], 
+                "line": 2916, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2924, 
+                        "name": "Sicilian"
+                    }, 
+                    {
+                        "line": 2925, 
+                        "name": "Bohemia"
+                    }, 
+                    {
+                        "line": 2926, 
+                        "name": "Libia"
+                    }
+                ], 
+                "line": 2918, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2929, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2944, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 2941, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2949, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 2949, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2950, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2958, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2958, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2961, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2963, 
+                        "name": "Camillo"
+                    }
+                ], 
+                "line": 2963, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2964, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 2968, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 2964, 
+                "type": "speaker", 
+                "name": "Lord.", 
+                "who_id": "Lords"
+            }, 
+            {
+                "line": 2970, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 2973, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2974, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2977, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2979, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2981, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 2988, 
+                        "name": "Fortune"
+                    }
+                ], 
+                "line": 2987, 
+                "type": "speaker", 
+                "name": "Flo.", 
+                "who_id": "Florizell"
+            }, 
+            {
+                "line": 2995, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 2997, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3001, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3011, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 3013, 
+                "type": "speaker", 
+                "name": "Gent.1.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3018, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3020, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 3031, 
+                        "name": "Rogero"
+                    }
+                ], 
+                "line": 3019, 
+                "type": "speaker", 
+                "name": "Gent.1.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3036, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3032, 
+                "type": "speaker", 
+                "name": "Gent.2.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3043, 
+                        "name": "Hermiones"
+                    }, 
+                    {
+                        "line": 3044, 
+                        "name": "Antigonus"
+                    }
+                ], 
+                "line": 3040, 
+                "type": "speaker", 
+                "name": "Gent.3.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3051, 
+                "type": "speaker", 
+                "name": "Gent.2.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3062, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 3052, 
+                "type": "speaker", 
+                "name": "Gent.3.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3068, 
+                        "name": "Antigonus"
+                    }
+                ], 
+                "line": 3068, 
+                "type": "speaker", 
+                "name": "Gent.2.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3075, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3070, 
+                "type": "speaker", 
+                "name": "Gent.3.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3076, 
+                "type": "speaker", 
+                "name": "Gent.1.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3082, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3078, 
+                "type": "speaker", 
+                "name": "Gent.3.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3088, 
+                "type": "speaker", 
+                "name": "Gent.1.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3090, 
+                "type": "speaker", 
+                "name": "Gent.3.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3101, 
+                "type": "speaker", 
+                "name": "Gent.1.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3103, 
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "line": 3105, 
+                        "name": "Iulio Romano"
+                    }, 
+                    {
+                        "line": 3108, 
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "line": 3108, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 3102, 
+                "type": "speaker", 
+                "name": "Gent.3.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3114, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 3112, 
+                "type": "speaker", 
+                "name": "Gent.2.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3117, 
+                "type": "speaker", 
+                "name": "Gent.1.", 
+                "who_id": "Gentlemen"
+            }, 
+            {
+                "line": 3121, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 3135, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 3137, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3144, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 3145, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3146, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 3147, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3154, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 3155, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3157, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 3160, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 3162, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3163, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3165, 
+                        "name": "Bohemia"
+                    }
+                ], 
+                "line": 3164, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3166, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 3167, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3169, 
+                "type": "speaker", 
+                "name": "Shep.", 
+                "who_id": "OldShepheard"
+            }, 
+            {
+                "line": 3170, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "line": 3177, 
+                "type": "speaker", 
+                "name": "Aut.", 
+                "who_id": "Autolicus"
+            }, 
+            {
+                "line": 3178, 
+                "type": "speaker", 
+                "name": "Clow.", 
+                "who_id": "Clowne"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3186, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3186, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3188, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3195, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3195, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3202, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3214, 
+                        "name": "Hermione"
+                    }, 
+                    {
+                        "line": 3216, 
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "line": 3217, 
+                        "name": "Hermione"
+                    }
+                ], 
+                "line": 3212, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3219, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 3220, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3223, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3234, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 3239, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3242, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 3247, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 3251, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3255, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3256, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3258, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3263, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 3265, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3267, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3270, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3270, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3274, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3276, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3276, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3282, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3286, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3287, 
+                "type": "speaker", 
+                "name": "Perd.", 
+                "who_id": "Perdita"
+            }, 
+            {
+                "line": 3289, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3296, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3300, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3304, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3306, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "line": 3318, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }, 
+            {
+                "line": 3321, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "line": 3322, 
+                "type": "speaker", 
+                "name": "Cam.", 
+                "who_id": "Camillo"
+            }, 
+            {
+                "line": 3324, 
+                "type": "speaker", 
+                "name": "Pol.", 
+                "who_id": "Polixenes"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3332, 
+                        "name": "Perdita"
+                    }
+                ], 
+                "line": 3326, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3338, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3333, 
+                "type": "speaker", 
+                "name": "Her.", 
+                "who_id": "Hermione"
+            }, 
+            {
+                "line": 3341, 
+                "type": "speaker", 
+                "name": "Paul.", 
+                "who_id": "Paulina"
+            }, 
+            {
+                "mentions": [
+                    {
+                        "line": 3349, 
+                        "name": "Paulina"
+                    }, 
+                    {
+                        "line": 3357, 
+                        "name": "Camillo"
+                    }, 
+                    {
+                        "line": 3365, 
+                        "name": "Paulina"
+                    }
+                ], 
+                "line": 3349, 
+                "type": "speaker", 
+                "name": "Leo.", 
+                "who_id": "Leontes"
+            }
+        ], 
+        "act": "5"
+    }
+]

@@ -1,0 +1,118 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+/* Space out content a bit */
+body {
+  padding: 0;
+  font-family: 'Roboto', helvetica, arial, sans-serif;
+  color: #222;
+}
+
+
+h1, h2, h3, h4, h5, h6{font-family: 'Roboto Slab', serif; text-align: center;}
+
+img, video, object{width: 100%; max-width: 100%;}
+
+#top-wrapper{background: #111; position: fixed; height: 50px; top: 0; width: 100%; z-index: 1000;}
+  #top-wrapper h2{font-size: 1.125em; padding: 1em 0; margin: 0; font-family: 'Roboto', helvetica, arial, sans-serif;}
+    #top-wrapper h2 a{color: #fff;}
+
+#header-wrapper{background: #222; color: #fff; margin-top: 50px;}
+#page-header{text-align: center; padding: 1em 0 4em;}
+  #page-header h1{font-size: 4em; font-weight: 200; margin-top: 1em;}
+    #page-header h1 a{ color: #fff;}
+  #page-header p{color: #fff;
+    a{text-decoration: underline; color: #fff;}
+  }
+    
+
+      #banner h2{text-align: left;}
+      #social{float: right; padding-top: 1em;}
+      #social  li{display: inline-block; }
+      #social .twitter-share-button[style] { vertical-align: text-bottom !important; }
+      
+      #blurb{padding: 2em 0;}
+
+.vis-wrap{margin-top: 1em; margin-bottom: 3em;}
+  figcaption{font-size: .9em; color: #666; padding: .5em 0;}
+  .vis-wrap h2, .vis-wrap h3{text-align: center; padding-bottom: .5em;}
+  .vis-wrap header{text-align: center;}
+
+
+.vis-title{font-size: 2em; fill: #333;}
+.vis-sub-title{font-size: 1.25em; fill: #666;}
+text.vis-label{fill: #aaa; font-size: 13px;}
+
+#speaker-list{
+  .well{padding: 10px;  margin-top: 2em;
+
+    @media all and (min-width: @screen-md-min){ 
+      margin-top: 10em;
+    }
+  }
+
+  .form-horizontal{ margin-left: 5px;
+    .checkbox{min-height: 20px; padding-top: 0; }
+
+    @media all and (min-width: @screen-sm-min){ 
+      -webkit-columns: 300px 2; -moz-columns: 300px 2; columns: 300px 2; 
+    }
+  }
+
+  label{font-size: .75em;
+    input[type="checkbox"]{margin-bottom: 1px;}
+  }
+}
+
+ul#speaker-chart-selection{font-size: .8em;}
+
+circle.outerCircle{fill: none; stroke: #777; stroke-dasharray: 1,4;}
+
+.tick text{padding-left: 10px;}
+  .tick path, .tick line { shape-rendering: crispEdges; stroke: #eee; stroke-width: 1;}
+
+.column-label{font-size: 12px; font-family: helvetica, arial, sans-serif; fill: #222;
+  &.scene{fill: #999;}
+}
+
+.bar{ stroke: #fff; stroke-width: 1;}
+
+.d3-tip {line-height: 1; font-weight: bold; padding: 12px; background: rgba(0, 0, 0, 0.8); color: #fff; border-radius: 2px; pointer-events: none; }
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {box-sizing: border-box; display: inline; font-size: 10px; width: 100%; line-height: 1; color: rgba(0, 0, 0, 0.8); position: absolute; pointer-events: none; }
+/* Northward tooltips */
+.d3-tip.n:after {content: "\25BC"; margin: -1px 0 0 0; top: 100%; left: 0; text-align: center; }
+/* Eastward tooltips */
+.d3-tip.e:after {content: "\25C0"; margin: -4px 0 0 0; top: 50%; left: -8px; }
+/* Southward tooltips */
+.d3-tip.s:after {content: "\25B2"; margin: 0 0 1px 0; top: -8px; left: 0; text-align: center; }
+/* Westward tooltips */
+.d3-tip.w:after {content: "\25B6"; margin: -4px 0 0 -1px; top: 50%; left: 100%; }
+
+
+
+circle.scatter-dot{ stroke: steelblue; fill: steelblue; opacity: .6; shape-rendering: crispEdges}
+.axis path, .axis line { fill: none; stroke: #dbdbdb;  shape-rendering: crispEdges;}
+
+.axis text { font-family: sans-serif; font-size: 11px;}
+div.tooltip { position: absolute; min-width: 120px; /* min-height: 40px; */ padding: 1em 1em 1em .5em; font: 12px sans-serif; background: #fefefe; border: 1px solid #dbdbdb; border-radius: 1px; pointer-events: none; color: #000;}
+.leaflet-popup.bnbPopup{border-radius: 2px;}
+.leaflet-popup.bnbPopup .leaflet-popup-content-wrapper{border-radius: 2px;}
+  .leaflet-popup-content-wrapper h4{margin-bottom: 10px;}
+  .leaflet-popup-content-wrapper h5{margin-bottom: 5px;}
+  .bnbPopup .leaflet-popup-content p{margin: 10px 0;}
+  .bnbPopup .leaflet-popup-content hr{margin: 10px 0;} 
+
+.vis-outer-wrap{background-color: #fff; padding: 2em 0;}
+.text-outer-wrap{background-color: #efefef; padding: 2em 0;}
+
+#props-type-wrapper header{text-align: center;}
+
+#method-wrapper{background: #efefef; padding: 4em 0;}
+#footer-wrapper{background: #dbdbdb; padding: 3em 0 2em; font-size: .9em;}
+  #credit{text-align: right; padding-top: 3em;}
+#galway-wrapper{background-color: #222; color: #fff; padding: 1em 0;}

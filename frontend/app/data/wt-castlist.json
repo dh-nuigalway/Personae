@@ -1,0 +1,114 @@
+[
+    {
+        "id": "Leontes", 
+        "name": "Leontes"
+    }, 
+    {
+        "id": "Mamillus", 
+        "name": "Mamillus"
+    }, 
+    {
+        "id": "Camillo", 
+        "name": "Camillo"
+    }, 
+    {
+        "id": "Antigonus", 
+        "name": "Antigonus"
+    }, 
+    {
+        "id": "Cleomines", 
+        "name": "Cleomines"
+    }, 
+    {
+        "id": "Dion", 
+        "name": "Dion"
+    }, 
+    {
+        "id": "Hermione", 
+        "name": "Hermione"
+    }, 
+    {
+        "id": "Perdita", 
+        "name": "Perdita"
+    }, 
+    {
+        "id": "Paulina", 
+        "name": "Paulina"
+    }, 
+    {
+        "id": "Emilia", 
+        "name": "Emilia"
+    }, 
+    {
+        "id": "Polixenes", 
+        "name": "Polixenes"
+    }, 
+    {
+        "id": "Florizell", 
+        "name": "Florizell"
+    }, 
+    {
+        "id": "OldShepheard", 
+        "name": "Old Shepheard"
+    }, 
+    {
+        "id": "Clowne", 
+        "name": "Clowne"
+    }, 
+    {
+        "id": "Autolicus", 
+        "name": "Autolicus"
+    }, 
+    {
+        "id": "Time", 
+        "name": "Time"
+    }, 
+    {
+        "id": "Archidamus", 
+        "name": "Archidamus"
+    }, 
+    {
+        "id": "Mariner", 
+        "name": "Mariner"
+    }, 
+    {
+        "id": "Gaoler", 
+        "name": "Gaoler"
+    }, 
+    {
+        "id": "Lords", 
+        "name": "Other Lords"
+    }, 
+    {
+        "id": "Ladies", 
+        "name": "Ladies"
+    }, 
+    {
+        "id": "Gentlemen", 
+        "name": "Gentlemen"
+    }, 
+    {
+        "id": "Officers", 
+        "name": "Officers"
+    }, 
+    {
+        "id": "Servants", 
+        "name": "Seruants"
+    }, 
+    {
+        "id": "Shepheards", 
+        "name": "Shepheards"
+    }, 
+    {
+        "id": "Mopsa", 
+        "name": "Mopsa"
+    }, 
+    {
+        "id": "Dorcas", 
+        "name": "Dorcas"
+    }, 
+    {
+        "id": "Shepheardesses", 
+        "name": "Shephearddesses"
+    }
+]
