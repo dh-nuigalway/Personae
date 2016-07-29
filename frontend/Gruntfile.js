@@ -113,7 +113,7 @@ module.exports = function(grunt) {
             '{,*/}*.html',
             'styles/fonts/{,*/}*.*',
             'data/*.*',
-            'js/tip.js'
+            'js/tip-non-es6.js'
           ]
         }
         ]
